@@ -2,6 +2,16 @@
 
 This repo holds the essay *The Totalitarian Self* as plain-text documents. The plan is in `planning/SPEC.md`; its §11–14 have live copies elsewhere (see `README.md`), and those copies are the ones to update.
 
+## Sources (the core of the project)
+
+The thesis is unproven; the job is to test it against primary texts, not to confirm it.
+
+- Every claim lives in `planning/claims.md` with an ID (e.g. C4.9).
+- **Quote only from a file in `sources/texts/` or a copy in hand, never from memory.** Give the location.
+- Tag each passage in `sources/primary/` to claims as **for**, **against** or **complicates**. Look for "against" as hard as "for".
+- Never edit `sources/texts/`; corrections go in `sources/primary/`.
+- Conventions: `sources/README.md`.
+
 ## Logic gates (how to ask for decisions)
 
 When a path forward needs my decision, don't write one long answer with a big decision at the end.

@@ -17,3 +17,12 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-22 | SPEC.md | A: keep it whole; copy §12–14 (and §11) into their own files, which are now the live copies | Keeps the original intact as a reference |
 | 2026-10-22 | Objections | A: one dedicated section, `essay/07-objections.md` | Manifesto Part I model: state the diagnosis whole, then defend it |
 | 2026-10-22 | Build script | A: not yet; add a small Python script once 2–3 sections are drafted | Nothing to combine yet |
+| 2026-10-22 | §4 length | Paused, not decided: build the sources first | Thesis is unproven; test it against primary texts before drafting |
+| 2026-10-22 | Testing method | A: a claims register (`planning/claims.md`); every passage tagged to claims as for / against / complicates | Turns "prove the thesis" into a checklist; tests rather than confirms |
+| 2026-10-22 | Source files | A: one file per primary work in `sources/primary/` | Matches how philosophy is cited |
+| 2026-10-22 | Full texts | A: full public-domain texts in `sources/texts/`; excerpts with page numbers for copyrighted works | Lets us search whole works, including for counter-evidence |
+| 2026-10-22 | Where to start | A: claims register, then §4 texts (Luther, Calvin, Descartes, Locke) | Register says what to look for; §4 is all public domain |
+| 2026-10-22 | C4.4 status | challenged | calvin-institutes.01: Calvin says assurance of election is found in Christ, not in ourselves |
+| 2026-10-22 | C4.9 status | supported | locke-essay.02, locke-essay.03 |
+| 2026-10-22 | C4.10 status | supported | locke-essay.01 |
+| 2026-10-22 | C4.11 status | challenged | locke-essay.05: "white paper," not *tabula rasa*; the claim is about ideas, not inherited nature |
