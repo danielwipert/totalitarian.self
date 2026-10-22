@@ -7,3 +7,5 @@ This repository holds the essay and its planning material as plain-text document
 ## Layout
 
 - `planning/SPEC.md` — the specification: thesis, terms, argument structure, sources, open questions.
+- `planning/logic-gates.md` — how decisions are made (small A/B/C gates).
+- `CLAUDE.md` — working rules Claude reads at the start of each session.
