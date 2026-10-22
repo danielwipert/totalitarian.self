@@ -236,6 +236,8 @@ True, and they are allies in the lineage (§13). But a philosophical dissolution
 
 ## 11. Deferred (out of scope for this document)
 
+> **Live copy:** `deferred/cures.md`. Update that file; this section is a snapshot as of 2026-10-22.
+
 Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 
 - **The cure.** Any remedy for the Totalitarian Self.
@@ -248,6 +250,8 @@ Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 ---
 
 ## 12. Decision log
+
+> **Live copy:** `planning/decisions.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 | Date | Gate | Decision | Why |
 |---|---|---|---|
@@ -263,6 +267,8 @@ Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 ---
 
 ## 13. Sources and lineage
+
+> **Live copy:** `sources/bibliography.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 Tagged by the role each plays in the argument. Open-ended — add freely. Full citations to be added as sources are pulled.
 
@@ -310,6 +316,8 @@ Tagged by the role each plays in the argument. Open-ended — add freely. Full c
 ---
 
 ## 14. Open questions (to resolve before drafting the affected section)
+
+> **Live copy:** `planning/open-questions.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 1. **The line test (§10.2).** What is the one question a reader can ask themselves to tell lens from source?
 2. **The fundamentalist carrier (§9.1 / §10.3).** Keep with the "projected Self" argument, or drop?

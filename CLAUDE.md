@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-This repo holds the essay *The Totalitarian Self* as plain-text documents. The plan is in `planning/SPEC.md`.
+This repo holds the essay *The Totalitarian Self* as plain-text documents. The plan is in `planning/SPEC.md`; its §11–14 have live copies elsewhere (see `README.md`), and those copies are the ones to update.
 
 ## Logic gates (how to ask for decisions)
 
@@ -13,6 +13,6 @@ When a path forward needs my decision, don't write one long answer with a big de
 - When there are several gates, show the path first (numbered list, current gate marked).
 - After I pick, lock it in with one line, then move to the next gate.
 - I may tweak an option ("A, but ..."); restate it and move on.
-- When the gates are done, record the decisions in the project's decision log (`planning/SPEC.md` §12 for now).
+- When the gates are done, record the decisions in the project's decision log (`planning/decisions.md`).
 
 Full method: `planning/logic-gates.md`.
