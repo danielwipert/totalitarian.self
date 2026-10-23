@@ -169,18 +169,18 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C6.1 | America did not cause the Totalitarian Self; it supplied the conditions for it. | conceptual | — | untested |
-| C6.2 | The feudal, guild, parish and estate structures that checked the Self in Europe were absent or thin in America. | historical | Tocqueville; Hartz, *The Liberal Tradition in America* | untested |
-| C6.3 | The frontier made self-reliance a survival requirement, not an ideology. | historical | Turner, "The Significance of the Frontier" | untested |
-| C6.4 | The Protestant inheritance arrived dominant, without a Catholic or communal counter-tradition of comparable weight. | historical | Tocqueville; Winthrop, "A Model of Christian Charity" | untested |
-| C6.5 | The economic conditions behind the Self were America's founding conditions, not a later development. | historical | Weber; Tocqueville | untested |
+| C6.1 | America did not cause the Totalitarian Self; it supplied the conditions for it. | conceptual | — | challenged |
+| C6.2 | The feudal, guild, parish and estate structures that checked the Self in Europe were absent or thin in America. | historical | Tocqueville; Hartz, *The Liberal Tradition in America* | challenged |
+| C6.3 | The frontier made self-reliance a survival requirement, not an ideology. | historical | Turner, "The Significance of the Frontier" | challenged |
+| C6.4 | The Protestant inheritance arrived dominant, without a Catholic or communal counter-tradition of comparable weight. | historical | Tocqueville; Winthrop, "A Model of Christian Charity" | challenged |
+| C6.5 | The economic conditions behind the Self were America's founding conditions, not a later development. | historical | Weber; Tocqueville | challenged |
 | C6.6 | The philosophy of the Self helped America become a world empire faster than any in history. | historical | comparative history | untested |
-| C6.7 | That success validated the concept and removed any incentive to check it. | historical | — | untested |
+| C6.7 | That success validated the concept and removed any incentive to check it. | historical | — | challenged |
 | C6.8 | The philosophy of the Self became dogmatic and mutated; the Reagan era intensified this but did not start it. | historical | open question 3 | untested |
 | C6.9 | As received in America, "Self-Reliance" was cut down to its nonconformist half and the Over-Soul dropped, as the cogito lost the union (C4.7). | reception | anthologies, school readers, popular and commercial uses of Emerson | challenged |
-| C6.10 | Tocqueville diagnoses "individualism" as a danger born of democracy: a calm feeling that leads each person to withdraw from the mass into a small circle, and finally into himself. He names its American counterweights (associations, religion, local self-government, self-interest rightly understood). | textual | Tocqueville, *Democracy in America* vol. 2 | untested |
-| C6.11 | Crèvecoeur's American is a new man made by leaving behind inherited prejudices, ranks and manners: the person remade by the new country, an early statement of C6.2. | textual | Crèvecoeur, *Letters from an American Farmer*, Letter III | untested |
-| C6.12 | Thoreau lives out self-reliance as a deliberate withdrawal from society's demands, bounded by nature and conscience rather than by community. | textual | Thoreau, *Walden*; "Civil Disobedience" | untested |
+| C6.10 | Tocqueville diagnoses "individualism" as a danger born of democracy: a calm feeling that leads each person to withdraw from the mass into a small circle, and finally into himself. He names its American counterweights (associations, religion, local self-government, self-interest rightly understood). | textual | Tocqueville, *Democracy in America* vol. 2 | supported |
+| C6.11 | Crèvecoeur's American is a new man made by leaving behind inherited prejudices, ranks and manners: the person remade by the new country, an early statement of C6.2. | textual | Crèvecoeur, *Letters from an American Farmer*, Letter III | supported |
+| C6.12 | Thoreau lives out self-reliance as a deliberate withdrawal from society's demands, bounded by nature and conscience rather than by community. | textual | Thoreau, *Walden*; "Civil Disobedience" | challenged |
 
 **Pressure points**
 

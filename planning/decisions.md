@@ -88,3 +88,14 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | §4c claims and thesis | A: C4.21–C4.31 rewritten on the two-roots pattern; C1.1 widened: "two necessary acknowledgments, that each person stands answerable on their own and that each can shape and present themselves" | The thesis should name both roots |
 | 2026-10-23 | §8 and its history | A: new C8.7 (every age dresses conformity in its highest value word; supported); C8.2 rewritten: self-expression is the latest disguise word, belonging the new motive | Turns the pressure on §8's originality into its argument |
 | 2026-10-23 | Next gap | A: §6, America as host; texts Tocqueville, Turner, Winthrop, plus Crèvecoeur and Thoreau; new claims C6.10–C6.12 | Almost untested, central to the thesis, all public domain |
+| 2026-10-23 | §6 deep read | Tocqueville (2 vols), Turner, Winthrop, Crèvecoeur, Thoreau; 111 passages; both checkers clean for these files | Gate: §6 next |
+| 2026-10-23 | C6.1 status | challenged | tocqueville2.12, .13: America is Tocqueville's case of democracy's individualism "subdued"; tocqueville1.20, .21 |
+| 2026-10-23 | C6.2 status | challenged | Inherited orders absent (tocqueville1.10, .11; crevecoeur.01), but replaced by voluntary, local checks: covenant, township, association, religion (winthrop.01–.10; tocqueville1.05–.07, .12; tocqueville2.14) |
+| 2026-10-23 | C6.3 status | challenged | turner.11: the pioneer "brought the conception with him"; frontier life depended on association and federal land policy (turner.03, .09, .16) |
+| 2026-10-23 | C6.4 status | challenged | The communal counter-tradition existed and was Protestant and covenantal (winthrop.01–.10); eroding in the middle colonies by the 1770s (crevecoeur.08–.10) |
+| 2026-10-23 | C6.5 status | challenged | Gain dominant by the 1830s (tocqueville1.10, .14, .18) but not at New England's founding (tocqueville1.04; winthrop.07, .10) |
+| 2026-10-23 | C6.7 status | challenged | After 1890 farmers turned to regulation; corporations kept the pioneer vocabulary (turner.09, .10, .12, .13, .15) |
+| 2026-10-23 | C6.10 status | supported | tocqueville2.09, .10, .12–.15; correction: the definition stops at the "little circle"; solitude is where it ends |
+| 2026-10-23 | C6.11 status | supported | crevecoeur.03–.07: remade by law, land and labour, not self-made ("men are nothing of themselves") |
+| 2026-10-23 | C6.12 status | challenged | thoreau-walden.07, .11; thoreau-civil.04, .05: withdraws from institutions and opinion, not from neighbourly duty; bounded by God and "higher laws" |
+| 2026-10-23 | §8 pressure | noted | tocqueville2.24 (1840): "to live at variance with the multitude is, as it were, not to live": belonging is already the motive; tocqueville1.16: the majority says "You are free to think differently" |
