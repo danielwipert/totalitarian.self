@@ -153,13 +153,26 @@ This reverses the rival story. For Rousseau, the force that separates the person
 
 Belief beyond the civil minimum becomes private (C4.30's separation, at the institutional level). But the minimum is enforced by banishment and death, and the offence is being "an anti-social being." Religion is privatized above a floor of compulsory social faith.
 
+### rousseau-contract.15 · IV.7 — "the choice of whose pleasures is [...] decided by opinion"
+
+- **Claims:** C8.2 (complicates), C8.4 (complicates)
+- **Location:** Book IV ch. 7 ¶¶1, 3; `texts/rousseau-social-contract.txt` lines 6018–6035
+- **Checked:** text file (outside the brief's chapters; tagged because it bears on §8)
+
+> As the law is the declaration of the general will, the censorship is the declaration of the public judgment: public opinion is the form of law which the censor administers, and, like the prince, only applies to particular cases.
+
+> It is useless to distinguish the morality of a nation from the objects of its esteem; both depend on the same principle and are necessarily indistinguishable. There is no people on earth the choice of whose pleasures is not decided by opinion rather than nature. Right men's opinions, and their morality will purge itself. [...] He who judges of morality judges of honour; and he who judges of honour finds his law in opinion.
+
+Choices of pleasure that feel like one's own are made by opinion, and Rousseau wants the state to steer that opinion. This is §8's mechanism as a deliberate policy (compare Bernays, C8.2), with no self-expression idiom, and with the engine run by the community rather than the self.
+
 ## To do
 
 - [x] Book I chs. 1, 6–8: verify "Man is born free"; read the total alienation and moral liberty. (.01–.07)
 - [x] Book II chs. 1–4, 7: the general will and the legislator. (.08–.12)
 - [x] Book IV ch. 8, civil religion. (.13, .14)
+- [x] Look for the separated individual as for, against or complicating C4.31. (For: .01–.03; against: .04, .05, .07, .14; complicates: .06, .08–.11. Prior by nature, absorbed by design.)
 - [ ] Read Book II ch. 1 ¶1 (lines 2393–2400, "The common element in these different interests is what forms the social tie") and decide whether to tag it for C4.31 alongside .09.
-- [ ] Read Book II ch. 12 (lines 3407–3460) on the four kinds of law, especially "morality, custom, and above all [...] public opinion" (verify the wording); it bears on C8.4 and on Rousseau's view of opinion.
-- [ ] Read Book III ch. 15 (lines 4850–4985) on representation ("the English people [...] free only during the election of members of parliament": verify) for the citizen's active self.
-- [ ] Compare .10 with *Emile* I, "natural man is entirely for himself" (verify in rousseau-emile.md) and with rousseau-inequality.* on natural man: does the *Social Contract* reverse the *Discourse*'s valuation (C4.18)?
+- [ ] Read Book II ch. 12 (lines 3407–3460) on the fourth kind of law, "morality, of custom, above all of public opinion" (lines 3447–3448), which "the great legislator concerns himself in secret" with; tag for C8.4 with .15.
+- [ ] Read Book III ch. 15 (lines 4850–4985) on representation (England "is free only during the election of members of parliament", lines 4902–4904) for the citizen's active self.
+- [ ] Compare .10 with *Emile* I on natural man as a whole unto himself (find the passage in rousseau-emile.md) and with rousseau-inequality.* on natural man: does the *Social Contract* reverse the *Discourse*'s valuation (C4.18)?
 - [ ] Compare .04 with Locke, *Second Treatise* §§95–99, 131 (reserved rights), when the Locke file is read for C4.31.
