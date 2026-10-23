@@ -58,7 +58,7 @@ These stand or fall with the section claims beneath them.
 | C4.9 | Locke founds personal identity on consciousness (memory), not on the substance of soul or body. | textual | Locke, *Essay* II.xxvii | supported |
 | C4.10 | For Locke, "person" is a forensic term: the unit to which actions, merit, guilt and punishment are attributed. | textual | Locke, *Essay* II.xxvii.26 | supported |
 | C4.11 | Locke's denial of innate principles makes the Self's beliefs and principles a product of experience and education rather than inheritance, though he keeps innate appetites and temperament. The blank page frees the mind from inborn authority but exposes it to custom. | textual | Locke, *Essay* I; II.i | revised |
-| C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | untested |
+| C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | challenged |
 | C4.13 | At each of these moments the Self's ancestors acknowledged something true against orders that denied it (each person's equal standing before God and their own answerability), which only later became an acknowledgment of individual difference. | conceptual | all §4 sources; the classical inner court (Cicero, Seneca, via Montaigne); later sources for the shift to difference | revised |
 | C4.14 | The core moves came quickly (1517 → 1694, date to verify), perhaps faster than the concept could be integrated. "Unusually fast" stands only if a comparison backs it. | historical | Locke's 2nd edition; comparison with other intellectual shifts | revised |
 
@@ -117,11 +117,11 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C5.9 | After Emerson, difference is cut from its shared frame: the Self is valued as unique and as its own ground, answerable to nothing beyond itself. | historical + textual | all §5b sources | untested |
-| C5.10 | Stirner is the first to make the unique Self its own sole ground ("All things are nothing to me"), dropping God, Man and society as frames. | textual | Stirner, *The Ego and His Own* | untested |
-| C5.11 | Whitman's American Self expands to contain everyone ("every atom belonging to me as good belongs to you"): difference and democracy merge, and the frame becomes the Self itself. | textual | Whitman, "Song of Myself" | untested |
-| C5.12 | Wilde makes "Be thyself" the message of Christ: self-realization replaces salvation as the end of life. | textual | Wilde, "The Soul of Man under Socialism" | untested |
-| C5.13 | Nietzsche makes each person's uniqueness a task ("become what you are," to verify) and drops God as its frame, but keeps an order of rank. | textual | Nietzsche, "Schopenhauer as Educator"; *Gay Science*; *Zarathustra*; *Beyond Good and Evil* | untested |
+| C5.9 | After Emerson, difference is cut from its shared frame: the Self is valued as unique and as its own ground, answerable to nothing beyond itself. | historical + textual | all §5b sources | challenged |
+| C5.10 | Stirner is the first to make the unique Self its own sole ground ("All things are nothing to me"), dropping God, Man and society as frames. | textual | Stirner, *The Ego and His Own* | challenged |
+| C5.11 | Whitman's American Self expands to contain everyone ("every atom belonging to me as good belongs to you"): difference and democracy merge, and the frame becomes the Self itself. | textual | Whitman, "Song of Myself" | challenged |
+| C5.12 | Wilde makes "Be thyself" the message of Christ: self-realization replaces salvation as the end of life. | textual | Wilde, "The Soul of Man under Socialism" | supported |
+| C5.13 | Nietzsche makes each person's uniqueness a task ("become what you are," to verify) and drops God as its frame, but keeps an order of rank. | textual | Nietzsche, "Schopenhauer as Educator"; *Gay Science*; *Zarathustra*; *Beyond Good and Evil* | supported |
 
 **Pressure points**
 
@@ -159,7 +159,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | revised |
+| C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | supported |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
 | C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | untested |

@@ -48,3 +48,11 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | Bridge conclusion | A: difference arrived bounded by commonality; singularity is the mutation (§5), not an inheritance | Fits all 92 bridge passages; matches SPEC §5's relational vs. absolute table |
 | 2026-10-23 | Bridge claims | A: C4.15–C4.20 rewritten, each naming its frame; C4.17 combines both readings (source inward, court outward) | Each author stays testable |
 | 2026-10-23 | New claims | A: C6.9 (Emerson as received), C7.10 (suspicion); C8.2, C8.4 reworded to distinguish §8 from Mill (station) and Rousseau (distinction); Cicero and Seneca added to C4.8, C4.13 | Each came from the texts; protects §8's originality |
+| 2026-10-23 | Frame-loss deep read | Stirner, Whitman, Wilde, Nietzsche (singularity; guilt) read in depth; 96 passages, all quotes exact; library now 273 passages | Open question 9 |
+| 2026-10-23 | C5.9 status | challenged | The frame comes off in layers: answerability dropped (Whitman, wilde-soul.04; whitman-song.07), the common frame dropped (Stirner, stirner-ego.01, .10; Nietzsche, nietzsche-sing.06), but no text makes the Self its own origin. Nietzsche names *causa sui* and rejects it as the wish of "the half-educated" (nietzsche-sing.20) |
+| 2026-10-23 | C5.10 status | challenged | stirner-ego.02, .05, .16, .17: every frame dropped, but the unique one is a "creative nothing," not a source |
+| 2026-10-23 | C5.11 status | challenged | whitman-song.01, .08, .10, .11: the Self shares "on the same terms"; "I contain multitudes" answers a charge of self-contradiction |
+| 2026-10-23 | C5.12 status | supported | wilde-soul.01, .03, .04, .05: socialism only the means; still relational (.02, .13) |
+| 2026-10-23 | C5.13 status | supported | nietzsche-sing.06, .07, .13 (God dropped), .04, .23, .24 (rank kept) |
+| 2026-10-23 | C4.12 status | challenged | nietzsche-guilt.16 (free will invented to trace guilt) but .04, .05 (guilt as debt is older) and Nietzsche never names Locke: the Locke link is ours |
+| 2026-10-23 | C7.1 status | supported in structure | nietzsche-guilt.10, .12, .14: guilt moralized into the conscience becomes inexpiable; God the creditor who pays was its relief; the conscience outlives God |
