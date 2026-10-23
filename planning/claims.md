@@ -104,7 +104,7 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 | C5.4 | A specialized vocabulary, used long enough in isolation, feeds on itself until it nearly negates other vocabularies (Burke's feedback loop). | textual | Burke, *Language as Symbolic Action*; *Permanence and Change* | untested |
 | C5.5 | The language of Selfhood (authenticity, expression, responsibility, reliance) has run this loop for centuries in the West, and more intensely in America. | historical + empirical | word-frequency data; Taylor; Trilling, *Sincerity and Authenticity* | untested |
 | C5.6 | The metaphysical shift: difference goes from relational to absolute, and the Self from *in* experience to *prior to* it. | conceptual | — | untested |
-| C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | untested |
+| C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | supported |
 | C5.8 | Identifying the Self with a separate Mind lets it imagine itself prior to and independent of the material world. In Descartes this priority is bounded by dependence on God; the Totalitarian Self keeps the priority and drops the dependence. | conceptual + textual | Descartes; Heidegger, *Being and Time* | revised |
 
 **Pressure points**
@@ -124,7 +124,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C5.11 | Whitman's American Self is Emerson's Over-Soul made democratic and bodily: a common self shared "on the same terms" with everyone. It drops answerability and ranks itself above God, but keeps relation; when it swells into containment ("it becomes mine"), the poem itself calls it "a usual mistake." | textual | Whitman, "Song of Myself" | revised |
 | C5.12 | Wilde makes "Be thyself" the message of Christ, with socialism only the means: the Self answers to no law, judge or duty. But it stays relational (it loves others "because they will be different") and is set inside a law of nature, Evolution. | textual | Wilde, "The Soul of Man under Socialism" | revised |
 | C5.13 | Nietzsche makes uniqueness a task ("become what thou art") and drops God and the common good as its frame, replacing them with an order of rank, the higher type, the body and the earth. He attacks the "I" and *causa sui* as fictions: he cuts difference from the common, not from relation, and rejects self-origination. | textual | Nietzsche, *Gay Science*, *Zarathustra*, *Beyond Good and Evil*, "Schopenhauer as Educator" | revised |
-| C5.14 | The self-originating Self, prior to its world and answerable to nothing, is a cultural event, not a philosophical one: it appears first in popular literature (self-help, mind-cure, advertising) and becomes general in the 20th century. | historical + textual | Smiles, *Self-Help*; New Thought (Trine); James, *Varieties* (mind-cure); Coué; Bernays, *Propaganda*; later: Rieff, Riesman, Lasch | untested |
+| C5.14 | The self-originating Self, prior to its world and answerable to nothing, is a cultural event, not a philosophical one: it appears first in popular literature (self-help, mind-cure, advertising) and becomes general in the 20th century. | historical + textual | Smiles, *Self-Help*; New Thought (Trine); James, *Varieties* (mind-cure); Coué; Bernays, *Propaganda*; later: Rieff, Riesman, Lasch | challenged |
 
 **Pressure points**
 
@@ -149,7 +149,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C6.6 | The philosophy of the Self helped America become a world empire faster than any in history. | historical | comparative history | untested |
 | C6.7 | That success validated the concept and removed any incentive to check it. | historical | — | untested |
 | C6.8 | The philosophy of the Self became dogmatic and mutated; the Reagan era intensified this but did not start it. | historical | open question 3 | untested |
-| C6.9 | As received in America, "Self-Reliance" was cut down to its nonconformist half and the Over-Soul dropped, as the cogito lost the union (C4.7). | reception | anthologies, school readers, popular and commercial uses of Emerson | untested |
+| C6.9 | As received in America, "Self-Reliance" was cut down to its nonconformist half and the Over-Soul dropped, as the cogito lost the union (C4.7). | reception | anthologies, school readers, popular and commercial uses of Emerson | challenged |
 
 **Pressure points**
 
@@ -166,7 +166,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | supported |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
-| C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | untested |
+| C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | challenged |
 | C7.5 | A surfeit of personal expression produces a cacophony that makes sensible discourse nearly impossible. | empirical + conceptual | MacIntyre, *After Virtue* (emotivism); Sennett | untested |
 | C7.6 | Lasch's account of the narcissistic society is as the spec summarizes it (invisible hierarchy, symbol competition, defensive living, artificial communities, no past and no future). | textual | Lasch, *The Culture of Narcissism* | untested |
 | C7.7 | The Totalitarian Self is the underlying cause of the collective symptom Lasch describes. | conceptual | Lasch | untested |
@@ -186,11 +186,11 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C8.1 | Self-totalization runs a repeatable process: genuine expression → connection → convergence → attachment → perversion → accessory. | conceptual + empirical | Goffman; Debord; subculture studies (Hebdige, *Subculture*) | untested |
+| C8.1 | Self-totalization runs a repeatable process: genuine expression → connection → convergence → attachment → perversion → accessory. | conceptual + empirical | Goffman; Debord; subculture studies (Hebdige, *Subculture*) | challenged |
 | C8.2 | Accessorizing is conformity performed in the vocabulary of self-expression. Unlike Mill's "despotism of custom," which works through the vocabulary of station ("what is suitable to my position?"), it speaks the language Mill offered as the cure. | conceptual | Mill (mill-liberty.05); Simmel, "Fashion" | revised |
 | C8.3 | The process produces False Groups: coherent in appearance, incoherent in substance. | conceptual | — | untested |
-| C8.4 | The engine is inside the ideology of the Self: the desire to *belong*, routed through self-expression. This differs from Mill's external engines (education, commerce, communications), from a culture industry imposed from outside, and from Rousseau's *amour-propre*, whose engine is the wish for *distinction*, not belonging. | conceptual | Mill (mill-liberty.13); Rousseau (rousseau-inequality.07, .11); Adorno & Horkheimer; Frank, *The Conquest of Cool* | revised |
-| C8.5 | The desire to belong is routed through self-expression because no other vocabulary remains available. | conceptual | §5 | untested |
+| C8.4 | The engine is inside the ideology of the Self: the desire to *belong*, routed through self-expression. This differs from Mill's external engines (education, commerce, communications), from a culture industry imposed from outside, and from Rousseau's *amour-propre*, whose engine is the wish for *distinction*, not belonging. | conceptual | Mill (mill-liberty.13); Rousseau (rousseau-inequality.07, .11); Adorno & Horkheimer; Frank, *The Conquest of Cool* | challenged |
+| C8.5 | The desire to belong is routed through self-expression because no other vocabulary remains available. | conceptual | §5 | challenged |
 
 **Pressure points**
 

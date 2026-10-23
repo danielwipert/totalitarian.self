@@ -142,7 +142,7 @@ Repression as doctrine, with a "duty" attached: "any one who mentions it is a li
 ### james-varieties.11 · *Varieties* IV–V — "the world can be handled according to many systems of ideas"; "neither is exhaustive"
 
 - **Claims:** C5.2 (for), C5.3 (against, for mind-cure as James saw it), C5.1 (for)
-- **Location:** Lectures IV–V; lines 3777–3790; fn 65, lines 16912–16914
+- **Location:** Lectures IV–V; lines 3778–3790; fn 65, lines 16912–16914
 - **Checked:** text file
 
 > The obvious outcome of our total experience is that the world can be handled according to many systems of ideas, and is so handled by different men, and will each time give some characteristic kind of profit, for which he cares, to the handler, while at the same time some other kind of profit has to be omitted or postponed. Science gives to all of us telegraphy, electric lighting, and diagnosis, and succeeds in preventing and curing a certain amount of disease. Religion in the shape of mind‐cure gives to some of us serenity, moral poise, and happiness, and prevents certain forms of disease as well as science does, or even better in a certain class of persons. Evidently, then, the science and the religion are both of them genuine keys for unlocking the world’s treasure‐house to him who can use either of them practically. Just as evidently neither is exhaustive or exclusive of the other’s simultaneous use.
@@ -154,7 +154,7 @@ James's verdict is SPEC §5's *healthy* Self, stated of mind-cure: one screen am
 ### james-varieties.12 · *Varieties* VI–VII — the verdict: "inadequate as a philosophical doctrine"; "failing [...] to accord to sorrow, pain, and death any positive and active attention"
 
 - **Claims:** C5.7 (for), C1.3 (for), C5.2 (complicates)
-- **Location:** Lectures VI–VII ("The Sick Soul"); lines 5043–5054, 5084–5089; cf. 4325–4335
+- **Location:** Lectures VI–VII ("The Sick Soul"); lines 5044–5054, 5086–5089; cf. 4325–4335
 - **Checked:** text file
 
 > The method of averting one’s attention from evil, and living simply in the light of good is splendid as long as it will work. It will work with many persons; it will work far more generally than most of us are ready to suppose; and within the sphere of its successful operation there is nothing to be said against it as a religious solution. But it breaks down impotently as soon as melancholy comes; and even though one be quite free from melancholy one’s self, there is no doubt that healthy‐mindedness is inadequate as a philosophical doctrine, because the evil facts which it refuses positively to account for are a genuine portion of reality; and they may after all be the best key to life’s significance, and possibly the only openers of our eyes to the deepest levels of truth. [...]
@@ -166,7 +166,7 @@ The philosopher's verdict on the popular turn, and C5.7 almost word for word: th
 ### james-varieties.13 · *Varieties* VI–VII — evil as "a waste element [...] the very memory of it, if possible, wiped out"; and "an element of truth"
 
 - **Claims:** C5.7 (for), C5.7 (complicates: James half-endorses the move)
-- **Location:** Lectures VI–VII; lines 4111–4123, 4133–4135
+- **Location:** Lectures VI–VII; lines 4111–4123, 4133–4134
 - **Checked:** text file
 
 > Now the gospel of healthy‐mindedness, as we have described it, casts its vote distinctly for this pluralistic view. [...] Evil, it says, is emphatically irrational, and _not_ to be pinned in, or preserved, or consecrated in any final system of truth. It is a pure abomination to the Lord, an alien unreality, a waste element, to be sloughed off and negated, and the very memory of it, if possible, wiped out and forgotten. The ideal, so far from being co‐extensive with the whole actual, is a mere _extract_ from the actual, marked by its deliverance from all contact with this diseased, inferior, and excrementitious stuff.
@@ -183,7 +183,7 @@ The philosopher's verdict on the popular turn, and C5.7 almost word for word: th
 
 > _Within yourself lies the cause of whatever enters into your life. To come into the full realization of your own awakened interior powers, is to be able to condition your life in exact accord with what you would have it._
 >
-> Within each one lies the cause of whatever comes to him. Each has it in his own hands to determine what comes. Everything in the visible, material world has its origin in the unseen, the spiritual, the thought world. This is the world of cause, the former is the world of effect. [...] What one lives in his invisible, thought world, he is continually actualizing in his visible, material world.
+> [Ch. VIII] Within each one lies the cause of whatever comes to him. Each has it in his own hands to determine what comes. Everything in the visible, material world has its origin in the unseen, the spiritual, the thought world. This is the world of cause, the former is the world of effect. [...] What one lives in his invisible, thought world, he is continually actualizing in his visible, material world.
 
 As close to SPEC §5's "all experience flows *from* Self" as any text in the project: the self is the cause, the world the effect. The epigraph names no God; it is the book's first sentence, and the one a buyer would read.
 
@@ -195,7 +195,7 @@ As close to SPEC §5's "all experience flows *from* Self" as any text in the pro
 
 > Each is building his own world. We both build from within and we attract from without. Thought is the force with which we build, for thoughts are forces. Like builds like and like attracts like. [...] The realm of the unseen is the realm of cause. The realm of the seen is the realm of effect.
 >
-> There is a divine sequence running throughout the universe. Within and above and below the human will incessantly works the Divine will. To come into harmony with it and thereby with all the higher laws and forces, to come then into league and to work in conjunction with them, in order that they can work in league and in conjunction with us, is to come into the chain of this wonderful sequence. This is the secret of all success.
+> [...] There is a divine sequence running throughout the universe. Within and above and below the human will incessantly works the Divine will. To come into harmony with it and thereby with all the higher laws and forces, to come then into league and to work in conjunction with them, in order that they can work in league and in conjunction with us, is to come into the chain of this wonderful sequence. This is the secret of all success.
 >
 > [Prelude] Each is building his world from within, and the result of the building is determined by the point of view of each. The optimist, by his superior wisdom and insight, is making his own heaven, and in the degree that he makes his own heaven is he helping to make one for all the world beside.
 
@@ -281,7 +281,7 @@ C5.8 popularized: the self is spirit, prior to and "master" of the body and the 
 
 > [...] that all disease and its consequent suffering is the direct or the indirect result of the violation of law, either consciously or unconsciously, either intentionally or unintentionally.
 >
-> No disease can enter into or take hold of our bodies unless it find therein something corresponding to itself which makes it possible. And in the same way, no evil or undesirable condition of any kind can come into our lives unless there is already in them that which invites it and so makes it possible for it to come. The sooner we begin to look within ourselves for the cause of whatever comes to us, the better it will be [...]
+> [...] No disease can enter into or take hold of our bodies unless it find therein something corresponding to itself which makes it possible. And in the same way, no evil or undesirable condition of any kind can come into our lives unless there is already in them that which invites it and so makes it possible for it to come. The sooner we begin to look within ourselves for the cause of whatever comes to us, the better it will be [...]
 >
 > Poor draft! How many thousands, nay millions of times it is made the scapegoat by those who are too ignorant or too unfair to look their own weaknesses square in the face, and who instead of becoming imperial masters, remain cringing slaves.
 
@@ -335,7 +335,7 @@ The answerability frame survives inside the prosperity chapter: stewardship, acc
 
 > This is the Spirit of Infinite Love. The moment we recognize ourselves as one with it we become so filled with love that we see only the good in all. And when we realize that we are all one with this Infinite Spirit, then we realize that in a sense we are all one with each other. When we come into a recognition of this fact, we can then do no harm to any one, to any thing. We find that we are all members of the one great body, and that no portion of the body can be harmed without all the other portions suffering thereby.
 >
-> And then when we fully realize the fact that selfishness is at the root of all error, sin, and crime, and that ignorance is the basis of all selfishness, with what charity we come to look upon the acts of all. It is the ignorant man who seeks his own ends at the expense of the greater whole. [...] He is a seer, and recognizes the fact that he, a single member of the one great body, is benefited in just the degree that the entire body is benefited, and so he seeks nothing for himself that he would not equally seek for all mankind.
+> [...] And then when we fully realize the fact that selfishness is at the root of all error, sin, and crime, and that ignorance is the basis of all selfishness, with what charity we come to look upon the acts of all. It is the ignorant man who seeks his own ends at the expense of the greater whole. [...] He is a seer, and recognizes the fact that he, a single member of the one great body, is benefited in just the degree that the entire body is benefited, and so he seeks nothing for himself that he would not equally seek for all mankind.
 
 No singularity here: the self is "a single member of the one great body", and selfishness is the root error. Difference stays relational (SPEC §2). Mind-cure's self is causally powerful but not unique; it is the *same* divine life in everyone, as in Emerson and Whitman.
 

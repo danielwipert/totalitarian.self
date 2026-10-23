@@ -59,3 +59,9 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | Where the mutation happens | A: two stages; philosophy drops the frames in layers, the culture makes the Self its own origin | Fits all 96 frame-loss passages; Nietzsche attributes *causa sui* to "the half-educated" |
 | 2026-10-23 | Frame-loss claims | A: C5.9–C5.13 and C4.12 rewritten; new C5.14 (the self-originating Self is a cultural event) | Each author stays testable; C5.14 is the next test |
 | 2026-10-23 | Next test | A: popular self-help and mind-cure literature, 1859–1930 (public domain) | Where "the half-educated" met these ideas; lets us date the turn |
+| 2026-10-23 | Popular-literature deep read | Smiles, James, Trine, Coué, Bernays; 65 passages, all quotes exact; library now 338 passages | Test of C5.14 |
+| 2026-10-23 | C5.14 status | challenged as worded | Every popular text keeps a frame (Smiles: duty, God, smiles-selfhelp.02, .12; Trine: the Infinite, trine-infinite.03, .04; Coué: reason, duty, coue-selfmastery.07). But mind-cure makes the self the *cause* of its conditions (trine-infinite.01, .05; james-varieties.06) |
+| 2026-10-23 | C5.7 status | supported | james-varieties.10, .12: James says mind-cure refuses "sorrow, pain, and death any positive and active attention" |
+| 2026-10-23 | C6.9 status | challenged | trine-infinite.03, .06: in New Thought the Over-Soul half of Emerson is what survives |
+| 2026-10-23 | C7.4 status | challenged as worded | Strong tendency, not "never" (smiles-selfhelp.11, .15; trine-infinite.09, .11); and personal blame comes *before* frame loss, licensed by Providence (Smiles) or by mind as cause (Trine) |
+| 2026-10-23 | C8.1, C8.4, C8.5 status | challenged | bernays-propaganda.04, .08–.11: choices engineered to feel self-originated by 1928, from outside, top-down; consumers still speak the vocabulary of station |
