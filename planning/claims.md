@@ -92,6 +92,32 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 - **C4.19:** "The Over-Soul" may make Emerson's Self a channel for something universal, not a singular Self. That would complicate the step to singularity.
 - **C4.20:** Mill argues individuality serves *social* progress; it may stay bounded by utility.
 
+## §4c Rival origin: the Renaissance and the Enlightenment
+
+Added 2026-10-23 at the author's request. The author's long-held view is that selfhood started in the Renaissance and took off in the Enlightenment, as the Self developed and as it separated from religion and community. These claims state that view as a rival to the "answerability first" story (C1.1, C4.1), to be tested head to head. Whichever the texts support goes into §4. All untested.
+
+| ID | Claim | Kind | Test against | Status |
+|---|---|---|---|---|
+| C4.21 | Selfhood begins in the Renaissance, with the individual as self-shaping and valued for his own excellence, and takes off in the Enlightenment. The Reformation's answerability is a parallel or later strand, not the origin. | historical + textual | all §4c sources; Burckhardt | untested |
+| C4.22 | In the Renaissance "man became a spiritual individual" (Burckhardt; to verify): the historian's version of the rival story. | textual (secondary) | Burckhardt, *The Civilization of the Renaissance in Italy*, Part II | untested |
+| C4.23 | Petrarch turns attention inward: the self, not the world, becomes the object worth studying. | textual | Petrarch, "The Ascent of Mont Ventoux"; letters | untested |
+| C4.24 | Pico makes man self-shaping, with no fixed nature, the maker of his own form: the first philosophical claim to self-origination. | textual | Pico, *Oration on the Dignity of Man* | untested |
+| C4.25 | Machiavelli and Castiglione make the self a craft and a performance (*virtù*, *sprezzatura*): a self fashioned for the eyes of others, an early form of §8. | textual | Machiavelli, *The Prince*; Castiglione, *The Book of the Courtier* | untested |
+| C4.26 | Cellini's *Autobiography* is the first life told as the story of an exceptional individual valued for his own sake. | textual | Cellini, *Autobiography* | untested |
+| C4.27 | Erasmus's humanism places human dignity and free will inside a Christian frame: the Renaissance self is bounded, like the Reformation one. | textual | Erasmus, *The Praise of Folly*; on free will, if available | untested |
+| C4.28 | Enlightenment autonomy makes the self its own lawgiver: "Have courage to use your own understanding" (Kant; to verify); the will gives itself the law. | textual | Kant, "What Is Enlightenment?"; *Groundwork* | untested |
+| C4.29 | The Enlightenment moral self is formed by sentiment and by the eyes of others (Shaftesbury, Hume, Smith's impartial spectator): a social self, not a separated one. | textual | Shaftesbury; Hume, *Treatise* III, *Enquiry concerning the Principles of Morals*; Smith, *Theory of Moral Sentiments* | untested |
+| C4.30 | The Self separates from religion: belief becomes a private matter of individual conscience, and the church a voluntary society. | textual | Spinoza, *Theological-Political Treatise*; Locke, *Letter Concerning Toleration*; Voltaire; Paine, *Age of Reason* | untested |
+| C4.31 | The Self separates from community: society is founded on the consent or interest of individuals who are prior to it. | textual | Hobbes, *Leviathan*; Locke, *Second Treatise*; Mandeville, *Fable of the Bees*; Rousseau, *Social Contract*; Franklin, *Autobiography* | untested |
+
+**Pressure points**
+
+- **C4.24:** Pico's self-shaping freedom is given *by God* and aimed at ascent *to God*. It may be bounded, like every other early form.
+- **C4.21:** if the Renaissance self is real but bounded, both stories may be true: two roots (humanist self-shaping and Reformation answerability), as Montaigne's classical root already suggested (C4.13).
+- **C4.28:** Kant's self-given law is *universal* (valid for every rational being), a common frame. Autonomy may be the opposite of singularity.
+- **C4.30, C4.31:** separation may be institutional (church from state, individual from status) while the Self itself stays religious or social. Check which is separated: the Self, or the institutions.
+- **C4.25, C4.26:** Burckhardt's picture of Renaissance individualism is contested by later historians. Test the primary texts, not Burckhardt's reading of them.
+
 ---
 
 ## §5 Mutation
