@@ -18,7 +18,7 @@
 
 The phrase is verified, but it sits at the *opening* of Part II ch. i (line 4352), not the end. The claim is exactly the rival story: a self that knows itself apart from "some general category", in Italy, before the Reformation. Burckhardt's cause is political (the states), not religious; note that "faith" is part of the veil.
 
-### burckhardt.02 · Part II ch. i and notes 289–290 — "not afraid of singularity"
+### burckhardt.02 · Part II ch. i and notes 289–290 — "not one of them was afraid of singularity"
 
 - **Claims:** C4.21 (for), C4.13 (complicates), C4.15 (complicates)
 - **Location:** Part II ch. i, lines 4372–4380; notes 289–290, lines 17960–17965
@@ -172,7 +172,7 @@ Burckhardt ends the whole book with the Renaissance self at its best *inside* Go
 
 > He has still left him a grandson, immense learning, the fame of his works, money, rank and credit, powerful friends, the knowledge of many secrets, and, best of all, belief in God.
 
-Burckhardt claims Italy, not Reformation Germany, first wrote the inner man. Yet his star case, Cellini, is "not founded on introspection": self-measure, not self-examination. Cardano keeps "belief in God". Check against `cellini-autobiography.md` before relying on Burckhardt's reading.
+Burckhardt claims Italy, not Reformation Germany, first wrote the inner man. Yet his star case, Cellini, is no more "founded on introspection" than Pius II: self-measure, not self-examination. Cardano keeps "belief in God". Check against `cellini-autobiography.md` before relying on Burckhardt's reading.
 
 ### burckhardt.16 · Part IV ch. viii — what Pico stands for: humanity, not the single man
 
@@ -202,7 +202,7 @@ Self-shaping, yes: no fixed place, form or necessity, growth by "thine own free 
 
 > ‘Statuit tandem optimus opifex ut cui dari nihil proprium poterat commune esset quidquid privatum singulis fuerat. Igitur hominem accepit indiscretae opus imaginis atque in mundi posito meditullio sic est allocutus; Nec certam sedem, nec propriam faciem, nec munus ullum peculiare tibi dedimus, O Adam, ut quam sedem, quam faciem, quae munera tute optaveris, ea pro voto pro tua sententia habeas et possideas. Definita caeteris natura inter praescriptas a nobis leges coercetur, tu nullis augustiis coercitus pro tuo arbitrio, in cujus manus te posui, tibi illam praefinies. [...] Nec te caelestem neque terrenum, neque mortalem neque immortalem fecimus, ut tui ipsius quasi arbitrarius honorariusque plastes et fictor in quam malueris tute formam effingas.
 
-The Latin is stronger than the English on self-shaping. My gloss: man is to fix his own nature "by your own judgment", and to be, as it were, the free and honoured *moulder and maker* (plastes et fictor) of himself, in whatever form he prefers. But every verb of origin belongs to God: the best workman "decreed", "took" man, "set" him, "made" him; the self-making is assigned. And man's lack of a nature of his own is filled with what is *common* (commune) to all creatures: not singular.
+The Latin is stronger than the English on self-shaping. My gloss: man is to fix his own nature "pro tuo arbitrio" (by your own judgment; our translation), and to be, as it were, the free and honoured *moulder and maker* (plastes et fictor) of himself, in whatever form he prefers. But every verb of origin belongs to God: the best workman decreed (statuit), took (accepit) man, set (posui) him, made (fecimus) him; the self-making is assigned. And man's lack of a nature of his own is filled with what is *common* (commune) to all creatures: not singular.
 
 ### burckhardt-pico.03 · *Oration* (Pico's Latin, note 805) — the ending the English leaves out
 

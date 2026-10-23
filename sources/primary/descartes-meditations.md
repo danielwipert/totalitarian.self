@@ -105,7 +105,7 @@ Descartes's own summary of Med VI states both halves together, so neither can be
 
 > [...] the human body, inasmuch as it differs from other bodies, is composed only of a certain configuration of members and of other similar accidents, while the human mind is not similarly composed of any accidents, but is a pure substance. For although all the accidents of mind be changed, although, for instance, it think certain things, will others, perceive others, etc., despite all this it does not emerge from these changes another mind [...] From this it follows that the human body may indeed easily enough perish, but the mind [or soul of man (I make no distinction between them)] is owing to its nature immortal.
 
-The separation serves an old end: the immortality of the soul, the *Phaedo*'s question, given a new demonstration. This supports the Descartes side of C4.8 ("groundwork ... made operational"). Note also "I make no distinction" between mind and soul: Descartes collapses the two, which is part of what "Self = Mind" means.
+The separation serves an old end: the immortality of the soul, the *Phaedo*'s question, given a new demonstration. This supports the Descartes side of C4.8 ("groundwork ... made it operational"). Note also "I make no distinction" between mind and soul: Descartes collapses the two, which is part of what "Self = Mind" means.
 
 ### descartes-meditations.11 · Molyneux 1680 — title page and translator's preface
 
@@ -173,4 +173,4 @@ Early readers already traced Descartes to Plato and "the Fathers", and Descartes
 - [ ] Find a clean text of Med II's cogito sentence in Haldane & Ross (OCR line 7335 has lost a line); meanwhile use Molyneux (.12).
 - [ ] Get Arnauld's Fourth Objections and Descartes's reply (Haldane & Ross vol. II), said to tie the cogito to Augustine (C4.8); verify.
 - [ ] Find 17th-century English readers (Henry More, *Antidote against Atheism*; Stillingfleet, *Origines Sacrae*, both named in Molyneux's preface) to test whether English reception actually dropped the union (C4.7).
-- [ ] Reconsider the note on .02: "the culture took the *Discourse* IV version" does not work, because the *Discourse* itself has the pilot qualification (descartes-discourse.02).
+- [ ] Reconsider the note on .02: "it took the *Discourse* IV version" does not work, because the *Discourse* itself has the pilot qualification (descartes-discourse.02).

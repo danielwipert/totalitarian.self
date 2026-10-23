@@ -161,7 +161,7 @@ This is where Hobbes does separate something: inward belief, from the sovereign'
 
 - [ ] Check the marginal headings and chapter numbers against a modern edition (Tuck or Malcolm) and add 1651 page numbers for final citations.
 - [ ] Read I.xii (Of Religion) for whether religion is natural to the pre-social individual (bears on C4.30).
-- [ ] Read II.xx (Dominion Paternall): Hobbes's families in the state of nature (I.xiii, line 4068; II.xvii, "small Families") complicate "individuals prior to society." Pull a passage if decisive.
+- [ ] Read II.xx (Dominion Paternall): Hobbes's families in the state of nature (I.xiii, line 4068; II.xvii, "small Families") complicate the picture of individuals prior to society. Pull a passage if decisive.
 - [ ] Read III.xliii ("All that is NECESSARY to Salvation", line 18754) to see how far faith remains a private matter.
 - [ ] Compare hobbes-leviathan.09 with Locke, *Essay* II.xxvii (locke-essay.01) for C4.10: does Locke's forensic person descend from Hobbes's representative person?
 - [ ] Pass hobbes-leviathan.03, .04, .09 to whoever tests §8 (the self performed for others).

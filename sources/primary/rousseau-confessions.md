@@ -84,7 +84,7 @@ Judgement is not moved inward here. It is handed *outward*, to the reader. The s
 
 > I never love to pray in a chamber; it seems to me that the walls and all the little workmanship of man interposed between God and myself: I love to contemplate Him in his works, which elevate my soul, and raise my thoughts to Him. My prayers were pure, I can affirm it, and therefore worthy to be heard
 
-Conscience is set against doctrine, and human mediation ("the workmanship of man") is pushed aside: answerability before God, with the inner verdict taking precedence. The bound (God, damnation, salvation) is still there. And the passage mocks itself: what settles the question is a stone thrown at a tree, not conscience.
+Conscience is set against doctrine, and human mediation ("the little workmanship of man") is pushed aside: answerability before God, with the inner verdict taking precedence. The bound (God, damnation, salvation) is still there. And the passage mocks itself: what settles the question is a stone thrown at a tree, not conscience.
 
 ### rousseau-confessions.07 · Book VII — "I cannot be deceived in what I have felt"
 
@@ -142,7 +142,7 @@ The community limit is kept, and on principle: inner faith is one and the same f
 
 Feeling makes its own world when the real one fails, and that world (the source of *Julie*) shuts out "the human species". But the imagination cannot do without the real: it needs "some real place" to rest on. And he calls the result "chimera" and "delirium", not a truer reality. The Self that generates its world is there, but it knows it is a screen.
 
-### rousseau-confessions.12 · Book IX — Rousseau condemns "follow the inclinations of the heart"
+### rousseau-confessions.12 · Book IX — Rousseau condemns "to follow all the inclinations of his heart"
 
 - **Claims:** C5.3 (against), C4.17 (complicates)
 - **Location:** Book IX; lines 17180–17191

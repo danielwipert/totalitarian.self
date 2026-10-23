@@ -76,7 +76,7 @@ No earthly judge of religious truth, because there is a heavenly one. Toleration
 
 > But a charitable care, which consists in teaching, admonishing, and persuading, cannot be denied unto any man. The care therefore of every man's soul belongs unto himself, and is to be left unto himself.
 
-The brief's "care of souls belonging to each person," verified. In the same sentence others keep "a charitable care" of teaching and admonishing: the person is responsible, not solitary.
+The brief's paraphrase (care of souls belonging to each person) is verified in substance: "every man's soul belongs unto himself". In the same sentence others keep "a charitable care" of teaching and admonishing: the person is responsible, not solitary.
 
 ### locke-toleration.08 · pp. 88–90 — "the supreme and absolute authority of judging for himself"
 

@@ -66,7 +66,7 @@ These stand or fall with the section claims beneath them.
 
 - **C4.4:** Weber located the work-as-proof dynamic in *later* Puritans (Baxter and others), not in Calvin. Calvin himself warns against seeking assurance of election in one's works. This claim may need to be about Calvinism, not Calvin.
 - **C4.3:** Luther's *Freedom of a Christian* pairs inner freedom with service: "A Christian man is the most free lord of all, and subject to none; a Christian man is the most dutiful servant of all, and subject to every one." (verified, Gutenberg #1911) Individuation may come bound to a new kind of service.
-- **C4.8:** Augustine's "si fallor, sum" ("if I am mistaken, I exist") anticipates the cogito by twelve centuries. That weakens the "speed" claim (C4.14) and strengthens the "groundwork" claim.
+- **C4.8:** Augustine's "si fallor, sum" (if I am mistaken, I exist; our translation) anticipates the cogito by twelve centuries. That weakens the "speed" claim (C4.14) and strengthens the "groundwork" claim.
 - **C4.11:** Locke writes "white paper," not "tabula rasa," and his Book I targets innate *ideas*, not inherited nature in general.
 - **C4.14:** Locke's chapter on personal identity (II.xxvii) was added in the 2nd edition of 1694, so the span may be 1517 → 1694. To verify.
 - **C4.6:** In *Meditations* VI, Descartes says "I am not only lodged in my body as a pilot in a vessel, but that I am very closely united to it" (verified, Haldane & Ross 1911).
@@ -159,7 +159,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 - **C5.10:** Stirner also dissolves the Self as a fixed idea ("the unique one" is not an essence), and proposes a "union of egoists." His egoism may be an attack on *every* ideology, including the ideology of the Self.
 - **C5.11:** Whitman's Self may be the Over-Soul made democratic, a frame kept, not dropped.
 - **C5.12:** Wilde's individualism is framed by socialism and the abolition of private property: a social frame.
-- **C5.13:** Nietzsche attacks "the subject" and "the doer behind the deed" as fictions (*Beyond Good and Evil*, *Genealogy* I; to verify). He may be an ally *against* the Self as source (C5.3).
+- **C5.13:** Nietzsche attacks "the subject" and the doer behind the deed as fictions: there is no "being" behind doing, and "the doer" is "a mere appanage to the action" (*Genealogy* I, `texts/nietzsche-genealogy-of-morals.txt` lines 1107–1108; *Beyond Good and Evil* to verify). He may be an ally *against* the Self as source (C5.3).
 - **C5.14:** Smiles's *Self-Help* may be about character, duty and perseverance, so it may still be answerable (to duty, to God). New Thought may tie the self to "the Infinite," which would be Emerson's Over-Soul popularized: a frame kept. Bernays's engine is outside the person (C8.4): advertising may *produce* the self-originating Self rather than the Self producing itself.
 - **General:** if none of these drops the frame, the mutation is not a philosophical event at all but a 20th-century cultural one (therapy, advertising, mass media). That would move §5's evidence from philosophy to cultural history.
 

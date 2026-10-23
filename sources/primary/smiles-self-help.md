@@ -96,7 +96,7 @@ The book's closest approach to the self-originating Self: the man *is* his will,
 
 > Whatever theoretical conclusions logicians may have formed as to the freedom of the will, each individual feels that practically he is free to choose between good and evil—that he is not as a mere straw thrown upon the water to mark the direction of the current, but that he has within him the power of a strong swimmer [...]. Without this where would be responsibility?—and what the advantage of teaching, advising, preaching, reproof, and correction? [...] In every moment of our life, conscience is proclaiming that our will is free. It is the only thing that is wholly ours, and it rests solely with ourselves individually, whether we give it the right or the wrong direction. Our habits or our temptations are not our masters, but we of them.
 
-Free will is asserted for the sake of responsibility, the forensic link of C4.10–C4.12 (Nietzsche's charge that free will was made up to make guilt attributable fits this passage closely). For C7.1: the accountability is there, but so is conscience, and "right or wrong direction" is still measured against a standard. Blame is not yet cut loose from God. Note the hedge: "directing *to a great extent*".
+Free will is asserted for the sake of responsibility, the forensic link of C4.10–C4.12 (Nietzsche's charge that free will was made up to make guilt attributable fits this passage closely). For C7.1: the accountability is there, but so is conscience, and "the right or the wrong direction" is still measured against a standard. Blame is not yet cut loose from God. Note the hedge: "directing *to a great extent*".
 
 ### smiles-selfhelp.09 · Ch. VIII — "a savour of omnipotence", checked by "right direction" and Napoleon
 

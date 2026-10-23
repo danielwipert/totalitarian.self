@@ -87,7 +87,7 @@ Luther's own summary places the person outside himself, in two relations. See al
 
 > Such, too, ought to have been the works of all colleges, monasteries, and priests; every one doing the works of his own profession and state of life, not in order to be justified by them, but in order to bring his own body into subjection, as an example to others [...] For the Christian freeman will speak thus: I will fast, I will pray, I will do this or that which is commanded me by men, not as having any need of these things for justification or salvation, but that I may thus comply with the will of the Pope, of the bishop, of such a community or such a magistrate, or of my neighbour as an example to him
 
-Liberty changes the *meaning* of one's station ("profession and state of life") and of obedience, not whether one fills them. That runs against C4.2's "rather than fill socioeconomic roles". Outward church commands are still obeyed, only now freely, so C4.3's "freeing from church structure" holds for the conscience, not for conduct.
+Liberty changes the *meaning* of one's station ("profession and state of life") and of obedience, not whether one fills them. That runs against C4.2's "rather than fill socioeconomic roles". Outward church commands are still obeyed, only now freely, so C4.3's "freeing it from church structure" holds for the conscience, not for conduct.
 
 ### luther-liberty.09 · Nature itself, confirmed by lawgivers, cannot free itself
 

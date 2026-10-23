@@ -59,7 +59,7 @@ The "nobility" is in "our soul", common to all mortals, and it is "what God has 
 
 > I have taken pride in others, never in myself, and however insignificant I may have been, I have always been still less important in my own judgment.
 
-The act points to C4.21: a man writes his own life, down to the hour of his birth (line 1471), for readers yet unborn. The content points the other way. He is a "poor mortal like yourself" (the Latin motto, line 1429, says "one of your flock"), and to know oneself is to come to "consciousness of our sins". Equal standing, not distinction (C4.13).
+The act points to C4.21: a man writes his own life, down to the hour of his birth (line 1471), for readers yet unborn. The content points the other way. He is a "poor mortal like yourself" (the Latin motto, line 1429, says "Vestro de grege unus fui": I was one of your flock; our translation), and to know oneself is to come to "consciousness of our sins". Equal standing, not distinction (C4.13).
 
 ### petrarch-letters.05 · *Fam.* i.1 (per Robinson) to Tommaso di Messina — "appeal [...] to posterity"
 

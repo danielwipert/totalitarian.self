@@ -11,7 +11,7 @@
 
 Nietzsche does two things at once, and they do not reconcile.
 
-1. **He drops the old frames by name.** God is dead and "we" killed him (GS §125); the "one norm, 'the man'" of monotheism was mankind's "greatest danger", and the individual may now set up "his *own* ideal" without apology to a God (GS §143); there is no "common good" (BGE §43); the higher man is "judge for thyself, and avenger of thy law" (Z I, "The Way of the Creating One") and takes his tests "before ourselves and before no other judge" (BGE §41). "Become what you are" is verified (GS §270, §335; Z IV, "The Honey Sacrifice"), and in GS §335 it is glossed "the new, the unique, the incomparable, making laws for ourselves and creating ourselves". This is the closest any §5b text so far comes to C5.9 as written.
+1. **He drops the old frames by name.** God is dead and "we" killed him (GS §125); the "one norm, 'the man'" of monotheism was mankind's "greatest danger", and the individual may now set up "his *own* ideal" without apology to a God (GS §143); there is no "common good" (BGE §43); the higher man is "judge for thyself, and avenger of thy law" (Z I, "The Way of the Creating One") and takes his tests "before ourselves and before no other judge" (BGE §41). "Become what thou art" is verified (GS §270, §335; Z IV, "The Honey Sacrifice"), and in GS §335 it is glossed "the new, the unique, the incomparable, making laws for ourselves and creating ourselves". This is the closest any §5b text so far comes to C5.9 as written.
 
 2. **But he dismantles exactly the Self that SPEC §2 calls singular.** The "I" is a grammatical fiction (BGE §§16–17, 54); the will is a "social structure composed of many souls" whose ruling part falsely says "L'EFFET C'EST MOI" (BGE §19); *causa sui*, "to pull oneself up into existence by the hair", is "the best self-contradiction that has yet been conceived", and Nietzsche names it as the wish "to absolve God, the world, ancestors, chance, and society" (BGE §21). Consciousness, the faculty by which one would know oneself as unique, is herd property and returns only one's "averageness" (GS §354). The Self that remains is the body (Z I, "Despisers of the Body").
 
@@ -19,7 +19,7 @@ Nietzsche does two things at once, and they do not reconcile.
 
 So: the frame that is dropped is God, the common, the herd and equality. The frame that is kept or added is rank, type, body, earth and necessity. Uniqueness is affirmed as a fact of *action and body* (GS §335, §354) and as a *task* for a few (SE I, Z I), but denied as a property of the conscious I and denied as self-origination. Nietzsche is the first text in the series that cuts difference from the *common* frame; he is also the sharpest critic of the Self-as-source (C5.3). On §8: yes, he sees the herd speaking the language of freedom and self-valuation (BGE §44 "wrongly named 'free spirits'", §261 vanity as democratised self-esteem, §262 the morality of mediocrity that cannot "avow what it is").
 
-**Caution on dates.** SE (1874) still has Schopenhauerian metaphysics: Nature "needs" the philosopher, artist and saint, and the saint is one "in whom the ego has melted away" (SE V). The frame there is metaphysical Nature, closer to Emerson than to BGE. The God-free, rank-framed position is the later one (GS 1882/1887, Z 1883–85, BGE 1886).
+**Caution on dates.** SE (1874) still has Schopenhauerian metaphysics: Nature "needs" the philosopher, artist and saint, and the saint is one in whom "the ego has melted away" (SE V). The frame there is metaphysical Nature, closer to Emerson than to BGE. The God-free, rank-framed position is the later one (GS 1882/1887, Z 1883–85, BGE 1886).
 
 ## Passages
 
@@ -259,7 +259,7 @@ Confirms the C5.13 pressure point: the "I" is conditioned, not the condition. Th
 
 > [...] Inasmuch as in the given circumstances we are at the same time the commanding AND the obeying parties, [...] In this way the person exercising volition adds the feelings of delight of his successful executive instruments, the useful "underwills" or under-souls--indeed, our body is but a social structure composed of many souls--to his feelings of delight as commander. L'EFFET C'EST MOI. what happens here is what happens in every well-constructed and happy commonwealth, namely, that the governing class identifies itself with the successes of the commonwealth.
 
-This is C5.3 as a psychology: the I takes credit as cause ("the effect is me") for what a plurality did. Nietzsche calls it an illusion. The model he puts in its place is political and plural (commonwealth, governing class), so the Self is a relation of rank *inside* the body (compare .14).
+This is C5.3 as a psychology: the I takes credit as cause ("L'EFFET C'EST MOI": the effect is me; our translation) for what a plurality did. Nietzsche calls it an illusion. The model he puts in its place is political and plural (commonwealth, governing class), so the Self is a relation of rank *inside* the body (compare .14).
 
 ### nietzsche-sing.20 · BGE §21 — *causa sui*: "to absolve God, the world, ancestors, chance, and society" and "pull oneself up into existence by the hair"
 
@@ -269,7 +269,7 @@ This is C5.3 as a psychology: the I takes credit as cause ("the effect is me") f
 
 > The CAUSA SUI is the best self-contradiction that has yet been conceived, it is a sort of logical violation and unnaturalness; but the extravagant pride of man has managed to entangle itself profoundly and frightfully with this very folly. The desire for "freedom of will" in the superlative, metaphysical sense, such as still holds sway, unfortunately, in the minds of the half-educated, the desire to bear the entire and ultimate responsibility for one's actions oneself, and to absolve God, the world, ancestors, chance, and society therefrom, involves nothing less than to be precisely this CAUSA SUI, and, with more than Munchausen daring, to pull oneself up into existence by the hair, out of the slough of nothingness.
 
-The single most useful passage for the essay. Nietzsche gives SPEC §2's "self-originating, causally prior to one's world" a name (*causa sui*), lists the frames it cuts (God, world, ancestors, chance, society), ties it to total self-responsibility (C7.1), and calls it a self-contradiction held by "the half-educated". By his own lights he is not the singular Self; he is its first diagnostician. But he replaces free/unfree will with "STRONG and WEAK wills" (line 755): rank again.
+The single most useful passage for the essay. Nietzsche gives SPEC §2's "self-originating, and causally prior to one's world" a name (*causa sui*), lists the frames it cuts (God, world, ancestors, chance, society), ties it to total self-responsibility (C7.1), and calls it a self-contradiction held by "the half-educated". By his own lights he is not the singular Self; he is its first diagnostician. But he replaces free/unfree will with "STRONG and WEAK wills" (line 755): rank again.
 
 ### nietzsche-sing.21 · BGE §41 — tests "before ourselves and before no other judge"; "Not to cleave to any person [...] Not to cleave to one's own liberation"
 
@@ -335,7 +335,7 @@ Nietzsche's own account of frame loss: a phase of luxury in which "no common for
 
 ## Verdict by claim (proposed)
 
-- **C5.13** (uniqueness as a task, God dropped, rank kept): **supported, with one rewording.** "Become what you are" is verified (.08, .09, .17); God is dropped as frame (.06, .07, .13); rank is kept and is load-bearing (.04, .23, .24). But "drops God as its frame" is too weak: Nietzsche puts new frames in God's place (earth, Superman, type, nature/necessity). See the suggested rewording in the report.
+- **C5.13** (uniqueness as a task, God dropped, rank kept): **supported, with one rewording.** "Become what thou art" is verified (.08, .09, .17); God is dropped as frame (.06, .07, .13); rank is kept and is load-bearing (.04, .23, .24). But "drops God as its frame" is too weak: Nietzsche puts new frames in God's place (earth, Superman, type, nature/necessity). See the suggested rewording in the report.
 - **C5.9** (after Emerson, difference cut from frame; Self its own ground, answerable to nothing beyond itself): **challenged for Nietzsche.** For: .01, .06, .09, .16, .21, .24. Against: .02, .04, .12, .15, .20, .23. He cuts difference from the *common* frame (herd, equality, God) but not from relation (rank, breeding, body, earth), and he rejects the self-originating Self by name (.20).
 - **C5.3**: Nietzsche is a strong **ally**: .14, .18, .19, .20, .11.
 - **C5.6**: Nietzsche **names** the shift to self-origination (.20, .19) and rejects it; his own self is in its world (.09, .12). Absolute difference survives only at the level of action/body (.09, .11).

@@ -51,7 +51,7 @@ The reverse of .02: *absence* of sanctification is "an indication" of reprobatio
 
 ### calvin-institutes.05 · III.xxiii.12 — election aims at holiness, and only the elect strive
 
-- **Claims:** C4.4 (complicates; for, on the "in practice it drives effort" half)
+- **Claims:** C4.4 (complicates; for, on the "in practice drove" half)
 - **Location:** III.xxiii.12; `texts/calvin-institutes-vol2.txt` lines 8984–8995
 - **Checked:** text file
 
@@ -156,6 +156,6 @@ Honest gain is permitted, so Calvin is no enemy of commerce. But possessions are
 - [x] Read III.xiv (works and justification): does Calvin allow works as a *sign* of election anywhere? **Yes**, III.xiv.18–20, as secondary confirmation only, never as a basis (→ .02, .03). See also III.xxi.7 (→ .04).
 - [x] Read III.x (the use of the present life) on frugality, and III.vii on self-denial (→ .09–.13).
 - [ ] Read III.viii (bearing the cross) and III.ix (meditation on the future life): more self-denial and contempt of the world; likely more "against" for C4.13.
-- [ ] Read III.ii (faith and assurance, esp. III.ii.7, 15–17, 38–40): Calvin's definition of faith as "firm and certain knowledge" bears on whether assurance needs works at all.
+- [ ] Read III.ii (faith and assurance, esp. III.ii.7, 15–17, 38–40): Calvin's definition of faith as "a steady and certain knowledge of the Divine benevolence towards us" (vol1 lines 19191–19193) bears on whether assurance needs works at all.
 - [ ] Read IV.xx (civil government) for C4.2: resistance to rulers and the "lesser magistrates", the one place Calvin loosens the order of stations.
 - [ ] Pull Weber, *Protestant Ethic* ch. 4 on the shift from Calvin to the Puritans (into `notes/`).

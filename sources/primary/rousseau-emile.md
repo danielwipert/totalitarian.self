@@ -39,7 +39,7 @@ The split here is natural man vs. *citizen*, and both are whole and admired (Reg
 >
 > To be something, to be himself, and always at one with himself, a man must act as he speaks, must know what course he ought to take, and must follow that course with vigour and persistence. [...] It is only fit to turn out hypocrites, always professing to live for others, while thinking of themselves alone.
 
-The false Self is the divided modern *bourgeois*, not the social man as such. "To be himself, and always at one with himself" is an early authenticity formula, but it means unity, not difference. The hypocrite who professes to live for others while living for himself is close to C8.2's "conformity in the vocabulary of self-expression," turned the other way round.
+The false Self is the divided modern *bourgeois*, not the social man as such. "To be himself, and always at one with himself" is an early authenticity formula, but it means unity, not difference. The hypocrite who professes to live for others while living for himself is close to C8.2's "conformity performed in the vocabulary of *self-expression*," turned the other way round.
 
 ### rousseau-emile.04 · Book II — "Every mind has its own form"
 

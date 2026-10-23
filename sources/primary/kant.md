@@ -59,7 +59,7 @@ Delegated conscience is the first target, as it was Luther's. The fault is moral
 
 (Our translation: So only a few have worked themselves out of immaturity by their own effort. But that a public should enlighten itself is more possible [...] the spirit of a rational estimate of one's own worth and of the vocation of every human being to think for himself.)
 
-The subject of enlightenment is a *public*, not a lone individual. Thinking for oneself is "der Beruf jedes Menschen": a common vocation, not a distinction.
+The subject of enlightenment is a *public*, not a lone individual. Thinking for oneself is every person's calling ("des Berufs jedes Menschen, selbst zu denken": the vocation of every man to think for himself; our translation): a common vocation, not a distinction.
 
 ### kant-aufklaerung.04 · AA 8:37 (verify) — public and private use of reason
 
@@ -239,7 +239,7 @@ Kant's own image answers C4.31: the person who grows "in freedom and apart from 
 
 The self that wants to "except himself" from the common law is the problem, not the ideal. "Self-will" must be broken by "a Will that is universally valid": the bound is explicit.
 
-### kant-history.07 · Seventh Proposition, AA 8:26 (verify) — "civilised, even to excess [...] not yet moralised"
+### kant-history.07 · Seventh Proposition, AA 8:26 (verify) — "civilised, even to excess", not yet "moralised"
 
 - **Claims:** C4.29 (complicates), C8.2 (complicates)
 - **Location:** Hastie, I, Seventh Proposition, pp. 20–21; `texts/kant-principles-of-politics-hastie.txt` lines 2148–2157

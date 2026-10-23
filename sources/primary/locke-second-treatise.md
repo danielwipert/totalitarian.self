@@ -95,7 +95,7 @@ The free individual is an end-state, not a starting point: everyone begins insid
 
 > GOD having made man such a creature, that in his own judgment, it was not good for him to be alone, put him under strong obligations of necessity, convenience, and inclination to drive him into society, as well as fitted him with understanding and language to continue and enjoy it. The first society was between man and wife, which gave beginning to that between parents and children; to which, in time, that between master and servant came to be added [...] each of these, or all together, came short of political society [...]
 
-Society is natural and God-given, and conjugal, parental and household societies come before the political one. What consent founds is political society only. Against C4.31 as worded ("society is founded on consent").
+Society is natural and God-given, and conjugal, parental and household societies come before the political one. What consent founds is political society only. Against C4.31 as worded ("society is founded on the consent or interest of individuals").
 
 ### locke-treatise.10 · VIII §95 — "no one can be [...] subjected to the political power of another, without his own consent"
 

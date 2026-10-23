@@ -193,7 +193,7 @@ On the C8 question: Stirner already treats the *authentic-self project* (the "tr
 >
 > [...] What one can become he does become.
 
-(Marker [217] omitted.) Stirner diagnoses the essay's own pattern: the answerability structure (a judge over one's life) survives the move from God to Man. He then drops the judge altogether. "What one can become he does become" refuses uniqueness as a *task*; check this against Nietzsche's "become what you are" (C5.13).
+(Marker [217] omitted.) Stirner diagnoses the essay's own pattern: the answerability structure (a judge over one's life) survives the move from God to Man. He then drops the judge altogether. "What one can become he does become" refuses uniqueness as a *task*; check this against Nietzsche's "become what thou art" (C5.13).
 
 ### stirner-ego.16 · Part Second, II.iii "My Self-Enjoyment" — "I am the criterion of truth"
 
@@ -236,7 +236,7 @@ Translator's notes: "If I concern myself for myself" is literally "if I set my a
 - [x] Read his attack on "Man" and humanism (Feuerbach): the frames he drops. → .03, .06, .15.
 - [ ] Read Stirner's reply to critics, "Stirner's Critics" (1845, not in this file), where he says outright that "the unique one" is a word with no content. It is the direct test of the anti-essence reading. Need a copy in hand; do not quote from memory.
 - [ ] Check the Byington translation against Leopold (Cambridge 1995) for .02 ("creative nothing", *schöpferische Nichts*) and .16 ("criterion of truth"), and give the German.
-- [ ] Read "My Power" (lines 6808–7684) more fully: right as might, and whether "the world as my property" makes the self prior to the world in any causal sense (C5.6).
+- [ ] Read "My Power" (lines 6808–7684) more fully: right as might, and whether taking "the world [...] as my property" makes the self prior to the world in any causal sense (C5.6).
 - [ ] Read the "involuntary egoist" passage (line ~1702) and "The Possessed" on fixed ideas (lines 1926–1971) for a C8 test: could "egoism" or "ownness" itself become a fixed idea, and does Stirner say so?
-- [ ] Cross-check .15 ("What one can become he does become") against Nietzsche's "become what you are" when that file is read (C5.13).
+- [ ] Cross-check .15 ("What one can become he does become") against Nietzsche's "become what thou art" when that file is read (C5.13).
 - [ ] Cross-check .07 (not bound to yesterday's will) against Locke's forensic person in `sources/primary/` (C1.1, C4.*).

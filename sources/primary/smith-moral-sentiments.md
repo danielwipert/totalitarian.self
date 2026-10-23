@@ -188,7 +188,7 @@ A complete trickle-down theory of fashion in 1759, a century and a half before S
 
 > Few men therefore are willing to allow that custom or fashion have much influence upon their judgments concerning what is beautiful, or otherwise, in the productions of any of those arts; but imagine, that all the rules, which they think ought to be observed in each of them, are founded upon reason and nature, not upon habit or prejudice.
 
-The answer to the brief's last question: yes. Smith already describes conformity experienced as one's own judgment. But the self-justifying word is "reason and nature", not "self-expression". Support for C8.2's "the mechanism is old, the idiom is new", and a reason to date C8.6 by the change of idiom, not of mechanism.
+The answer to the brief's last question: yes. Smith already describes conformity experienced as one's own judgment. But the self-justifying word is "reason and nature", not "self-expression". Support for C8.2's point that the mechanism is old and the idiom new, and a reason to date C8.6 by the change of idiom, not of mechanism.
 
 ### smith-tms.19 · V.ii — "To superficial minds, the vices of the great seem at all times agreeable"
 
