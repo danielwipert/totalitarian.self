@@ -26,5 +26,6 @@ deferred/
   cures.md           out-of-scope material (live copy of SPEC §11)
 tools/
   check_quotes.py    checks every quote in sources/primary/ against the texts
+  check_notes.py     checks quoted phrases in the notes against the texts
 CLAUDE.md            working rules Claude reads at the start of each session
 ```

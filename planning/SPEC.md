@@ -21,7 +21,7 @@ Voice target: declarative and readable for a serious general philosophy reader; 
 
 ## 1. Thesis
 
-> **Revised 2026-10-23:** after testing §4 against the primary texts, "acknowledgment of human difference" became "acknowledgment that each person stands answerable on their own." The current thesis is C1.1 in `planning/claims.md`; the reasons are in `planning/decisions.md`. The text below is the original.
+> **Revised 2026-10-23:** after testing §4 against the primary texts, "acknowledgment of human difference" became "acknowledgment that each person stands answerable on their own." It was widened again the same day, after testing the Renaissance and Enlightenment (§4c), to name two roots: answerability and self-shaping. The current thesis is C1.1 in `planning/claims.md`; the reasons are in `planning/decisions.md`. The text below is the original.
 
 **The Self began as a necessary acknowledgment of human difference, but in the West — and above all in America — it has calcified into a totalizing dogma that suppresses the very truths it was meant to reveal.**
 
