@@ -111,6 +111,26 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 
 - **C5.4:** Check that this is Burke's own claim. The closest Burke ideas may be "occupational psychosis" and "trained incapacity" (*Permanence and Change*), which are not the same thing.
 
+## §5b Frame loss: when difference is cut from relation
+
+Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bounded by a shared frame. These claims test where, and whether, the frame is first dropped. All are hypotheses until read.
+
+| ID | Claim | Kind | Test against | Status |
+|---|---|---|---|---|
+| C5.9 | After Emerson, difference is cut from its shared frame: the Self is valued as unique and as its own ground, answerable to nothing beyond itself. | historical + textual | all §5b sources | untested |
+| C5.10 | Stirner is the first to make the unique Self its own sole ground ("All things are nothing to me"), dropping God, Man and society as frames. | textual | Stirner, *The Ego and His Own* | untested |
+| C5.11 | Whitman's American Self expands to contain everyone ("every atom belonging to me as good belongs to you"): difference and democracy merge, and the frame becomes the Self itself. | textual | Whitman, "Song of Myself" | untested |
+| C5.12 | Wilde makes "Be thyself" the message of Christ: self-realization replaces salvation as the end of life. | textual | Wilde, "The Soul of Man under Socialism" | untested |
+| C5.13 | Nietzsche makes each person's uniqueness a task ("become what you are," to verify) and drops God as its frame, but keeps an order of rank. | textual | Nietzsche, "Schopenhauer as Educator"; *Gay Science*; *Zarathustra*; *Beyond Good and Evil* | untested |
+
+**Pressure points**
+
+- **C5.10:** Stirner also dissolves the Self as a fixed idea ("the unique one" is not an essence), and proposes a "union of egoists." His egoism may be an attack on *every* ideology, including the ideology of the Self.
+- **C5.11:** Whitman's Self may be the Over-Soul made democratic, a frame kept, not dropped.
+- **C5.12:** Wilde's individualism is framed by socialism and the abolition of private property: a social frame.
+- **C5.13:** Nietzsche attacks "the subject" and "the doer behind the deed" as fictions (*Beyond Good and Evil*, *Genealogy* I; to verify). He may be an ally *against* the Self as source (C5.3).
+- **General:** if none of these drops the frame, the mutation is not a philosophical event at all but a 20th-century cultural one (therapy, advertising, mass media). That would move §5's evidence from philosophy to cultural history.
+
 ---
 
 ## §6 Host

@@ -21,5 +21,15 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `rousseau-discourse-inequality.txt` | Rousseau, *Discourse on the Origin of Inequality* (1755) | see file header | [Gutenberg #11136](https://www.gutenberg.org/ebooks/11136) | clean |
 | `emerson-essays-first-series.txt` | Emerson, *Essays: First Series* (1841), incl. "Self-Reliance," "The Over-Soul" | original English | [Gutenberg #2944](https://www.gutenberg.org/ebooks/2944) | clean |
 | `mill-on-liberty.txt` | Mill, *On Liberty* (1859) | original English | [Gutenberg #34901](https://www.gutenberg.org/ebooks/34901) | clean |
+| `stirner-ego-and-its-own.txt` | Stirner, *The Ego and His Own* (*Der Einzige und sein Eigentum*, 1844) | Steven T. Byington (1907) | [Gutenberg #34580](https://www.gutenberg.org/ebooks/34580) | clean |
+| `whitman-leaves-of-grass.txt` | Whitman, *Leaves of Grass* (1891–92 "deathbed" edition), incl. "Song of Myself" | original English | [Gutenberg #1322](https://www.gutenberg.org/ebooks/1322) | clean |
+| `wilde-soul-of-man.txt` | Wilde, "The Soul of Man under Socialism" (1891) | original English | [Gutenberg #1017](https://www.gutenberg.org/ebooks/1017) | clean |
+| `nietzsche-genealogy-of-morals.txt` | Nietzsche, *The Genealogy of Morals* (1887) | J. M. Kennedy (Levy ed.) | [Gutenberg #52319](https://www.gutenberg.org/ebooks/52319) | clean |
+| `nietzsche-beyond-good-and-evil.txt` | Nietzsche, *Beyond Good and Evil* (1886) | Helen Zimmern | [Gutenberg #4363](https://www.gutenberg.org/ebooks/4363) | clean |
+| `nietzsche-zarathustra.txt` | Nietzsche, *Thus Spake Zarathustra* (1883–85) | Thomas Common | [Gutenberg #1998](https://www.gutenberg.org/ebooks/1998) | clean |
+| `nietzsche-gay-science.txt` | Nietzsche, *The Joyful Wisdom* (*The Gay Science*, 1882/1887) | Paul V. Cohn | [Gutenberg #52881](https://www.gutenberg.org/ebooks/52881) | clean |
+| `nietzsche-twilight-antichrist.txt` | Nietzsche, *Twilight of the Idols* and *The Antichrist* (1888) | Anthony M. Ludovici | [Gutenberg #52263](https://www.gutenberg.org/ebooks/52263) | clean |
+| `nietzsche-thoughts-out-of-season-1.txt` | Nietzsche, *Thoughts out of Season* I (*Untimely Meditations*: David Strauss; Wagner in Bayreuth) | Anthony M. Ludovici | [Gutenberg #51710](https://www.gutenberg.org/ebooks/51710) | clean |
+| `nietzsche-thoughts-out-of-season-2.txt` | Nietzsche, *Thoughts out of Season* II (*Untimely Meditations*: The Use and Abuse of History; Schopenhauer as Educator) | Adrian Collins | [Gutenberg #38226](https://www.gutenberg.org/ebooks/38226) | clean |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
