@@ -56,3 +56,6 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | C5.13 status | supported | nietzsche-sing.06, .07, .13 (God dropped), .04, .23, .24 (rank kept) |
 | 2026-10-23 | C4.12 status | challenged | nietzsche-guilt.16 (free will invented to trace guilt) but .04, .05 (guilt as debt is older) and Nietzsche never names Locke: the Locke link is ours |
 | 2026-10-23 | C7.1 status | supported in structure | nietzsche-guilt.10, .12, .14: guilt moralized into the conscience becomes inexpiable; God the creditor who pays was its relief; the conscience outlives God |
+| 2026-10-23 | Where the mutation happens | A: two stages; philosophy drops the frames in layers, the culture makes the Self its own origin | Fits all 96 frame-loss passages; Nietzsche attributes *causa sui* to "the half-educated" |
+| 2026-10-23 | Frame-loss claims | A: C5.9–C5.13 and C4.12 rewritten; new C5.14 (the self-originating Self is a cultural event) | Each author stays testable; C5.14 is the next test |
+| 2026-10-23 | Next test | A: popular self-help and mind-cure literature, 1859–1930 (public domain) | Where "the half-educated" met these ideas; lets us date the turn |

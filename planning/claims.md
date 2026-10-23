@@ -58,7 +58,7 @@ These stand or fall with the section claims beneath them.
 | C4.9 | Locke founds personal identity on consciousness (memory), not on the substance of soul or body. | textual | Locke, *Essay* II.xxvii | supported |
 | C4.10 | For Locke, "person" is a forensic term: the unit to which actions, merit, guilt and punishment are attributed. | textual | Locke, *Essay* II.xxvii.26 | supported |
 | C4.11 | Locke's denial of innate principles makes the Self's beliefs and principles a product of experience and education rather than inheritance, though he keeps innate appetites and temperament. The blank page frees the mind from inborn authority but exposes it to custom. | textual | Locke, *Essay* I; II.i | revised |
-| C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | challenged |
+| C4.12 | Nietzsche argued that the free, responsible subject (free will, the doer behind the deed) was invented by priests to make guilt attributable and inexhaustible, though guilt itself, as debt, is older. He does not discuss Locke; the link to Locke's forensic person is the essay's own. | textual | Nietzsche, *Genealogy* I.13, II; *Twilight*, "Four Great Errors" §7 | revised |
 | C4.13 | At each of these moments the Self's ancestors acknowledged something true against orders that denied it (each person's equal standing before God and their own answerability), which only later became an acknowledgment of individual difference. | conceptual | all §4 sources; the classical inner court (Cicero, Seneca, via Montaigne); later sources for the shift to difference | revised |
 | C4.14 | The core moves came quickly (1517 → 1694, date to verify), perhaps faster than the concept could be integrated. "Unusually fast" stands only if a comparison backs it. | historical | Locke's 2nd edition; comparison with other intellectual shifts | revised |
 
@@ -113,15 +113,18 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 
 ## §5b Frame loss: when difference is cut from relation
 
+**The two stages (2026-10-23):** philosophy removed the limits layer by layer but kept the Self empty or fictional; the culture made it its own origin. C5.9 is the hinge, C5.14 the test.
+
 Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bounded by a shared frame. These claims test where, and whether, the frame is first dropped. All are hypotheses until read.
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C5.9 | After Emerson, difference is cut from its shared frame: the Self is valued as unique and as its own ground, answerable to nothing beyond itself. | historical + textual | all §5b sources | challenged |
-| C5.10 | Stirner is the first to make the unique Self its own sole ground ("All things are nothing to me"), dropping God, Man and society as frames. | textual | Stirner, *The Ego and His Own* | challenged |
-| C5.11 | Whitman's American Self expands to contain everyone ("every atom belonging to me as good belongs to you"): difference and democracy merge, and the frame becomes the Self itself. | textual | Whitman, "Song of Myself" | challenged |
-| C5.12 | Wilde makes "Be thyself" the message of Christ: self-realization replaces salvation as the end of life. | textual | Wilde, "The Soul of Man under Socialism" | supported |
-| C5.13 | Nietzsche makes each person's uniqueness a task ("become what you are," to verify) and drops God as its frame, but keeps an order of rank. | textual | Nietzsche, "Schopenhauer as Educator"; *Gay Science*; *Zarathustra*; *Beyond Good and Evil* | supported |
+| C5.9 | Philosophy dropped the frames in layers (answerability first: Whitman, Wilde; then the common frame: Stirner, Nietzsche) but never made the Self its own origin. Nietzsche names that move, the wish "to absolve God, the world, ancestors, chance, and society" and be *causa sui*, and calls it a self-contradiction of "the half-educated." | historical + textual | all §5b sources (nietzsche-sing.20) | revised |
+| C5.10 | Stirner is the first to drop every shared frame (God, Man, species, society, morality, conscience) and to put the unique one in God's place. But the unique one is a "creative nothing," transitory and self-consuming, not a self-originating source. Relation survives as use, feeling and a revocable "union." | textual | Stirner, *The Ego and His Own* | revised |
+| C5.11 | Whitman's American Self is Emerson's Over-Soul made democratic and bodily: a common self shared "on the same terms" with everyone. It drops answerability and ranks itself above God, but keeps relation; when it swells into containment ("it becomes mine"), the poem itself calls it "a usual mistake." | textual | Whitman, "Song of Myself" | revised |
+| C5.12 | Wilde makes "Be thyself" the message of Christ, with socialism only the means: the Self answers to no law, judge or duty. But it stays relational (it loves others "because they will be different") and is set inside a law of nature, Evolution. | textual | Wilde, "The Soul of Man under Socialism" | revised |
+| C5.13 | Nietzsche makes uniqueness a task ("become what thou art") and drops God and the common good as its frame, replacing them with an order of rank, the higher type, the body and the earth. He attacks the "I" and *causa sui* as fictions: he cuts difference from the common, not from relation, and rejects self-origination. | textual | Nietzsche, *Gay Science*, *Zarathustra*, *Beyond Good and Evil*, "Schopenhauer as Educator" | revised |
+| C5.14 | The self-originating Self, prior to its world and answerable to nothing, is a cultural event, not a philosophical one: it appears first in popular literature (self-help, mind-cure, advertising) and becomes general in the 20th century. | historical + textual | Smiles, *Self-Help*; New Thought (Trine); James, *Varieties* (mind-cure); Coué; Bernays, *Propaganda*; later: Rieff, Riesman, Lasch | untested |
 
 **Pressure points**
 
