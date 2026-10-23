@@ -26,3 +26,14 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-22 | C4.9 status | supported | locke-essay.02, locke-essay.03 |
 | 2026-10-22 | C4.10 status | supported | locke-essay.01 |
 | 2026-10-22 | C4.11 status | challenged | locke-essay.05: "white paper," not *tabula rasa*; the claim is about ideas, not inherited nature |
+| 2026-10-23 | §4 deep read | Luther, Calvin, Descartes, Locke read in depth; 87 tagged passages; all quotes checked against the texts | Gate: test §4 before widening |
+| 2026-10-23 | C4.1 status | challenged | luther-liberty.02, .09; calvin-institutes.13: the reformers' "inner man" is made by faith, not uncovered; Calvin assigns stations |
+| 2026-10-23 | C4.2 status | challenged | luther-nobility.02, .06, .08; luther-liberty.08; calvin-institutes.13, .14: callings and stations sanctified, not escaped |
+| 2026-10-23 | C4.3 status | challenged | luther-captivity.01, .04, .06; luther-liberty.04: standing before God individuated, mediation moved (word, congregation, princes), not removed |
+| 2026-10-23 | C4.4 status | still challenged | calvin-institutes.02–.08: works allowed as a secondary sign, forbidden as the test |
+| 2026-10-23 | C4.5 status | challenged | calvin-institutes.11, .13, .14; luther-nobility.07, .09: both reformers anti-commercial |
+| 2026-10-23 | C4.6 status | supported, with the union stated alongside | descartes-meditations.07, .02, .08; descartes-passions.02 |
+| 2026-10-23 | C4.13 status | challenged | luther-nobility.01, luther-liberty.06, .07; calvin-institutes.09: equality and self-denial, not difference |
+| 2026-10-23 | C4.14 status | challenged | locke-essay.18: II.xxvii is new in the 2nd edition (year to verify) |
+| 2026-10-23 | C5.8 status | challenged as worded | descartes-meditations.06, descartes-discourse.03: the I is prior to the material world but dependent on God |
+| 2026-10-23 | C7.1 status | challenged | locke-essay.11, .12, .14: Locke's forensic person limits guilt, under God's judgement |

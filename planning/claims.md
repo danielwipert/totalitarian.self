@@ -41,20 +41,20 @@ These stand or fall with the section claims beneath them.
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C4.1 | The Self was neither invented nor discovered: it acknowledged something already present that role-assigning social orders had repressed. | conceptual | all §4 sources | untested |
-| C4.2 | The collapse of the old social order and the rise of capital produced the awareness that persons could direct their own futures rather than fill socioeconomic roles. | historical | Fromm; Weber, *Protestant Ethic* | untested |
-| C4.3 | Luther individuated the relationship with God, freeing it from church structure. | textual | Luther, *Freedom of a Christian*; *Address to the Christian Nobility*; *Babylonian Captivity* | untested |
+| C4.1 | The Self was neither invented nor discovered: it acknowledged something already present that role-assigning social orders had repressed. | conceptual | all §4 sources | challenged |
+| C4.2 | The collapse of the old social order and the rise of capital produced the awareness that persons could direct their own futures rather than fill socioeconomic roles. | historical | Fromm; Weber, *Protestant Ethic* | challenged |
+| C4.3 | Luther individuated the relationship with God, freeing it from church structure. | textual | Luther, *Freedom of a Christian*; *Address to the Christian Nobility*; *Babylonian Captivity* | challenged |
 | C4.4 | Calvin's predestination, deterministic in doctrine, in practice drove individuals to prove their election through work and frugality. | textual + historical | Calvin, *Institutes* III.xxi–xxiv; Weber; Fromm | challenged |
-| C4.5 | The economic origin is load-bearing: the Self responded to a freer economic situation and was not a pure act of thought. | historical | Fromm; Weber; Taylor | untested |
-| C4.6 | The cogito locates identity in a non-material mind, separate from the body. | textual | Descartes, *Meditations* II and VI; *Discourse* IV | untested |
+| C4.5 | The economic origin is load-bearing: the Self responded to a freer economic situation and was not a pure act of thought. | historical | Fromm; Weber; Taylor | challenged |
+| C4.6 | The cogito locates identity in a non-material mind, separate from the body. | textual | Descartes, *Meditations* II and VI; *Discourse* IV | supported |
 | C4.7 | As received by Western culture, the cogito fused identity with a separate Mind removed from the physical world, whatever Descartes himself believed. | reception | Descartes reception history | untested |
 | C4.8 | Plato and Augustine laid the groundwork for the separate soul-mind-self; Descartes made it operational. | textual | Plato, *Phaedo*; Augustine, *Confessions* X, *De Trinitate* X, *City of God* XI.26 | untested |
 | C4.9 | Locke founds personal identity on consciousness (memory), not on the substance of soul or body. | textual | Locke, *Essay* II.xxvii | supported |
 | C4.10 | For Locke, "person" is a forensic term: the unit to which actions, merit, guilt and punishment are attributed. | textual | Locke, *Essay* II.xxvii.26 | supported |
 | C4.11 | The *tabula rasa* makes the Self something built from experience, not given, which cuts it loose from inherited nature. | textual | Locke, *Essay* I; II.i | challenged |
 | C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | untested |
-| C4.13 | At each of these moments the Self was doing something true: acknowledging difference against orders that denied it. | conceptual | all §4 sources | untested |
-| C4.14 | The core moves came unusually fast (1517 → 1689), faster than the concept could be integrated. | historical | comparison with other intellectual shifts | untested |
+| C4.13 | At each of these moments the Self was doing something true: acknowledging difference against orders that denied it. | conceptual | all §4 sources | challenged |
+| C4.14 | The core moves came unusually fast (1517 → 1689), faster than the concept could be integrated. | historical | comparison with other intellectual shifts | challenged |
 
 **Pressure points**
 
@@ -78,7 +78,7 @@ These stand or fall with the section claims beneath them.
 | C5.5 | The language of Selfhood (authenticity, expression, responsibility, reliance) has run this loop for centuries in the West, and more intensely in America. | historical + empirical | word-frequency data; Taylor; Trilling, *Sincerity and Authenticity* | untested |
 | C5.6 | The metaphysical shift: difference goes from relational to absolute, and the Self from *in* experience to *prior to* it. | conceptual | — | untested |
 | C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | untested |
-| C5.8 | Identifying the Self with a separate Mind is what lets it imagine itself prior to the world. | conceptual | Descartes; Heidegger, *Being and Time* | untested |
+| C5.8 | Identifying the Self with a separate Mind is what lets it imagine itself prior to the world. | conceptual | Descartes; Heidegger, *Being and Time* | challenged |
 
 **Pressure points**
 
@@ -111,7 +111,7 @@ These stand or fall with the section claims beneath them.
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C7.1 | A surfeit of self-reliance and responsibility produces pervasive blame and guilt, unrelated to original sin. | empirical + conceptual | Nietzsche; Lasch | untested |
+| C7.1 | A surfeit of self-reliance and responsibility produces pervasive blame and guilt, unrelated to original sin. | empirical + conceptual | Nietzsche; Lasch | challenged |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
 | C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | untested |

@@ -25,7 +25,7 @@ Identity is located in thinking. Note that the list includes *willing* and *feel
 
 > Nature also teaches me by these sensations of pain, hunger, thirst, etc., that I am not only lodged in my body as a pilot in a vessel, but that I am very closely united to it, and so to speak so intermingled with it that I seem to compose with it one whole.
 
-Descartes himself resists the pure "ghost in a machine" picture. That's why C4.7 matters: if the culture took the separate Mind from Descartes, it took the *Discourse* IV version and dropped this one. The gap between what Descartes said and what was received is evidence for a reception claim, but it can't be cited as Descartes's own view.
+Descartes himself resists the pure "ghost in a machine" picture. That's why C4.7 matters: if the culture took the separate Mind from Descartes, it kept the first half and dropped the union, which Descartes states in every major work (*Discourse* V, descartes-discourse.02; *Passions* I.30, descartes-passions.02). The gap between what Descartes said and what was received is evidence for a reception claim, but it can't be cited as Descartes's own view.
 
 ### descartes-meditations.03 · Meditation II — "Am I so dependent on body and senses?"
 
