@@ -124,7 +124,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C5.11 | Whitman's American Self is Emerson's Over-Soul made democratic and bodily: a common self shared "on the same terms" with everyone. It drops answerability and ranks itself above God, but keeps relation; when it swells into containment ("it becomes mine"), the poem itself calls it "a usual mistake." | textual | Whitman, "Song of Myself" | revised |
 | C5.12 | Wilde makes "Be thyself" the message of Christ, with socialism only the means: the Self answers to no law, judge or duty. But it stays relational (it loves others "because they will be different") and is set inside a law of nature, Evolution. | textual | Wilde, "The Soul of Man under Socialism" | revised |
 | C5.13 | Nietzsche makes uniqueness a task ("become what thou art") and drops God and the common good as its frame, replacing them with an order of rank, the higher type, the body and the earth. He attacks the "I" and *causa sui* as fictions: he cuts difference from the common, not from relation, and rejects self-origination. | textual | Nietzsche, *Gay Science*, *Zarathustra*, *Beyond Good and Evil*, "Schopenhauer as Educator" | revised |
-| C5.14 | The self-originating Self, prior to its world and answerable to nothing, is a cultural event, not a philosophical one: it appears first in popular literature (self-help, mind-cure, advertising) and becomes general in the 20th century. | historical + textual | Smiles, *Self-Help*; New Thought (Trine); James, *Varieties* (mind-cure); Coué; Bernays, *Propaganda*; later: Rieff, Riesman, Lasch | challenged |
+| C5.14 | The culture, not philosophy, made the Self self-originating, in two steps. First it made the self the *cause* of its own conditions while keeping a borrowed frame: mind-cure and New Thought, 1890s ("Within yourself lies the cause of whatever enters into your life"), powered by the Infinite. Second, the borrowed power thins and the self becomes its own *origin*, answerable to nothing (20th century; untested). | historical + textual | step 1: Trine, James (tested); step 2: Wattles (1910), Hill (1937), later self-help and therapy; Rieff, Lasch | revised |
 
 **Pressure points**
 
@@ -166,7 +166,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | supported |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
-| C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | challenged |
+| C7.4 | Failure is attributed mainly to the Self, rarely to environmental, social or historical factors. This comes from making the self the *cause* of its conditions, not from losing the frames: Providence licenses it first (Smiles), then mind (Trine). Once God's relief (Nietzsche's creditor who pays) is gone, the blame can no longer be discharged. | empirical + textual | smiles-selfhelp.11, .15; trine-infinite.09, .11; nietzsche-guilt.10; attribution research | revised |
 | C7.5 | A surfeit of personal expression produces a cacophony that makes sensible discourse nearly impossible. | empirical + conceptual | MacIntyre, *After Virtue* (emotivism); Sennett | untested |
 | C7.6 | Lasch's account of the narcissistic society is as the spec summarizes it (invisible hierarchy, symbol competition, defensive living, artificial communities, no past and no future). | textual | Lasch, *The Culture of Narcissism* | untested |
 | C7.7 | The Totalitarian Self is the underlying cause of the collective symptom Lasch describes. | conceptual | Lasch | untested |
@@ -176,6 +176,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 **Pressure points**
 
+- **SPEC §7.1** says failure is personalized "because those frames have been deflected out of existence (§5)." The texts show personal blame arriving *before* frame loss (Smiles, Trine). See revised C7.4.
 - **C7.4:** "Never" is too strong for an empirical claim. Attribution research finds a tendency, not an absolute.
 - **C7.8:** Rousseau's case shows suspicion, not indifference (see C7.10).
 - **C7.8:** The narcissism-epidemic data (Twenge) is disputed by other researchers.
@@ -187,10 +188,11 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
 | C8.1 | Self-totalization runs a repeatable process: genuine expression → connection → convergence → attachment → perversion → accessory. | conceptual + empirical | Goffman; Debord; subculture studies (Hebdige, *Subculture*) | challenged |
-| C8.2 | Accessorizing is conformity performed in the vocabulary of self-expression. Unlike Mill's "despotism of custom," which works through the vocabulary of station ("what is suitable to my position?"), it speaks the language Mill offered as the cure. | conceptual | Mill (mill-liberty.05); Simmel, "Fashion" | revised |
+| C8.2 | Accessorizing is conformity performed in the vocabulary of self-expression. The mechanism is old (Mill's "despotism of custom" in the vocabulary of station; Wilde's conformity passed off as "natural"; Bernays's engineered choices that feel like "his own idea"). What is new is the idiom: "self-expression" as the consumer's *own* word for conforming. | conceptual + historical | mill-liberty.05; wilde-soul.13; bernays-propaganda.08, .11; Simmel; Marchand; Frank | revised |
 | C8.3 | The process produces False Groups: coherent in appearance, incoherent in substance. | conceptual | — | untested |
 | C8.4 | The engine is inside the ideology of the Self: the desire to *belong*, routed through self-expression. This differs from Mill's external engines (education, commerce, communications), from a culture industry imposed from outside, and from Rousseau's *amour-propre*, whose engine is the wish for *distinction*, not belonging. | conceptual | Mill (mill-liberty.13); Rousseau (rousseau-inequality.07, .11); Adorno & Horkheimer; Frank, *The Conquest of Cool* | challenged |
-| C8.5 | The desire to belong is routed through self-expression because no other vocabulary remains available. | conceptual | §5 | challenged |
+| C8.5 | The desire to belong is routed through self-expression because, by the time the idiom passes to persons (after 1928, date to find), no other vocabulary of belonging remains available. | historical + conceptual | C8.6; §5 | revised |
+| C8.6 | The self-expression idiom passes from corporations to persons after 1928: Bernays reserves "express its true personality" for corporations and public figures, while his consumers still speak of position. The date it reaches the consumer's own mouth is the date §8's mechanism becomes possible. | historical | Bernays, *Crystallizing Public Opinion* (1923); Marchand, *Advertising the American Dream*; Frank, *The Conquest of Cool* (copyrighted: excerpts) | untested |
 
 **Pressure points**
 
