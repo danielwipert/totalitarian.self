@@ -21,6 +21,8 @@ Voice target: declarative and readable for a serious general philosophy reader; 
 
 ## 1. Thesis
 
+> **Revised 2026-10-23:** after testing §4 against the primary texts, "acknowledgment of human difference" became "acknowledgment that each person stands answerable on their own." It was widened again the same day, after testing the Renaissance and Enlightenment (§4c), to name two roots: answerability and self-shaping. The current thesis is C1.1 in `planning/claims.md`; the reasons are in `planning/decisions.md`. The text below is the original.
+
 **The Self began as a necessary acknowledgment of human difference, but in the West — and above all in America — it has calcified into a totalizing dogma that suppresses the very truths it was meant to reveal.**
 
 Three claims are packed into that sentence, and each gets its own section:
@@ -236,6 +238,8 @@ True, and they are allies in the lineage (§13). But a philosophical dissolution
 
 ## 11. Deferred (out of scope for this document)
 
+> **Live copy:** `deferred/cures.md`. Update that file; this section is a snapshot as of 2026-10-22.
+
 Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 
 - **The cure.** Any remedy for the Totalitarian Self.
@@ -248,6 +252,8 @@ Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 ---
 
 ## 12. Decision log
+
+> **Live copy:** `planning/decisions.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 | Date | Gate | Decision | Why |
 |---|---|---|---|
@@ -263,6 +269,8 @@ Preserved so nothing is lost. Not to be developed until the diagnosis is secure.
 ---
 
 ## 13. Sources and lineage
+
+> **Live copy:** `sources/bibliography.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 Tagged by the role each plays in the argument. Open-ended — add freely. Full citations to be added as sources are pulled.
 
@@ -310,6 +318,8 @@ Tagged by the role each plays in the argument. Open-ended — add freely. Full c
 ---
 
 ## 14. Open questions (to resolve before drafting the affected section)
+
+> **Live copy:** `planning/open-questions.md`. Update that file; this section is a snapshot as of 2026-10-22.
 
 1. **The line test (§10.2).** What is the one question a reader can ask themselves to tell lens from source?
 2. **The fundamentalist carrier (§9.1 / §10.3).** Keep with the "projected Self" argument, or drop?
