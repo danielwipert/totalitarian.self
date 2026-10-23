@@ -102,7 +102,7 @@ The strongest single text for C4.29. Even "the greatest judgment" cannot easily 
 ### hume-treatise.10 · T II.i.11 — judging "our own worth" by "authority and sympathy"
 
 - **Claims:** C4.29 (for), C4.17 (complicates)
-- **Location:** T II.i.11, ¶9 (verify); `texts/hume-treatise.txt` lines 11241–11250, 11255–11258
+- **Location:** T II.i.11, ¶9 (verify); `texts/hume-treatise.txt` lines 11239–11250, 11254–11258
 - **Checked:** text file
 
 > It is certain, then, that if a person considered himself in the same light, in which he appears to his admirer, he would first receive a separate pleasure, and afterwards a pride or self-satisfaction, according to the hypothesis above explained. Now nothing is more natural than for us to embrace the opinions of others in this particular; both from sympathy, which renders all their sentiments intimately present to us; and from reasoning, which makes us regard their judgment, as a kind of argument for what they affirm. These two principles of authority and sympathy influence almost all our opinions; but must have a peculiar influence, when we judge of our own worth and character. [...] To which we may add, that being conscious of great partiality in our own favour, we are peculiarly pleased with any thing, that confirms the good opinion we have of ourselves, and are easily shocked with whatever opposes it.
@@ -232,7 +232,7 @@ A performed self ("affected", "disguised", "concealed") for the eyes of others, 
 ### hume-enquiry.08 · EPM App. IV — follies that "show him, even to himself, in the most contemptible [...] colours"
 
 - **Claims:** C4.29 (for), C7.4 (complicates)
-- **Location:** EPM Appendix IV, ¶3 (verify); `texts/hume-enquiry-morals.txt` lines 4708–4718
+- **Location:** EPM Appendix IV, ¶3 (verify); `texts/hume-enquiry-morals.txt` lines 4707–4718
 - **Checked:** text file
 
 > Who, on the other hand, is not deeply mortified with reflecting on his own folly and dissoluteness, and feels not a secret sting or compunction whenever his memory presents any past occurrence, where he behaved with stupidity of ill-manners? No time can efface the cruel ideas of a man's own foolish conduct, or of affronts, which cowardice or impudence has brought upon him. They still haunt his solitary hours, damp his most aspiring thoughts, and show him, even to himself, in the most contemptible and most odious colours imaginable. What is there too we are more anxious to conceal from others than such blunders, infirmities, and meannesses, or more dread to have exposed by raillery and satire?
