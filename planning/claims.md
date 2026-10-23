@@ -54,12 +54,12 @@ These stand or fall with the section claims beneath them.
 | C4.5 | The economic origin is load-bearing: the Self responded to a freer economic situation and was not a pure act of thought. The reformers were unintended contributors, not advocates. | historical | Weber; Fromm; Tawney | revised |
 | C4.6 | The cogito locates identity in a thinking substance really distinct from the body. Descartes always pairs this with the soul's close union with the body (*Discourse* V, *Meditations* VI, *Passions* I.30), treating the union as what the person *has*, not what the I *is*. | textual | Descartes, *Discourse*, *Meditations*, *Passions* | supported |
 | C4.7 | As received, the cogito was reduced to its first half (a mind distinct from the body), and the union Descartes paired with it in every major work was dropped. | reception | later readers: Hobbes's objections, Henry More, Locke, Malebranche; Ryle for the 20th-century picture | revised |
-| C4.8 | Paul, Plato and Augustine laid the groundwork for the separate soul-mind-self; Descartes made it operational. | textual | Paul, 2 Cor. 4:16, Rom. 7; Plato, *Phaedo*; Augustine, *Confessions* X, *De Trinitate* X, *City of God* XI.26 | revised |
+| C4.8 | Paul, Plato, Augustine and the Stoics (Cicero, Seneca) laid the groundwork for the separate soul-mind-self; Descartes made it operational. | textual | Paul, 2 Cor. 4:16, Rom. 7; Plato, *Phaedo*; Augustine, *Confessions* X, *De Trinitate* X, *City of God* XI.26; Cicero, *De Officiis* I.31; Seneca, *Letters* (via montaigne-essays.09) | revised |
 | C4.9 | Locke founds personal identity on consciousness (memory), not on the substance of soul or body. | textual | Locke, *Essay* II.xxvii | supported |
 | C4.10 | For Locke, "person" is a forensic term: the unit to which actions, merit, guilt and punishment are attributed. | textual | Locke, *Essay* II.xxvii.26 | supported |
 | C4.11 | Locke's denial of innate principles makes the Self's beliefs and principles a product of experience and education rather than inheritance, though he keeps innate appetites and temperament. The blank page frees the mind from inborn authority but exposes it to custom. | textual | Locke, *Essay* I; II.i | revised |
 | C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | untested |
-| C4.13 | At each of these moments the Self's ancestors acknowledged something true against orders that denied it (each person's equal standing before God and their own answerability), which only later became an acknowledgment of individual difference. | conceptual | all §4 sources; later sources for the shift to difference | revised |
+| C4.13 | At each of these moments the Self's ancestors acknowledged something true against orders that denied it (each person's equal standing before God and their own answerability), which only later became an acknowledgment of individual difference. | conceptual | all §4 sources; the classical inner court (Cicero, Seneca, via Montaigne); later sources for the shift to difference | revised |
 | C4.14 | The core moves came quickly (1517 → 1694, date to verify), perhaps faster than the concept could be integrated. "Unusually fast" stands only if a comparison backs it. | historical | Locke's 2nd edition; comparison with other intellectual shifts | revised |
 
 **Pressure points**
@@ -77,12 +77,12 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C4.15 | There is an identifiable turn at which the answerable Self becomes the different Self: one's feelings, will and desires are held to be one's own *and unlike anyone else's*, and that unlikeness is a value. | historical + textual | all §4b sources | challenged |
-| C4.16 | Rousseau makes individual difference itself a value, and claims it as the ground of self-knowledge ("I am not made like any one I have been acquainted with"). | textual | Rousseau, *Confessions* I | challenged |
-| C4.17 | Rousseau keeps the answerability frame (the "last trumpet," judgement, conscience) but moves its source inward, into feeling and an inner voice. | textual | Rousseau, *Confessions*; *Emile* IV ("Creed of a Savoyard Priest") | challenged |
-| C4.18 | Rousseau's natural man is self-sufficient and his social man lives "in the opinion of others": the split between an authentic inner Self and a false social one starts here. | textual | Rousseau, *Discourse on Inequality* | challenged |
-| C4.19 | Emerson turns difference into a duty: trust in one's own nature is the virtue, conformity the vice; the limits of §4 (God, community) are absorbed into the Self. | textual | Emerson, "Self-Reliance," "The Over-Soul" | challenged |
-| C4.20 | Mill turns individuality into a social good to be protected from the "despotism of custom," the liberal form of the different Self. | textual | Mill, *On Liberty* III | challenged |
+| C4.15 | Difference becomes a value in the bridge from Rousseau to Emerson, but always inside a shared frame (the common heart, the universal soul, utility). Singularity, difference cut from relation, appears in none of the founding texts: it is the mutation (§5), not an inheritance. | historical + textual | all §4b sources; later authors as checks (Stirner, Whitman, Wilde, Nietzsche) | revised |
+| C4.16 | Rousseau claims difference as a value and as the reason others cannot judge him, but treats the inner man he displays as typical of every man; in the *Discourse* the "fury of distinguishing ourselves" is a vice. His difference is one of make and sincerity, not of moral standard. | textual | Rousseau, *Confessions* I; *Discourse on Inequality* | revised |
+| C4.17 | Rousseau keeps the answerability frame but moves its source inward, to feeling and conscience, a voice that is divine and the same in everyone, and moves its court outward: the self writes its own record and the public is the jury, with God as nominal judge. The vicar keeps the limit (God, inherited religion); Rousseau as tutor loosens it (*Emile* IV). | textual | Rousseau, *Confessions*; *Emile* IV | revised |
+| C4.18 | Rousseau splits a self-sufficient Self that "lives within himself" from a social Self that "knows only how to live in the opinion of others." But his inner Self is uniform and common to all, and difference sits on the social side. The authentic/false split starts here (with a precursor in Montaigne); identifying the authentic Self with the *different* Self does not. | textual | Rousseau, *Discourse on Inequality*; *Emile*; Montaigne | revised |
+| C4.19 | Emerson makes nonconformity a duty and each person's unlikeness their calling, but absorbs the §4 limits instead of dropping them: God moves inside the Self, and the community's claim is replaced by an impersonal "common nature." Difference is how a universal soul incarnates in each person; Emerson's Self is a channel, not a singular source. | textual | Emerson, "Self-Reliance," "The Over-Soul," "Spiritual Laws" | revised |
+| C4.20 | Mill defends individuality first as part of well-being and second as a source of social progress, under "utility in the largest sense" and bounded by the rights and interests of others. He defends the turn to difference rather than making it (crediting Humboldt), and marks where difference is valued apart from its content ("the mere example of nonconformity [...] is itself a service"). | textual | Mill, *On Liberty* III | revised |
 
 **Pressure points**
 
@@ -125,6 +125,7 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 | C6.6 | The philosophy of the Self helped America become a world empire faster than any in history. | historical | comparative history | untested |
 | C6.7 | That success validated the concept and removed any incentive to check it. | historical | — | untested |
 | C6.8 | The philosophy of the Self became dogmatic and mutated; the Reagan era intensified this but did not start it. | historical | open question 3 | untested |
+| C6.9 | As received in America, "Self-Reliance" was cut down to its nonconformist half and the Over-Soul dropped, as the cogito lost the union (C4.7). | reception | anthologies, school readers, popular and commercial uses of Emerson | untested |
 
 **Pressure points**
 
@@ -147,10 +148,12 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 | C7.7 | The Totalitarian Self is the underlying cause of the collective symptom Lasch describes. | conceptual | Lasch | untested |
 | C7.8 | At the individual level, the effect is indifference to the plight of others. | empirical | Twenge & Campbell (with care) | untested |
 | C7.9 | The combined effect is an existential no-man's-land: cut off from one's own feelings, bound to a group founded on superficial connection. | conceptual | — | untested |
+| C7.10 | Difference experienced as being misjudged breeds suspicion of others: the Self that others cannot judge comes to see them as hostile. Rousseau's late *Confessions* are the historical case. | textual + empirical | Rousseau, *Confessions* (rousseau-confessions.08, .13, .14); *Rousseau, Judge of Jean-Jacques* | untested |
 
 **Pressure points**
 
 - **C7.4:** "Never" is too strong for an empirical claim. Attribution research finds a tendency, not an absolute.
+- **C7.8:** Rousseau's case shows suspicion, not indifference (see C7.10).
 - **C7.8:** The narcissism-epidemic data (Twenge) is disputed by other researchers.
 
 ---
@@ -160,13 +163,14 @@ Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
 | C8.1 | Self-totalization runs a repeatable process: genuine expression → connection → convergence → attachment → perversion → accessory. | conceptual + empirical | Goffman; Debord; subculture studies (Hebdige, *Subculture*) | untested |
-| C8.2 | Accessorizing is an act of conformity performed in the vocabulary of self-expression. | conceptual | Simmel, "Fashion" | untested |
+| C8.2 | Accessorizing is conformity performed in the vocabulary of self-expression. Unlike Mill's "despotism of custom," which works through the vocabulary of station ("what is suitable to my position?"), it speaks the language Mill offered as the cure. | conceptual | Mill (mill-liberty.05); Simmel, "Fashion" | revised |
 | C8.3 | The process produces False Groups: coherent in appearance, incoherent in substance. | conceptual | — | untested |
-| C8.4 | The engine is inside the ideology of the Self, not imposed from outside by markets or media. | conceptual | Adorno & Horkheimer, "The Culture Industry"; Frank, *The Conquest of Cool* | untested |
+| C8.4 | The engine is inside the ideology of the Self: the desire to *belong*, routed through self-expression. This differs from Mill's external engines (education, commerce, communications), from a culture industry imposed from outside, and from Rousseau's *amour-propre*, whose engine is the wish for *distinction*, not belonging. | conceptual | Mill (mill-liberty.13); Rousseau (rousseau-inequality.07, .11); Adorno & Horkheimer; Frank, *The Conquest of Cool* | revised |
 | C8.5 | The desire to belong is routed through self-expression because no other vocabulary remains available. | conceptual | §5 | untested |
 
 **Pressure points**
 
+- **C8.1:** Rousseau's self-expression is addressed to a judging public from the start (rousseau-confessions.05, .15), so the audience may not be a later corruption. Mill values eccentricity apart from what it expresses (mill-liberty.10), which may be the opening accessorizing later used.
 - **C8.1, C8.2:** Simmel's "Fashion" (1904) already describes the tension between imitation and distinction. Engage with it, or the mechanism looks unoriginal.
 
 ---
