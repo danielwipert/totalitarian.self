@@ -61,6 +61,12 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `mandeville-fable-of-the-bees.txt` | Mandeville, *The Fable of the Bees* (1714–29) | original English | [Gutenberg #57260](https://www.gutenberg.org/ebooks/57260) | clean |
 | `rousseau-social-contract.txt` | Rousseau, *The Social Contract* (1762) and *Discourses* | G. D. H. Cole (1913) | [Gutenberg #46333](https://www.gutenberg.org/ebooks/46333) | clean |
 | `franklin-autobiography.txt` | Franklin, *Autobiography* (written 1771–90) | original English | [Gutenberg #20203](https://www.gutenberg.org/ebooks/20203) | clean |
+| `tocqueville-democracy-vol1.txt` | Tocqueville, *Democracy in America* vol. 1 (1835) | Henry Reeve | [Gutenberg #815](https://www.gutenberg.org/ebooks/815) | clean |
+| `tocqueville-democracy-vol2.txt` | Tocqueville, *Democracy in America* vol. 2 (1840), incl. the chapters on individualism | Henry Reeve | [Gutenberg #816](https://www.gutenberg.org/ebooks/816) | clean |
+| `turner-frontier.txt` | Turner, *The Frontier in American History* (1920), incl. "The Significance of the Frontier in American History" (1893) | original English | [Gutenberg #22994](https://www.gutenberg.org/ebooks/22994) | clean |
+| `crevecoeur-letters.txt` | Crèvecoeur, *Letters from an American Farmer* (1782), incl. Letter III, "What Is an American?" | original English | [Gutenberg #4666](https://www.gutenberg.org/ebooks/4666) | clean |
+| `thoreau-walden.txt` | Thoreau, *Walden* (1854) and "Civil Disobedience" (1849) | original English | [Gutenberg #205](https://www.gutenberg.org/ebooks/205) | clean |
+| `winthrop-model-christian-charity-mhs1838.txt` | Winthrop, "A Modell of Christian Charity" (1630), first printed in *Collections of the Massachusetts Historical Society*, 3rd series, vol. 7 (1838); the whole volume, sermon from about line 2534 | original 17th-c. spelling | [archive.org](https://archive.org/details/MeaseMHS1838) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
 

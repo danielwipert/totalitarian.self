@@ -178,11 +178,16 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C6.7 | That success validated the concept and removed any incentive to check it. | historical | — | untested |
 | C6.8 | The philosophy of the Self became dogmatic and mutated; the Reagan era intensified this but did not start it. | historical | open question 3 | untested |
 | C6.9 | As received in America, "Self-Reliance" was cut down to its nonconformist half and the Over-Soul dropped, as the cogito lost the union (C4.7). | reception | anthologies, school readers, popular and commercial uses of Emerson | challenged |
+| C6.10 | Tocqueville diagnoses "individualism" as a danger born of democracy: a calm feeling that leads each person to withdraw from the mass into a small circle, and finally into himself. He names its American counterweights (associations, religion, local self-government, self-interest rightly understood). | textual | Tocqueville, *Democracy in America* vol. 2 | untested |
+| C6.11 | Crèvecoeur's American is a new man made by leaving behind inherited prejudices, ranks and manners: the person remade by the new country, an early statement of C6.2. | textual | Crèvecoeur, *Letters from an American Farmer*, Letter III | untested |
+| C6.12 | Thoreau lives out self-reliance as a deliberate withdrawal from society's demands, bounded by nature and conscience rather than by community. | textual | Thoreau, *Walden*; "Civil Disobedience" | untested |
 
 **Pressure points**
 
 - **C6.2, C6.4:** Puritan New England was intensely communal (covenant, township, congregation). Winthrop's "Model of Christian Charity" (1630) argues *against* the separate Self, and Tocqueville praised American associations as a check on individualism.
 - **C6.3:** Turner's frontier thesis is heavily contested by historians, and frontier life depended on cooperation and on government land policy.
+- **C6.10:** Tocqueville may make America the *cure* as much as the host: its associations and religion check the individualism democracy breeds. If so, C6.2 (thin structures) is wrong for his America.
+- **C6.3:** read Turner himself first: does he say the frontier made self-reliance, or individualism, or democracy? And does he name its costs?
 - **C6.6:** "Faster than any in history" is a strong comparative claim (consider Rome, the Mongols, Britain). It may need softening.
 
 ---
