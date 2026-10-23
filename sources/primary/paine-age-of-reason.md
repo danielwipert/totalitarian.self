@@ -40,7 +40,7 @@ Paine's own story of the separation: political revolution frees religion, and th
 ### paine-reason.04 · Part I, ch. II — "as if the way to God was not open to every man alike"
 
 - **Claims:** C4.30 (for), C4.3 (for)
-- **Location:** Part I, ch. II, "Of Missions and Revelations"; `texts/paine-age-of-reason.txt` lines 813–819, 834–838
+- **Location:** Part I, ch. II, "Of Missions and Revelations"; `texts/paine-age-of-reason.txt` lines 815–819, 838–841
 - **Checked:** text file
 
 > Every national church or religion has established itself by pretending some special mission from God, communicated to certain individuals. The Jews have their Moses; the Christians their Jesus Christ, their apostles and saints; and the Turks their Mahomet; as if the way to God was not open to every man alike. [...] It is revelation to the first person only, and hearsay to every other, and, consequently, they are not obliged to believe it.
