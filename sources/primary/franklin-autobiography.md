@@ -52,7 +52,7 @@ Separation from revealed religion, by private judgment, as C4.30 says. But the t
 
 Self-improvement is done in company and under rules. The community is voluntary and made, not inherited. That fits C6.2 (thin inherited structures), but it shows the gap filled by association rather than left empty (compare Tocqueville).
 
-### franklin.05 · Ch. VIII (Part II) — the library: "putting myself as much as I could out of sight"
+### franklin.05 · Ch. VIII (Part II) — the library: "put myself as much as I could out of sight"
 
 - **Claims:** C4.31 (against), C8.2 (complicates)
 - **Location:** ch. VIII; `texts/franklin-autobiography.txt` lines 3344–3359
@@ -75,7 +75,7 @@ The calling text, handed down by a Puritan father, survives, and so do the disci
 ### franklin.07 · Ch. VIII (Part II) — election "unintelligible"; "rather to make us Presbyterians than good citizens"
 
 - **Claims:** C4.30 (for), C4.31 (against), C4.4 (complicates)
-- **Location:** ch. VIII; `texts/franklin-autobiography.txt` lines 3399–3435, 3452–3456
+- **Location:** ch. VIII; `texts/franklin-autobiography.txt` lines 3399–3435, 3450–3455
 - **Checked:** text file
 
 > I had been religiously educated as a Presbyterian; and though some of the dogmas of that persuasion, such as the *eternal decrees of God*, *election*, *reprobation*, *etc.*, appeared to me unintelligible, others doubtful, and I early absented myself from the public assemblies of the sect, Sunday being my studying day, I never was without some religious principles. I never doubted, for instance, the existence of the Deity; that he made the world, and govern'd it by his Providence; that the most acceptable service of God was the doing good to man; that our souls are immortal; and that all crime will be punished, and virtue rewarded, either here or hereafter. These I esteem'd the essentials of every religion [...] serv'd principally to divide us, and make us unfriendly to one another.
@@ -141,14 +141,14 @@ The religious frame becomes non-sectarian, and virtue is justified by "the natur
 ### franklin.12 · Ch. IX (Part II) — humility: "the *reality*" versus "the *appearance*"
 
 - **Claims:** C8.2 (complicates), C4.25 (for, as a later case), C4.31 (complicates)
-- **Location:** ch. IX; `texts/franklin-autobiography.txt` lines 3903–3916, 3933–3949
+- **Location:** ch. IX; `texts/franklin-autobiography.txt` lines 3903–3913, 3936–3949
 - **Checked:** text file
 
 > My list of virtues contain'd at first but twelve; but a Quaker friend having kindly informed me that I was generally thought proud; that my pride show'd itself frequently in conversation; [...] I determined endeavouring to cure myself, if I could, of this vice or folly among the rest, and I added *Humility* to my list, giving an extensive meaning to the word. I cannot boast of much success in acquiring the *reality* of this virtue, but I had a good deal with regard to the *appearance* of it.
 
 > And to this habit (after my character of integrity) I think it principally owing that I had early so much weight with my fellow-citizens when I proposed new institutions, or alterations in the old, and so much influence in public councils when I became a member [...] In reality, there is, perhaps, no one of our natural passions so hard to subdue as *pride*. Disguise it, struggle with it, beat it down, stifle it, mortify it as much as one pleases, it is still alive, and will every now and then peep out and show itself; you will see it, perhaps, often in this history; for, even if I could conceive that I had compleatly overcome it, I should probably be proud of my humility.
 
-The virtue is added because of how others see him, and kept for its effect on his fellow-citizens. Franklin openly separates appearance from reality, as Mandeville's courtier does (mandeville.10's Remark). The self is a performance aimed at the community, not a withdrawal from it.
+The virtue is added because of how others see him, and kept for its effect on his fellow-citizens. Franklin openly separates appearance from reality, as the "dissembling courtier" does in Mandeville's Remark on l. 182 (`texts/mandeville-fable-of-the-bees.txt` lines 3168–3176). The self is a performance aimed at the community, not a withdrawal from it.
 
 ### franklin.13 · Ch. IX (Part III) — the "United Party for Virtue"; "one man of tolerable abilities may work great changes"
 
