@@ -6,7 +6,7 @@
 - **Citation form:** part + section (poem line, or "Remark on l. N" as this edition heads the Remarks), plus this file's line
 - **Claims to test:** C4.31, C4.29, C4.5, C8.1, C8.2, C8.4
 
-This edition heads each Remark by the poem line it glosses ("Line 182. And odious pride a million more"), not by the letters (A)–(Y) of Kaye. The Remark on pride and dress, Kaye's Remark (M.), is here "Remark on l. 182." The edition prints a line number after every fifth verse line; those numbers are left out of the quotations below, so the verse pieces score just under exact in `check_quotes.py`.
+This edition heads each Remark by the poem line it glosses ("Line 182. And odious pride a million more"), not by the letters (A)–(Y) of Kaye. The Remark on pride and dress, Kaye's Remark (M.), is here "Remark on l. 182." The edition prints a line number after every fifth verse line; in the quotations below it is given in brackets, e.g. [l. 155], where it falls. Verse line breaks are not marked.
 
 ## Passages
 
@@ -18,7 +18,7 @@ This edition heads each Remark by the poem line it glosses ("Line 182. And odiou
 
 > Vast numbers throng'd the fruitful hive; Yet those vast numbers made 'em thrive; Millions endeavouring to supply Each other's lust and vanity;
 
-> Thus every part was full of vice, Yet the whole mass a paradise; [...] Such were the blessings of that state; Their crimes conspir'd to make them great: [...] The worst of all the multitude Did something for the common good.
+> Thus every part was full of vice, [l. 155] Yet the whole mass a paradise; [...] Such were the blessings of that state; Their crimes conspir'd to make them great: [...] The worst of all the multitude Did something for the common good.
 
 Self-interest is the engine of society, but it works only *between* bees: each supplies the others' vanity. This is a society made of selves, not selves standing before or apart from society.
 
@@ -28,7 +28,7 @@ Self-interest is the engine of society, but it works only *between* bees: each s
 - **Location:** Part I, the poem's Moral; `texts/mandeville-fable-of-the-bees.txt` lines 745–759
 - **Checked:** text file
 
-> Fraud, luxury, and pride must live, While we the benefits receive: [...] So vice is beneficial found, When it's by justice lopp'd and bound; Nay, where the people would be great, As necessary to the state, As hunger is to make 'em eat.
+> Fraud, luxury, and pride must live, [l. 415] While we the benefits receive: [...] So vice is beneficial found, [l. 425] When it's by justice lopp'd and bound; Nay, where the people would be great, As necessary to the state, As hunger is to make 'em eat.
 
 Even the most famous apologist for self-interest bounds it: vice is useful only when cut and tied, like a vine. The limit (justice, law) is part of the doctrine, not an afterthought, which fits the §4 pattern.
 

@@ -26,7 +26,7 @@ The founding sentence of the self-made story. It credits the rise to "means" *an
 - **Location:** ch. I ¶¶4–5; `texts/franklin-autobiography.txt` lines 586–616
 - **Checked:** text file
 
-> Most people dislike vanity in others, whatever share they have of it themselves; but I give it fair quarter wherever I meet with it, being persuaded that it is often productive of good to the possessor, and to others that are within his sphere of action; and therefore, in many cases, it would not be altogether absurd if a man were to thank God for his vanity among the other comforts of life. And now I speak of thanking God, I desire with all humility to acknowledge that I owe the mentioned happiness of my past life to His kind providence, which lead me to the means I used and gave them success.
+> Most people dislike vanity in others, whatever share they have of it themselves; but I give it fair quarter wherever I meet with it, being persuaded that it is often productive of good to the possessor, and to others that are within his sphere of action; and therefore, in many cases, it would not be altogether absurd if a man were to thank God for his vanity among the other comforts of life. [...] And now I speak of thanking God, I desire with all humility to acknowledge that I owe the mentioned happiness of my past life to His kind providence, which lead me to the means I used and gave them success.
 
 Mandeville domesticated: vanity is useful to oneself "and to others" (Franklin met Mandeville at his London club; ch. VI, lines 2205–2207). But it sits inside providence, which "lead me to the means I used." He is not his own origin.
 
