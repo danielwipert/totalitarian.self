@@ -26,7 +26,7 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-22 | C4.9 status | supported | locke-essay.02, locke-essay.03 |
 | 2026-10-22 | C4.10 status | supported | locke-essay.01 |
 | 2026-10-22 | C4.11 status | challenged | locke-essay.05: "white paper," not *tabula rasa*; the claim is about ideas, not inherited nature |
-| 2026-10-23 | §4 deep read | Luther, Calvin, Descartes, Locke read in depth; 87 tagged passages; all quotes checked against the texts | Gate: test §4 before widening |
+| 2026-10-23 | §4 deep read | Luther, Calvin, Descartes, Locke read in depth; 85 tagged passages; all quotes checked against the texts | Gate: test §4 before widening |
 | 2026-10-23 | C4.1 status | challenged | luther-liberty.02, .09; calvin-institutes.13: the reformers' "inner man" is made by faith, not uncovered; Calvin assigns stations |
 | 2026-10-23 | C4.2 status | challenged | luther-nobility.02, .06, .08; luther-liberty.08; calvin-institutes.13, .14: callings and stations sanctified, not escaped |
 | 2026-10-23 | C4.3 status | challenged | luther-captivity.01, .04, .06; luther-liberty.04: standing before God individuated, mediation moved (word, congregation, princes), not removed |
