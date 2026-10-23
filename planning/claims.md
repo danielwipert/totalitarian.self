@@ -71,6 +71,26 @@ These stand or fall with the section claims beneath them.
 - **C4.14:** Locke's chapter on personal identity (II.xxvii) was added in the 2nd edition of 1694, so the span may be 1517 → 1694. To verify.
 - **C4.6:** In *Meditations* VI, Descartes says "I am not only lodged in my body as a pilot in a vessel, but that I am very closely united to it" (verified, Haldane & Ross 1911).
 
+## §4b Bridge: from answerability to difference
+
+Added 2026-10-23 (open question 8). §4 now ends with the answerable Self; these claims test where, and whether, it becomes the *different* Self. All are hypotheses until read.
+
+| ID | Claim | Kind | Test against | Status |
+|---|---|---|---|---|
+| C4.15 | There is an identifiable turn at which the answerable Self becomes the different Self: one's feelings, will and desires are held to be one's own *and unlike anyone else's*, and that unlikeness is a value. | historical + textual | all §4b sources | untested |
+| C4.16 | Rousseau makes individual difference itself a value, and claims it as the ground of self-knowledge ("I am not made like any one I have been acquainted with"). | textual | Rousseau, *Confessions* I | untested |
+| C4.17 | Rousseau keeps the answerability frame (the "last trumpet," judgement, conscience) but moves its source inward, into feeling and an inner voice. | textual | Rousseau, *Confessions*; *Emile* IV ("Creed of a Savoyard Priest") | untested |
+| C4.18 | Rousseau's natural man is self-sufficient and his social man lives "in the opinion of others": the split between an authentic inner Self and a false social one starts here. | textual | Rousseau, *Discourse on Inequality* | untested |
+| C4.19 | Emerson turns difference into a duty: trust in one's own nature is the virtue, conformity the vice; the limits of §4 (God, community) are absorbed into the Self. | textual | Emerson, "Self-Reliance," "The Over-Soul" | untested |
+| C4.20 | Mill turns individuality into a social good to be protected from the "despotism of custom," the liberal form of the different Self. | textual | Mill, *On Liberty* III | untested |
+
+**Pressure points**
+
+- **C4.15:** Montaigne's *Essays* (1580) already take the self as their subject ("myself am the matter of my book"; "I study myself more than any other subject"). That is *before* Locke and outside the Reformation line. If Montaigne already has the different Self, the order "answerability first, difference later" fails, or there are two roots.
+- **C4.16, C4.17:** Rousseau's uniqueness claim is followed at once by "Whenever the last trumpet shall sound, I will present..." (verified, *Confessions* I). Uniqueness and judgement arrive together.
+- **C4.19:** "The Over-Soul" may make Emerson's Self a channel for something universal, not a singular Self. That would complicate the step to singularity.
+- **C4.20:** Mill argues individuality serves *social* progress; it may stay bounded by utility.
+
 ---
 
 ## §5 Mutation
