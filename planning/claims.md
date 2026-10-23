@@ -132,6 +132,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 - **C5.11:** Whitman's Self may be the Over-Soul made democratic, a frame kept, not dropped.
 - **C5.12:** Wilde's individualism is framed by socialism and the abolition of private property: a social frame.
 - **C5.13:** Nietzsche attacks "the subject" and "the doer behind the deed" as fictions (*Beyond Good and Evil*, *Genealogy* I; to verify). He may be an ally *against* the Self as source (C5.3).
+- **C5.14:** Smiles's *Self-Help* may be about character, duty and perseverance, so it may still be answerable (to duty, to God). New Thought may tie the self to "the Infinite," which would be Emerson's Over-Soul popularized: a frame kept. Bernays's engine is outside the person (C8.4): advertising may *produce* the self-originating Self rather than the Self producing itself.
 - **General:** if none of these drops the frame, the mutation is not a philosophical event at all but a 20th-century cultural one (therapy, advertising, mass media). That would move §5's evidence from philosophy to cultural history.
 
 ---

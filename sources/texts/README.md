@@ -31,5 +31,10 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `nietzsche-twilight-antichrist.txt` | Nietzsche, *Twilight of the Idols* and *The Antichrist* (1888) | Anthony M. Ludovici | [Gutenberg #52263](https://www.gutenberg.org/ebooks/52263) | clean |
 | `nietzsche-thoughts-out-of-season-1.txt` | Nietzsche, *Thoughts out of Season* I (*Untimely Meditations*: David Strauss; Wagner in Bayreuth) | Anthony M. Ludovici | [Gutenberg #51710](https://www.gutenberg.org/ebooks/51710) | clean |
 | `nietzsche-thoughts-out-of-season-2.txt` | Nietzsche, *Thoughts out of Season* II (*Untimely Meditations*: The Use and Abuse of History; Schopenhauer as Educator) | Adrian Collins | [Gutenberg #38226](https://www.gutenberg.org/ebooks/38226) | clean |
+| `smiles-self-help.txt` | Samuel Smiles, *Self-Help* (1859; text of the revised edition) | original English | [Gutenberg #935](https://www.gutenberg.org/ebooks/935) | clean |
+| `james-varieties.txt` | William James, *The Varieties of Religious Experience* (1902), incl. "The Religion of Healthy-Mindedness" (Lectures IV–V, on the mind-cure movement) | original English | [Gutenberg #621](https://www.gutenberg.org/ebooks/621) | clean; uses the Unicode hyphen "‐" (e.g. "Mind‐cure") |
+| `trine-in-tune-with-the-infinite.txt` | Ralph Waldo Trine, *In Tune with the Infinite* (1897; this text 1903 or later) | original English | [Gutenberg #23559](https://www.gutenberg.org/ebooks/23559) | clean |
+| `coue-self-mastery.txt` | Émile Coué, *Self Mastery Through Conscious Autosuggestion* (English ed. 1922) | see file header | [Gutenberg #27203](https://www.gutenberg.org/ebooks/27203) | clean |
+| `bernays-propaganda.txt` | Edward L. Bernays, *Propaganda* (New York: Liveright, 1928) | original English | [Gutenberg #78634](https://www.gutenberg.org/ebooks/78634) | clean |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
