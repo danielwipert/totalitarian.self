@@ -30,7 +30,7 @@ The closest Voltaire comes to C4.30 as worded: "the inalterable rights of the co
 ### voltaire-dict.03 · "The Ecclesiastical Ministry" — the clergy under the sovereign
 
 - **Claims:** C4.30 (complicates)
-- **Location:** entry "The Ecclesiastical Ministry"; `texts/voltaire-philosophical-dictionary.txt` lines 3116–3118, 3158–3163
+- **Location:** entry "The Ecclesiastical Ministry"; `texts/voltaire-philosophical-dictionary.txt` lines 3117–3118, 3161–3163
 - **Checked:** text file
 
 > The priests are persons established under the authority of the sovereign to direct these prayers and all religious worship. [...] It follows from this further that the sovereign, careful not to suffer any partition of his authority, must permit no enterprise which puts the members of society in external and civil dependence on an ecclesiastical body.
@@ -55,12 +55,12 @@ Voltaire's question is not whether the self needs a judge but whether society do
 
 > The question is then asked whether a nation of atheists can exist; it seems to me that one must distinguish between the nation properly so called, and a society of philosophers above the nation. It is very true that in every country the populace has need of the greatest curb, and that if Bayle had had only five or six hundred peasants to govern, he would not have failed to announce to them the existence of a God, rewarder and revenger.
 
-Separation from religion is allowed, at most, to a few philosophers; the many need "the greatest curb." Compare Spinoza's Preface (spinoza-ttp.02) and Voltaire's own Preface ("the people do not read," line 66). The separated Self is a class privilege, not a general condition.
+Separation from religion is allowed, at most, to a few philosophers; the many need "the greatest curb." Compare Spinoza's Preface (spinoza-ttp.02) and Voltaire's own Preface ("the people do not read," line 70). The separated Self is a class privilege, not a general condition.
 
 ### voltaire-dict.06 · "Atheism" — "absolutely necessary for princes and for peoples"
 
 - **Claims:** C4.30 (against)
-- **Location:** entry "Atheism," Section II; `texts/voltaire-philosophical-dictionary.txt` lines 1197–1203, 1233–1240
+- **Location:** entry "Atheism," Section II; `texts/voltaire-philosophical-dictionary.txt` lines 1198–1202, 1236–1240
 - **Checked:** text file
 
 > The sanctity of oaths is clearly necessary, and one should have more confidence in those who believe that a false oath will be punished, than in those who think they can make a false oath with impunity. It is indubitable that in a civilized town, it is infinitely more useful to have a religion, even a bad one, than to have none at all. [...] It is therefore absolutely necessary for princes and for peoples, that the idea of a Supreme Being, creator, ruler, rewarder, revenger, shall be deeply engraved in people's minds.
@@ -90,7 +90,7 @@ The religion that replaces the churches is natural and universal, not personal: 
 ### voltaire-dict.09 · "Religion" — "Love God and your fellow-creature as yourself"
 
 - **Claims:** C4.30 (for and complicates)
-- **Location:** entry "Religion"; `texts/voltaire-philosophical-dictionary.txt` lines 8366–8397
+- **Location:** entry "Religion"; `texts/voltaire-philosophical-dictionary.txt` lines 8364–8397
 - **Checked:** text file
 
 > Only did I conjure him to tell me in what true religion consisted. [...] "_Have I not already told you? Love God and your fellow-creature as yourself._" [...] "Is it necessary for me to take sides either for the Greek Church or the Latin?" "_When I was in the world I never made any difference between the Jew and the Samaritan._" "Well, if that is so, I take you for my only master." Then he made me a sign with his head which filled me with consolation. The vision disappeared, and a clear conscience stayed with me.
@@ -110,7 +110,7 @@ Toleration rests on shared weakness, not on the dignity of individual conscience
 ### voltaire-dict.11 · "Soul" — "an unknown principle"
 
 - **Claims:** C4.30 (complicates)
-- **Location:** entry "Soul," Section I; `texts/voltaire-philosophical-dictionary.txt` lines 8602–8605, 8633–8635
+- **Location:** entry "Soul," Section I; `texts/voltaire-philosophical-dictionary.txt` lines 8602–8603, 8632–8634
 - **Checked:** text file
 
 > This is a vague, indeterminate term, which expresses an unknown principle of known effects that we feel in us. [...] for not having any first notion from which we can descend in this examination, we can only rest for ever in a labyrinth of doubt and feeble conjecture.
@@ -120,7 +120,7 @@ If the Self separates from religion here, it does so by losing its theological s
 ### voltaire-dict.12 · "Self-Esteem" — "natural to all men"
 
 - **Claims:** C4.30 (complicates)
-- **Location:** entry "Self-Esteem"; `texts/voltaire-philosophical-dictionary.txt` lines 8561–8562, 8586–8591
+- **Location:** entry "Self-Esteem"; `texts/voltaire-philosophical-dictionary.txt` lines 8561–8562, 8589–8592
 - **Checked:** text file
 
 > Self-esteem is not wickedness, it is a sentiment that is natural to all men; it is much nearer vanity than crime. [...] Self-esteem is the instrument of our conservation; it resembles the instrument of the perpetuity of the species: it is necessary, it is dear to us, it gives us pleasure, and it has to be hidden.

@@ -20,7 +20,7 @@ What is new is the *tone*: a craftsman's pride in himself and his works, with no
 ### cellini.01 · Introductory Sonnet — "none surpass me quite"
 
 - **Claims:** C4.26 (complicates), C4.1 (for)
-- **Location:** Introductory Sonnet; `texts/cellini-autobiography.txt` lines 65–78
+- **Location:** Introductory Sonnet; `texts/cellini-autobiography.txt` lines 65–74
 - **Checked:** text file
 
 > THIS tale of my sore-troubled life I write,
@@ -49,7 +49,7 @@ The reason to tell a life is *excellence*, and the telling is a general duty ("A
 ### cellini.03 · I.II — "natural bragging" begins with lineage
 
 - **Claims:** C4.26 (complicates), C4.1 (complicates)
-- **Location:** I.II; `texts/cellini-autobiography.txt` lines 176–181, 232–238
+- **Location:** I.II; `texts/cellini-autobiography.txt` lines 179–181, 235–241
 - **Checked:** text file
 
 > Yet one must needs live like others; and so in a work like this there will always be found occasion for natural bragging, which is of divers kinds, and the first is that a man should let others know he draws his lineage from persons of worth and most ancient origin. [...] As for the trifling honours which I have gained for my house, under the well-known conditions of our present ways of living, and by means of my art, albeit the same are matters of no great moment, I will relate these in their proper time and place, taking much more pride in having been born humble and having laid some honourable foundation for my family, than if I had been born of great lineage and had stained or overclouded that by my base qualities.
@@ -59,7 +59,7 @@ Two sides. The self is first placed in a lineage, a city (Florence, founded by C
 ### cellini.04 · I.XXVI — art as the reason for writing; "marked originality"
 
 - **Claims:** C4.26 (complicates), C4.21 (for)
-- **Location:** I.XXVI; `texts/cellini-autobiography.txt` lines 1802–1812
+- **Location:** I.XXVI; `texts/cellini-autobiography.txt` lines 1803–1812
 - **Checked:** text file
 
 > I wish to keep both space and words for my art, which has been my chief inducement to write as I am doing, and about which I shall have only too much to say. The spirit of honourable rivalry impelled me to attempt some other masterpiece, which should equal, or even surpass, the productions of that able craftsman, Lucagnolo, whom I have mentioned. Still I did not on this account neglect my own fine art of jewellery; and so both the one and the other wrought me much profit and more credit, and in both of them I continued to produce things of marked originality.
@@ -86,10 +86,10 @@ His art is formed in a school and a tradition he says he "never deviated" from. 
 
 The violence is explained by the stars and by a "choleric" humour: an astrological and humoral self, not a self-authored one. The bound here is cosmic, not moral, and it works partly as an excuse. Against any reading of Cellini as the author of his own acts in a modern sense.
 
-### cellini.07 · I.XC — "let us see if I can surpass myself"
+### cellini.07 · I.XCI — "let us see if I can surpass myself"
 
 - **Claims:** C4.26 (for), C4.16 (complicates)
-- **Location:** I.XC; `texts/cellini-autobiography.txt` lines 7082–7094
+- **Location:** I.XCI; `texts/cellini-autobiography.txt` lines 7083–7094
 - **Checked:** text file
 
 > However, that did not dismay me; but having sharpened my wits up, I succeeded not only in making something quite as good, but in exceeding it by far. Then, when I saw that I had surpassed him, I went about to surpass myself, and produced a foil by new processes which was a long way better than what I had previously made. [...] I rejoined: “Now that I have surpassed Miliano, let us see if I can surpass myself.”
@@ -99,7 +99,7 @@ The nearest thing in Cellini to a self taken as its own measure: once he beats h
 ### cellini.08 · I.LI — revenge for his brother; the Pope's "Now that you are cured"
 
 - **Claims:** C4.1 (against), C4.26 (complicates)
-- **Location:** I.LI; `texts/cellini-autobiography.txt` lines 4071–4074, 4113–4117
+- **Location:** I.LI; `texts/cellini-autobiography.txt` lines 4071–4074, 4114–4117
 - **Checked:** text file
 
 > When I saw that the fever caused by always seeing him about was depriving me of sleep and appetite, and was bringing me by degrees to sorry plight, I overcame my repugnance to so low and not quite praiseworthy an enterprise, and made my mind up one evening to rid myself of the torment. [...] Then, looking me straight in the face, he added: “Now that you are cured, Benvenuto, take heed how you live.” [5] I, who understood his meaning, promised that I would.
@@ -119,7 +119,7 @@ The strongest passage for C4.26: uniqueness lifts a man out of the common law. B
 ### cellini.10 · I.CXVIII–CXIX — the prison: "who lent thee that body"
 
 - **Claims:** C4.1 (for), C4.21 (complicates)
-- **Location:** I.CXVIII, lines 9030–9034; I.CXIX, lines 9040–9047; `texts/cellini-autobiography.txt`
+- **Location:** I.CXVIII, lines 9030–9034; I.CXIX, lines 9040–9049; `texts/cellini-autobiography.txt`
 - **Checked:** text file
 
 > Thereafter, when I searched my memory to find what could have diverted me from that design of suicide, I came to the conclusion that it must have been some power divine and my good guardian angel. [...] DURING the following night there appeared to me in dreams a marvellous being in the form of a most lovely youth, who cried, as though he wanted to reprove me: “Knowest thou who lent thee that body, which thou wouldst have spoiled before its time?” I seemed to answer that I recognized all things pertaining to me as gifts from the God of nature. “So, then,” he said, “thou hast contempt for His handiwork, through this thy will to spoil it? Commit thyself unto His guidance, and lose not hope in His great goodness!”
@@ -139,7 +139,7 @@ Before the vision he asks what sin he is "expiating": answerability before God. 
 ### cellini.12 · II.LV — "not two such men alive upon this earth"
 
 - **Claims:** C4.26 (for), C4.16 (complicates)
-- **Location:** II.LV; `texts/cellini-autobiography.txt` lines 13240–13248
+- **Location:** II.LV; `texts/cellini-autobiography.txt` lines 13239–13248
 - **Checked:** text file
 
 > Thereupon my blood was up, and I cried: “Mark my words, then, Ser Pier Francesco Riccio! I will tell you what sort of men are my equals, and who are yours--mere teachers of the alphabet to children!” His face contracted with a spasm, while he raised his voice and repeated the same words in a still more insulting tone. I, too, assumed an air of menace, and matching his own arrogance with something of the same sort, told him plainly that men of my kind were worthy to converse with popes and emperors, and great kings, and that perhaps there were not two such men alive upon this earth, while ten of his sort might be met at every doorway.
@@ -149,7 +149,7 @@ The plainest claim to singularity in the book, and it is a claim about *rank*: "
 ### cellini.13 · II.LXXVII–LXXVIII — casting the Perseus: "the hand of God arranging and controlling all"
 
 - **Claims:** C4.1 (for), C4.26 (complicates)
-- **Location:** II.LXXVII, lines 14543–14548; II.LXXVIII, lines 14596–14598, 14610–14613; `texts/cellini-autobiography.txt`
+- **Location:** II.LXXVII, lines 14543–14548; II.LXXVIII, lines 14598–14599, 14613–14616; `texts/cellini-autobiography.txt`
 - **Checked:** text file
 
 > while I, now here, now there, gave orders, helped with my own hands, and cried aloud: “O God! Thou that by Thy immeasurable power didst rise from the dead, and in Thy glory didst ascend to heaven!”&hellip;. even thus in a moment my mould was filled; and seeing my work finished, I fell upon my knees, and with all my heart gave thanks to God. [...] In my great astonishment I seemed to see in this the hand of God arranging and controlling all. [...] the bronze was hotter than our rules of art prescribe; also that I had been obliged to supplement the alloy with my pewter cups and platters, which no one else, I think, had ever done before.
@@ -159,7 +159,7 @@ His greatest work: his own hands, a thing "no one else [...] had ever done befor
 ### cellini.14 · II.XCII — the Perseus unveiled: "pointing me out as something marvellous and strange"
 
 - **Claims:** C4.26 (for), C4.25 (for), C4.1 (complicates)
-- **Location:** II.XCII; `texts/cellini-autobiography.txt` lines 15355–15357, 15370–15372, 15379–15381, 15387–15390
+- **Location:** II.XCII; `texts/cellini-autobiography.txt` lines 15355–15357, 15370–15372, 15380–15381, 15386–15390
 - **Checked:** text file
 
 > NOW it pleased my glorious Lord and immortal God that at last I brought the whole work to completion: and on a certain Thursday morning I exposed it to the public gaze. [...] I passed a happy day, partly because of the Duke’s message, and also because the folk kept pointing me out as something marvellous and strange. [...] because the folk were stopping and staring at me more than at my Perseus. [...] “You give me much cause for wonder, seeking as you do to make me quit the service of a prince who is the greatest patron of the arts that ever lived; and I too here in my own birthplace, famous as the school of every art and science!
