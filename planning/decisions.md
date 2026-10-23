@@ -37,3 +37,7 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | C4.14 status | challenged | locke-essay.18: II.xxvii is new in the 2nd edition (year to verify) |
 | 2026-10-23 | C5.8 status | challenged as worded | descartes-meditations.06, descartes-discourse.03: the I is prior to the material world but dependent on God |
 | 2026-10-23 | C7.1 status | challenged | locke-essay.11, .12, .14: Locke's forensic person limits guilt, under God's judgement |
+| 2026-10-23 | §4 core | A: the Self grew out of a structure of personal answerability built for something else, bounded by God, community and the body; it became the Self as those bounds fell away (C4.1, C4.13 revised) | Fits all 85 passages; sets up §5's mutation |
+| 2026-10-23 | Reformation claims | A: reword around answerability (C4.3); move work-as-proof to later Calvinists (C4.4); keep the economic origin, tested against Weber, Fromm, Tawney, with the reformers as unintended contributors (C4.2, C4.5) | Keeps the load-bearing economic claim, tested where it can be |
+| 2026-10-23 | Descartes claims | A: "kept the structure, dropped the limit" (C4.6, C4.7, C5.8); add Paul as groundwork (C4.8) | Same pattern as the §4 core |
+| 2026-10-23 | Locke claims | A: C4.11 reworded to innate principles vs. custom; C4.14 span to 1694 and "unusually fast" made conditional; C7.1 guilt moved from Locke to Nietzsche | Same pattern; guilt claim rests where the texts can carry it |

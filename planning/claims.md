@@ -11,6 +11,8 @@ Every claim the essay makes, numbered so it can be tested against the sources. T
 
 **Status:** `untested` · `supported` · `challenged` · `revised` · `dropped`
 
+`revised` means the claim was reworded after testing. The new wording rests on the evidence that prompted it, but it should still be tested further. Earlier wordings are in `SPEC.md` and the git history.
+
 **Kind** (what counts as a test):
 
 - **textual**: does the primary text actually say this? Tested by reading the source.
@@ -39,22 +41,24 @@ These stand or fall with the section claims beneath them.
 
 ## §4 Origin
 
+**The pattern (2026-10-23):** in every §4 thinker, the ancestor of the Self came with a limit attached (God, community, the body, limits on guilt). The later Self kept the structure and dropped the limit. §4 now claims this, not that the founders acknowledged individual difference.
+
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C4.1 | The Self was neither invented nor discovered: it acknowledged something already present that role-assigning social orders had repressed. | conceptual | all §4 sources | challenged |
-| C4.2 | The collapse of the old social order and the rise of capital produced the awareness that persons could direct their own futures rather than fill socioeconomic roles. | historical | Fromm; Weber, *Protestant Ethic* | challenged |
-| C4.3 | Luther individuated the relationship with God, freeing it from church structure. | textual | Luther, *Freedom of a Christian*; *Address to the Christian Nobility*; *Babylonian Captivity* | challenged |
-| C4.4 | Calvin's predestination, deterministic in doctrine, in practice drove individuals to prove their election through work and frugality. | textual + historical | Calvin, *Institutes* III.xxi–xxiv; Weber; Fromm | challenged |
-| C4.5 | The economic origin is load-bearing: the Self responded to a freer economic situation and was not a pure act of thought. | historical | Fromm; Weber; Taylor | challenged |
-| C4.6 | The cogito locates identity in a non-material mind, separate from the body. | textual | Descartes, *Meditations* II and VI; *Discourse* IV | supported |
-| C4.7 | As received by Western culture, the cogito fused identity with a separate Mind removed from the physical world, whatever Descartes himself believed. | reception | Descartes reception history | untested |
-| C4.8 | Plato and Augustine laid the groundwork for the separate soul-mind-self; Descartes made it operational. | textual | Plato, *Phaedo*; Augustine, *Confessions* X, *De Trinitate* X, *City of God* XI.26 | untested |
+| C4.1 | The Self was neither invented nor discovered. It grew out of a structure built for something else: each person made answerable on their own (before God, through conscience and consciousness), and bounded by God, community and the body. The Self is what that structure became as its bounds fell away. | conceptual + historical | all §4 sources; later sources for the falling-away | revised |
+| C4.2 | The collapse of the old social order and the rise of capital produced the awareness that persons could direct their own futures, partly *against* the intentions of reformers like Luther and Calvin, who sanctified stations and condemned commerce. | historical | Weber, *Protestant Ethic*; Fromm; Tawney, *Religion and the Rise of Capitalism* | revised |
+| C4.3 | Luther individuated each believer's standing and answerability before God ("every man stands for himself") and stripped the clergy of any spiritual estate above the laity, but moved mediation into the preached word and the congregation rather than abolishing it. | textual | Luther, the three 1520 treatises | revised |
+| C4.4 | Calvin made sanctification a confirming sign of election (III.xiv.18–20) while forbidding believers to seek assurance in works or wealth. Later Calvinists turned that permitted sign into an anxious, practical proof of election through disciplined work and frugality. | textual + historical | Calvin, *Institutes* III.xiv, III.xxi–xxiv; Weber; Puritan sources (e.g. Baxter) | revised |
+| C4.5 | The economic origin is load-bearing: the Self responded to a freer economic situation and was not a pure act of thought. The reformers were unintended contributors, not advocates. | historical | Weber; Fromm; Tawney | revised |
+| C4.6 | The cogito locates identity in a thinking substance really distinct from the body. Descartes always pairs this with the soul's close union with the body (*Discourse* V, *Meditations* VI, *Passions* I.30), treating the union as what the person *has*, not what the I *is*. | textual | Descartes, *Discourse*, *Meditations*, *Passions* | supported |
+| C4.7 | As received, the cogito was reduced to its first half (a mind distinct from the body), and the union Descartes paired with it in every major work was dropped. | reception | later readers: Hobbes's objections, Henry More, Locke, Malebranche; Ryle for the 20th-century picture | revised |
+| C4.8 | Paul, Plato and Augustine laid the groundwork for the separate soul-mind-self; Descartes made it operational. | textual | Paul, 2 Cor. 4:16, Rom. 7; Plato, *Phaedo*; Augustine, *Confessions* X, *De Trinitate* X, *City of God* XI.26 | revised |
 | C4.9 | Locke founds personal identity on consciousness (memory), not on the substance of soul or body. | textual | Locke, *Essay* II.xxvii | supported |
 | C4.10 | For Locke, "person" is a forensic term: the unit to which actions, merit, guilt and punishment are attributed. | textual | Locke, *Essay* II.xxvii.26 | supported |
-| C4.11 | The *tabula rasa* makes the Self something built from experience, not given, which cuts it loose from inherited nature. | textual | Locke, *Essay* I; II.i | challenged |
+| C4.11 | Locke's denial of innate principles makes the Self's beliefs and principles a product of experience and education rather than inheritance, though he keeps innate appetites and temperament. The blank page frees the mind from inborn authority but exposes it to custom. | textual | Locke, *Essay* I; II.i | revised |
 | C4.12 | Nietzsche saw that this forensic framework is what makes guilt attributable. | textual | Nietzsche, *Genealogy of Morals* II; *Twilight of the Idols*, "The Four Great Errors" | untested |
-| C4.13 | At each of these moments the Self was doing something true: acknowledging difference against orders that denied it. | conceptual | all §4 sources | challenged |
-| C4.14 | The core moves came unusually fast (1517 → 1689), faster than the concept could be integrated. | historical | comparison with other intellectual shifts | challenged |
+| C4.13 | At each of these moments the Self's ancestors acknowledged something true against orders that denied it (each person's equal standing before God and their own answerability), which only later became an acknowledgment of individual difference. | conceptual | all §4 sources; later sources for the shift to difference | revised |
+| C4.14 | The core moves came quickly (1517 → 1694, date to verify), perhaps faster than the concept could be integrated. "Unusually fast" stands only if a comparison backs it. | historical | Locke's 2nd edition; comparison with other intellectual shifts | revised |
 
 **Pressure points**
 
@@ -78,7 +82,7 @@ These stand or fall with the section claims beneath them.
 | C5.5 | The language of Selfhood (authenticity, expression, responsibility, reliance) has run this loop for centuries in the West, and more intensely in America. | historical + empirical | word-frequency data; Taylor; Trilling, *Sincerity and Authenticity* | untested |
 | C5.6 | The metaphysical shift: difference goes from relational to absolute, and the Self from *in* experience to *prior to* it. | conceptual | — | untested |
 | C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | untested |
-| C5.8 | Identifying the Self with a separate Mind is what lets it imagine itself prior to the world. | conceptual | Descartes; Heidegger, *Being and Time* | challenged |
+| C5.8 | Identifying the Self with a separate Mind lets it imagine itself prior to and independent of the material world. In Descartes this priority is bounded by dependence on God; the Totalitarian Self keeps the priority and drops the dependence. | conceptual + textual | Descartes; Heidegger, *Being and Time* | revised |
 
 **Pressure points**
 
@@ -111,7 +115,7 @@ These stand or fall with the section claims beneath them.
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C7.1 | A surfeit of self-reliance and responsibility produces pervasive blame and guilt, unrelated to original sin. | empirical + conceptual | Nietzsche; Lasch | challenged |
+| C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | revised |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
 | C7.4 | Failure is attributed to the Self or other Selves, never to environmental, social or historical factors. | empirical | attribution research (fundamental attribution error; cross-cultural studies) | untested |
