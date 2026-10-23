@@ -13,6 +13,7 @@ planning/
   decisions.md       decision log (live copy of SPEC §12)
   open-questions.md  open questions (live copy of SPEC §14)
   logic-gates.md     how decisions are made: small A/B/C gates
+  status.md          where the argument stands: one-page summary
 essay/               the essay, one file per section, in reading order
   00-introduction.md ... 07-objections.md
 sources/
@@ -23,5 +24,7 @@ sources/
   notes/             reading notes and secondary literature
 deferred/
   cures.md           out-of-scope material (live copy of SPEC §11)
+tools/
+  check_quotes.py    checks every quote in sources/primary/ against the texts
 CLAUDE.md            working rules Claude reads at the start of each session
 ```

@@ -10,6 +10,8 @@ The thesis is unproven; the job is to test it against primary texts, not to conf
 - **Quote only from a file in `sources/texts/` or a copy in hand, never from memory.** Give the location.
 - Tag each passage in `sources/primary/` to claims as **for**, **against** or **complicates**. Look for "against" as hard as "for".
 - Never edit `sources/texts/`; corrections go in `sources/primary/`.
+- After any new reading, run `python3 tools/check_quotes.py` and read by eye anything scored below 0.85.
+- Put quotation marks only around words copied from a text. Paraphrase goes outside quotation marks.
 - Conventions: `sources/README.md`.
 
 ## Logic gates (how to ask for decisions)
