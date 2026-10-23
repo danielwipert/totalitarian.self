@@ -32,7 +32,7 @@ The split here is natural man vs. *citizen*, and both are whole and admired (Reg
 ### rousseau-emile.03 · Book I — "neither a man nor a citizen"
 
 - **Claims:** C4.18 (for, revised), C8.2 (complicates)
-- **Location:** Book I; `texts/rousseau-emile.txt` lines 339–350, 383–385
+- **Location:** Book I; `texts/rousseau-emile.txt` lines 339–350, 381–382
 - **Checked:** text file
 
 > He who would preserve the supremacy of natural feelings in social life knows not what he asks. Ever at war with himself, hesitating between his wishes and his duties, he will be neither a man nor a citizen. He will be of no use to himself nor to others. He will be a man of our day, a Frenchman, an Englishman, one of the great middle class.
@@ -44,7 +44,7 @@ The false Self is the divided modern *bourgeois*, not the social man as such. "T
 ### rousseau-emile.04 · Book II — "Every mind has its own form"
 
 - **Claims:** C4.15 (complicates), C4.16 (for, weak)
-- **Location:** Book II; `texts/rousseau-emile.txt` lines 3050–3058
+- **Location:** Book II; `texts/rousseau-emile.txt` lines 3050–3059
 - **Checked:** text file
 
 > There is another point to be considered which confirms the suitability of this method: it is the child's individual bent, which must be thoroughly known before we can choose the fittest moral training. Every mind has its own form, in accordance with which it must be controlled; and the success of the pains taken depends largely on the fact that he is controlled in this way and no other. Oh, wise man, take time to observe nature; watch your scholar well before you say a word to him; first leave the germ of his character free to show itself, do not constrain him in anything, the better to see him as he really is.
@@ -64,7 +64,7 @@ The key text for §7.3. Comparative self-love can never be satisfied, and it run
 ### rousseau-emile.06 · Book IV — "A heart full to overflowing loves to make itself known"
 
 - **Claims:** C8.1 (for, as precursor), C8.5 (for), C7.3 (for)
-- **Location:** Book IV; `texts/rousseau-emile.txt` lines 9275–9288, 9295–9297
+- **Location:** Book IV; `texts/rousseau-emile.txt` lines 9275–9288, 9296–9297
 - **Checked:** text file
 
 > We wish to inspire the preference we feel; love must be mutual. To be loved we must be worthy of love; to be preferred we must be more worthy than the rest, at least in the eyes of our beloved. Hence we begin to look around among our fellows; we begin to compare ourselves with them, there is emulation, rivalry, and jealousy. A heart full to overflowing loves to make itself known; from the need of a mistress there soon springs the need of a friend. He who feels how sweet it is to be loved, desires to be loved by everybody [...] I behold deference to other people's opinions enthroned among all these divers passions, and foolish mortals, enslaved by her power, base their very existence merely on what other people think. [...] Not so with the young man; they will find an entrance in spite of us.
@@ -140,7 +140,7 @@ Strongest support for C4.17. The Last Judgement survives, but the judge is now o
 ### rousseau-emile.13 · Book IV, Creed — "go back to the religion of your fathers"
 
 - **Claims:** C4.1 (for), C4.17 (complicates), C4.18 (complicates)
-- **Location:** Book IV, Creed; `texts/rousseau-emile.txt` lines 14478–14485, 14540–14556
+- **Location:** Book IV, Creed; `texts/rousseau-emile.txt` lines 14478–14485, 14541–14557
 - **Checked:** text file
 
 > To ask any one to abandon the religion in which he was born is, I consider, to ask him to do wrong, and therefore to do wrong oneself. While we await further knowledge, let us respect public order; in every country let us respect the laws, let us not disturb the form of worship prescribed by law [...]

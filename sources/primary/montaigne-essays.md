@@ -22,7 +22,7 @@ Montaigne takes the self as his whole subject, and he values the right to judge 
 - **Location:** prefatory note, dated 12 June 1580 (Hazlitt's translation; omitted by Cotton); `texts/montaigne-essays-cotton.txt` lines 2030–2049
 - **Checked:** text file
 
-> I have dedicated it to the particular commodity of my kinsfolk and friends, so that, having lost me (which they must do shortly), they may therein recover some traits of my conditions and humours [...] I desire therein to be viewed as I appear in mine own genuine, simple, and ordinary manner, without study and artifice: for it is myself I paint. My defects are therein to be read to the life, and any imperfections and my natural form, so far as public reverence hath permitted me. [...] Thus, reader, myself am the matter of my book: there's no reason thou shouldst employ thy leisure about so frivolous and vain a subject.
+> I have dedicated it to the particular commodity of my kinsfolk and friends, so that, having lost me (which they must do shortly), they may therein recover some traits of my conditions and humours [...] I desire therein to be viewed as I appear in mine own genuine, simple, and ordinary manner, without study and artifice: for it is myself I paint. My defects are therein to be read to the life, and any imperfections and my natural form, so far as public reverence hath permitted me. [...] Thus, reader, myself am the matter of my book: there’s no reason thou shouldst employ thy leisure about so frivolous and vain a subject.
 
 The self is the subject, but presented as "ordinary," for private memory, limited by "public reverence," and called "frivolous and vain." It is a subject, not yet a value; the "different Self" is not claimed here.
 
@@ -32,7 +32,7 @@ The self is the subject, but presented as "ordinary," for private memory, limite
 - **Location:** III.2; `texts/montaigne-essays-cotton.txt` lines 36809–36826
 - **Checked:** text file
 
-> Others form man; I only report him: and represent a particular one, ill fashioned enough [...] I cannot fix my object; 'tis always tottering and reeling by a natural giddiness; I take it as it is at the instant I consider it; I do not paint its being, I paint its passage; not a passing from one age to another, or, as the people say, from seven to seven years, but from day to day, from minute to minute, I must accommodate my history to the hour: I may presently change, not only by fortune, but also by intention. [...] whether it be that I am then another self, or that I take subjects by other circumstances and considerations: so it is that I may peradventure contradict myself, but, as Demades said, I never contradict the truth.
+> Others form man; I only report him: and represent a particular one, ill fashioned enough [...] I cannot fix my object; ‘tis always tottering and reeling by a natural giddiness; I take it as it is at the instant I consider it; I do not paint its being, I paint its passage; not a passing from one age to another, or, as the people say, from seven to seven years, but from day to day, from minute to minute, I must accommodate my history to the hour: I may presently change, not only by fortune, but also by intention. [...] whether it be that I am then another self, or that I take subjects by other circumstances and considerations: so it is that I may peradventure contradict myself, but, as Demades said, I never contradict the truth.
 
 The wording "I do not paint its being, I paint its passage" is verified in Cotton. The self is "a particular one" but has no fixed essence to be unique; it exists *in* the flow of experience, the baseline C5.6 says was later lost.
 
@@ -42,7 +42,7 @@ The wording "I do not paint its being, I paint its passage" is verified in Cotto
 - **Location:** III.2; `texts/montaigne-essays-cotton.txt` lines 36830–36840
 - **Checked:** text file
 
-> I propose a life ordinary and without lustre: 'tis all one; all moral philosophy may as well be applied to a common and private life, as to one of richer composition: every man carries the entire form of human condition. Authors communicate themselves to the people by some especial and extrinsic mark; I, the first of any, by my universal being; as Michel de Montaigne, not as a grammarian, a poet, or a lawyer. If the world find fault that I speak too much of myself, I find fault that they do not so much as think of themselves. But is it reason that, being so particular in my way of living, I should pretend to recommend myself to the public knowledge?
+> I propose a life ordinary and without lustre: ‘tis all one; all moral philosophy may as well be applied to a common and private life, as to one of richer composition: every man carries the entire form of human condition. Authors communicate themselves to the people by some especial and extrinsic mark; I, the first of any, by my universal being; as Michel de Montaigne, not as a grammarian, a poet, or a lawyer. If the world find fault that I speak too much of myself, I find fault that they do not so much as think of themselves. But is it reason that, being so particular in my way of living, I should pretend to recommend myself to the public knowledge?
 
 The to-do phrase "the whole form of the human condition" is, in Cotton, "every man carries the entire form of human condition." His self is worth reading because it is *common* ("my universal being"), not because it is unlike others. "So particular in my way of living" is offered as an objection to his project, not as its justification. Against C4.15 for Montaigne. It complicates C4.13 because the equality here is the equality of a shared human form, not of standing before God.
 
@@ -84,7 +84,7 @@ The self-portrait is explicitly placed under the Church's "common and accepted b
 - **Location:** Cotton I.36 (modern I.37); `texts/montaigne-essays-cotton.txt` lines 11253–11266
 - **Checked:** text file
 
-> I am not guilty of the common error of judging another by myself. I easily believe that in another's humour which is contrary to my own; and though I find myself engaged to one certain form, I do not oblige others to it, as many do; but believe and apprehend a thousand ways of living; and, contrary to most men, more easily admit of difference than uniformity amongst us. I as frankly as any one would have me, discharge a man from my humours and principles, and consider him according to his own particular model. [...] I insinuate myself by imagination into their place, and love and honour them the more for being other than I am. I very much desire that we may be judged every man by himself, and would not be drawn into the consequence of common examples.
+> I am not guilty of the common error of judging another by myself. I easily believe that in another’s humour which is contrary to my own; and though I find myself engaged to one certain form, I do not oblige others to it, as many do; but believe and apprehend a thousand ways of living; and, contrary to most men, more easily admit of difference than uniformity amongst us. I as frankly as any one would have me, discharge a man from my humours and principles, and consider him according to his own particular model. [...] I insinuate myself by imagination into their place, and love and honour them the more for being other than I am. I very much desire that we may be judged every man by himself, and would not be drawn into the consequence of common examples.
 
 This is the strongest evidence *for* C4.15 in Montaigne: difference is affirmed ("a thousand ways of living"), each is judged "by his own particular model," and others are honoured "for being other than I am." But it is difference in *others*, admitted and admired across a relation, not a claim that his own feelings are singular. In SPEC §2 terms this is *relational* difference, the healthy kind (C5.6 baseline).
 
@@ -108,7 +108,7 @@ Here the self is "entirely its own," turned inward, and has views "born with me.
 
 > The reputation that every one pretends to of vivacity and promptness of wit, I seek in regularity; the glory they pretend to from a striking and signal action, or some particular excellence, I claim from order, correspondence, and tranquillity of opinions and manners:
 >
-> [...] ["If anything be entirely decorous, nothing certainly can be more so than an equability alike in the whole life and in every particular action; which thou canst not possibly observe if, imitating other men's natures, thou layest aside thy own."--Cicero, De Of., i. 31.]
+> [...] [“If anything be entirely decorous, nothing certainly can be more so than an equability alike in the whole life and in every particular action; which thou canst not possibly observe if, imitating other men’s natures, thou layest aside thy own.”--Cicero, De Of., i. 31.]
 
 Montaigne's warrant for keeping "thy own" nature is Cicero's doctrine of each person's own character (*De Officiis* I.31). So the idea of an individual nature to be kept has a classical root, which neither the §4 groundwork list (C4.8: Paul, Plato, Augustine) nor the Reformation line includes. He also rejects "some particular excellence" as a goal in favour of "regularity."
 
@@ -128,7 +128,7 @@ Outward singularity is condemned as "folly and vain affectation." Inner freedom 
 - **Location:** II.6 (Cotton's title "Use makes perfect"; modern "Of Practice"); `texts/montaigne-essays-cotton.txt` lines 18276–18296
 - **Checked:** text file
 
-> Every one, as Pliny says, is a good doctrine to himself, provided he be capable of discovering himself near at hand. Here, this is not my doctrine, 'tis my study; and is not the lesson of another, but my own; and if I communicate it, it ought not to be ill taken, for that which is of use to me, may also, peradventure, be useful to another. [...] We hear but of two or three of the ancients, who have beaten this path [...] No one since has followed the track: 'tis a rugged road, more so than it seems, to follow a pace so rambling and uncertain, as that of the soul; to penetrate the dark profundities of its intricate internal windings; to choose and lay hold of so many little nimble motions; 'tis a new and extraordinary undertaking, and that withdraws us from the common and most recommended employments of the world.
+> Every one, as Pliny says, is a good doctrine to himself, provided he be capable of discovering himself near at hand. Here, this is not my doctrine, ‘tis my study; and is not the lesson of another, but my own; and if I communicate it, it ought not to be ill taken, for that which is of use to me, may also, peradventure, be useful to another. [...] We hear but of two or three of the ancients, who have beaten this path [...] No one since has followed the track: ‘tis a rugged road, more so than it seems, to follow a pace so rambling and uncertain, as that of the soul; to penetrate the dark profundities of its intricate internal windings; to choose and lay hold of so many little nimble motions; ‘tis a new and extraordinary undertaking, and that withdraws us from the common and most recommended employments of the world.
 
 Montaigne claims that the *practice* of self-study is new, not that the self studied is unique. What he learns about himself "may also [...] be useful to another." The self is a sample. For C4.14 this marks a turn inward in 1580, outside the 1517–1694 line.
 
@@ -170,7 +170,7 @@ The "back shop" wording is verified (Cotton: "backshop"). It is a private inner 
 - **Location:** III.10; `texts/montaigne-essays-cotton.txt` lines 45775–45777 and 46143–46161
 - **Checked:** text file
 
-> 'Tis my opinion that a man should lend himself to others, and only give himself to himself.
+> ‘Tis my opinion that a man should lend himself to others, and only give himself to himself.
 
 > We must play our part properly, but withal as a part of a borrowed personage; we must not make real essence of a mask and outward appearance; nor of a strange person, our own [...] The Mayor of Bordeaux and Montaigne have ever been two by very manifest separation.
 
@@ -182,11 +182,11 @@ The person (inner, "given to himself") is separated from the role (public, "lent
 - **Location:** III.13; `texts/montaigne-essays-cotton.txt` lines 48900–48901, 48975–48978 and 50852–50860
 - **Checked:** text file
 
-> I study myself more than any other subject; 'tis my metaphysic, my physic
+> I study myself more than any other subject; ‘tis my metaphysic, my physic
 
 > If every one would pry into the effects and circumstances of the passions that sway him, as I have done into those which I am most subject to, he would see them coming, and would a little break their impetuosity and career
 
-> 'Tis an absolute and, as it were, a divine perfection, for a man to know how loyally to enjoy his being. We seek other conditions, by reason we do not understand the use of our own; and go out of ourselves, because we know not how there to reside. 'Tis to much purpose to go upon stilts, for, when upon stilts, we must yet walk with our legs; and when seated upon the most elevated throne in the world, we are but seated upon our breech. The fairest lives, in my opinion, are those which regularly accommodate themselves to the common and human model without miracle, without extravagance.
+> ‘Tis an absolute and, as it were, a divine perfection, for a man to know how loyally to enjoy his being. We seek other conditions, by reason we do not understand the use of our own; and go out of ourselves, because we know not how there to reside. ‘Tis to much purpose to go upon stilts, for, when upon stilts, we must yet walk with our legs; and when seated upon the most elevated throne in the world, we are but seated upon our breech. The fairest lives, in my opinion, are those which regularly accommodate themselves to the common and human model without miracle, without extravagance.
 
 The to-do phrase "I study myself more than any other subject" is verified. But self-study is offered as a method "every one" should use, and the essay's last word praises lives fitted "to the common and human model without miracle, without extravagance," with the body as the limit ("seated upon our breech"). (The to-do phrase "living appropriately" is not in Cotton. The nearest wording is "to know how loyally to enjoy his being" here, and at line 50497: "The glorious masterpiece of man is to live to purpose.") This is the clearest statement that his self is bounded and common, and that he resists the mind flying from the body, as C5.8 describes.
 
