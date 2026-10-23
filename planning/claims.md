@@ -31,9 +31,11 @@ Each section also has **pressure points**: known reasons a claim might fail. The
 
 These stand or fall with the section claims beneath them.
 
+**Current thesis (revised 2026-10-23):** *The Self began as a necessary acknowledgment that each person stands answerable on their own, but in the West, and above all in America, it has calcified into a totalizing dogma that suppresses the very truths it was meant to reveal.*
+
 | ID | Claim | Kind | Depends on | Status |
 |---|---|---|---|---|
-| C1.1 | The Self began as a necessary acknowledgment of human difference. | conceptual | C4.* | untested |
+| C1.1 | The Self began as a necessary acknowledgment that each person stands answerable on their own, but in the West, and above all in America, it has calcified into a totalizing dogma that suppresses the very truths it was meant to reveal. | conceptual | C4.* | revised |
 | C1.2 | In the West, above all in America, it calcified into a totalizing dogma. | historical | C5.*, C6.* | untested |
 | C1.3 | The totalized Self suppresses the truths it was meant to reveal. | conceptual | C5.7, C7.* | untested |
 
