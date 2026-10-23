@@ -98,17 +98,17 @@ Added 2026-10-23 at the author's request. The author's long-held view is that se
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C4.21 | Selfhood begins in the Renaissance, with the individual as self-shaping and valued for his own excellence, and takes off in the Enlightenment. The Reformation's answerability is a parallel or later strand, not the origin. | historical + textual | all §4c sources; Burckhardt | untested |
-| C4.22 | In the Renaissance "man became a spiritual individual" (Burckhardt; to verify): the historian's version of the rival story. | textual (secondary) | Burckhardt, *The Civilization of the Renaissance in Italy*, Part II | untested |
-| C4.23 | Petrarch turns attention inward: the self, not the world, becomes the object worth studying. | textual | Petrarch, "The Ascent of Mont Ventoux"; letters | untested |
-| C4.24 | Pico makes man self-shaping, with no fixed nature, the maker of his own form: the first philosophical claim to self-origination. | textual | Pico, *Oration on the Dignity of Man* | untested |
-| C4.25 | Machiavelli and Castiglione make the self a craft and a performance (*virtù*, *sprezzatura*): a self fashioned for the eyes of others, an early form of §8. | textual | Machiavelli, *The Prince*; Castiglione, *The Book of the Courtier* | untested |
-| C4.26 | Cellini's *Autobiography* is the first life told as the story of an exceptional individual valued for his own sake. | textual | Cellini, *Autobiography* | untested |
-| C4.27 | Erasmus's humanism places human dignity and free will inside a Christian frame: the Renaissance self is bounded, like the Reformation one. | textual | Erasmus, *The Praise of Folly*; on free will, if available | untested |
-| C4.28 | Enlightenment autonomy makes the self its own lawgiver: "Have courage to use your own understanding" (Kant; to verify); the will gives itself the law. | textual | Kant, "What Is Enlightenment?"; *Groundwork* | untested |
-| C4.29 | The Enlightenment moral self is formed by sentiment and by the eyes of others (Shaftesbury, Hume, Smith's impartial spectator): a social self, not a separated one. | textual | Shaftesbury; Hume, *Treatise* III, *Enquiry concerning the Principles of Morals*; Smith, *Theory of Moral Sentiments* | untested |
-| C4.30 | The Self separates from religion: belief becomes a private matter of individual conscience, and the church a voluntary society. | textual | Spinoza, *Theological-Political Treatise*; Locke, *Letter Concerning Toleration*; Voltaire; Paine, *Age of Reason* | untested |
-| C4.31 | The Self separates from community: society is founded on the consent or interest of individuals who are prior to it. | textual | Hobbes, *Leviathan*; Locke, *Second Treatise*; Mandeville, *Fable of the Bees*; Rousseau, *Social Contract*; Franklin, *Autobiography* | untested |
+| C4.21 | Selfhood begins in the Renaissance, with the individual as self-shaping and valued for his own excellence, and takes off in the Enlightenment. The Reformation's answerability is a parallel or later strand, not the origin. | historical + textual | all §4c sources; Burckhardt | challenged |
+| C4.22 | In the Renaissance "man became a spiritual individual" (Burckhardt; to verify): the historian's version of the rival story. | textual (secondary) | Burckhardt, *The Civilization of the Renaissance in Italy*, Part II | supported |
+| C4.23 | Petrarch turns attention inward: the self, not the world, becomes the object worth studying. | textual | Petrarch, "The Ascent of Mont Ventoux"; letters | challenged |
+| C4.24 | Pico makes man self-shaping, with no fixed nature, the maker of his own form: the first philosophical claim to self-origination. | textual | Pico, *Oration on the Dignity of Man* | challenged |
+| C4.25 | Machiavelli and Castiglione make the self a craft and a performance (*virtù*, *sprezzatura*): a self fashioned for the eyes of others, an early form of §8. | textual | Machiavelli, *The Prince*; Castiglione, *The Book of the Courtier* | supported |
+| C4.26 | Cellini's *Autobiography* is the first life told as the story of an exceptional individual valued for his own sake. | textual | Cellini, *Autobiography* | challenged |
+| C4.27 | Erasmus's humanism places human dignity and free will inside a Christian frame: the Renaissance self is bounded, like the Reformation one. | textual | Erasmus, *The Praise of Folly*; on free will, if available | challenged |
+| C4.28 | Enlightenment autonomy makes the self its own lawgiver: "Have courage to use your own understanding" (Kant; to verify); the will gives itself the law. | textual | Kant, "What Is Enlightenment?"; *Groundwork* | challenged |
+| C4.29 | The Enlightenment moral self is formed by sentiment and by the eyes of others (Shaftesbury, Hume, Smith's impartial spectator): a social self, not a separated one. | textual | Shaftesbury; Hume, *Treatise* III, *Enquiry concerning the Principles of Morals*; Smith, *Theory of Moral Sentiments* | supported |
+| C4.30 | The Self separates from religion: belief becomes a private matter of individual conscience, and the church a voluntary society. | textual | Spinoza, *Theological-Political Treatise*; Locke, *Letter Concerning Toleration*; Voltaire; Paine, *Age of Reason* | challenged |
+| C4.31 | The Self separates from community: society is founded on the consent or interest of individuals who are prior to it. | textual | Hobbes, *Leviathan*; Locke, *Second Treatise*; Mandeville, *Fable of the Bees*; Rousseau, *Social Contract*; Franklin, *Autobiography* | challenged |
 
 **Pressure points**
 
