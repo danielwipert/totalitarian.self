@@ -67,7 +67,15 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `crevecoeur-letters.txt` | Crèvecoeur, *Letters from an American Farmer* (1782), incl. Letter III, "What Is an American?" | original English | [Gutenberg #4666](https://www.gutenberg.org/ebooks/4666) | clean |
 | `thoreau-walden.txt` | Thoreau, *Walden* (1854) and "Civil Disobedience" (1849) | original English | [Gutenberg #205](https://www.gutenberg.org/ebooks/205) | clean |
 | `winthrop-model-christian-charity-mhs1838.txt` | Winthrop, "A Modell of Christian Charity" (1630), first printed in *Collections of the Massachusetts Historical Society*, 3rd series, vol. 7 (1838); the whole volume, sermon from about line 2534 | original 17th-c. spelling | [archive.org](https://archive.org/details/MeaseMHS1838) | OCR |
+| `veblen-leisure-class.txt` | Veblen, *The Theory of the Leisure Class* (1899) | original English | [Gutenberg #833](https://www.gutenberg.org/ebooks/833) | clean |
+| `hoover-american-individualism.txt` | Herbert Hoover, *American Individualism* (1922) | original English | [archive.org](https://archive.org/details/americanindividu00hoovrich) | OCR |
+| `lewis-babbitt.txt` | Sinclair Lewis, *Babbitt* (1922), a novel | original English | [Gutenberg #1156](https://www.gutenberg.org/ebooks/1156) | clean |
+| `lynd-middletown.txt` | Robert S. and Helen M. Lynd, *Middletown: A Study in Contemporary American Culture* (1929), foreword by Clark Wissler | original English (1929 text) | [archive.org](https://archive.org/details/middletownstudyi00lyndrich) | OCR |
+| `lippmann-preface-to-morals.txt` | Walter Lippmann, *A Preface to Morals* (1929) | original English | [Gutenberg #77019](https://www.gutenberg.org/ebooks/77019) | clean |
+| `dewey-individualism-old-and-new.txt` | John Dewey, *Individualism Old and New* (1930) | original English | [archive.org](https://archive.org/details/individu00dewe) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
+
+**Public domain by date:** US works published in 1930 or earlier are in the public domain as of 2026 (Dewey 1930, the Lynds 1929, Lippmann 1929).
 
 **Not available in a public-domain English translation:** Pico, *Oration on the Dignity of Man* (English translations date from 1948 on). Its key passage is quoted in English in Burckhardt, Part IV (`burckhardt-renaissance.txt`, lines 10063–10080). The full *Oration* needs excerpts from a copy in hand. Erasmus's *On Free Will* (1524) was not found either.

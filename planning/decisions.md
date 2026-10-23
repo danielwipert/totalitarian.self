@@ -99,3 +99,6 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-23 | C6.11 status | supported | crevecoeur.03–.07: remade by law, land and labour, not self-made ("men are nothing of themselves") |
 | 2026-10-23 | C6.12 status | challenged | thoreau-walden.07, .11; thoreau-civil.04, .05: withdraws from institutions and opinion, not from neighbourly duty; bounded by God and "higher laws" |
 | 2026-10-23 | §8 pressure | noted | tocqueville2.24 (1840): "to live at variance with the multitude is, as it were, not to live": belonging is already the motive; tocqueville1.16: the majority says "You are free to think differently" |
+| 2026-10-23 | §6 verdict | A: host by erosion; America's checks were voluntary, so they could wear away (C6.1–C6.7, C6.12 rewritten) | Fits all 111 §6 passages; keeps "host, not cause" |
+| 2026-10-23 | §8 after Tocqueville | A: the cure became the disguise; the vocabulary once used to expose conformity now disguises it (C8.2, C8.4 rewritten; C8.7 extended) | Narrower but sharper; belonging is an old motive |
+| 2026-10-23 | Next test | A: the erosion, 1890–1930 (new C6.13) | §6 now depends on it |
