@@ -116,3 +116,7 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-24 | C9.5 status | challenged | No "reason became a tyrant" line in Weber's text; the "iron cage" is the economic order that outlived its religious root (weber.20, .21): the "structure kept, limit dropped" pattern in Weber's own words |
 | 2026-10-24 | §8 pressure | noted | Simmel (1904) has most of the cycle and conformity felt as individuality (simmel.05–.07, .10), but fashion stays "at the periphery of personality," a mask over a reserved inner self (simmel.11); no genuine first expression (simmel.02) |
 | 2026-10-24 | dewey.13 corrected | noted | Frank's self is "a relative focus in the unity of all men and all being" (simmel-frank.02): Dewey's "primacy of the self" misreads him; not evidence for C5.14 step 2 |
+| 2026-10-24 | Economic origin | A: background, not origin (C4.2, C4.5 rewritten; C4.4 supported, dated after 1640) | Weber and Tawney both |
+| 2026-10-24 | Fundamentalism | A: a carrier in shape only (C9.2–C9.4 rewritten); C9.5 rewritten on the iron cage | Answers SPEC §10.3 with the evidence |
+| 2026-10-24 | §8 after Simmel | A: §8 claims the two things Simmel lacks: a genuine first expression, and conformity felt as the self itself (C8.1, C8.2 rewritten) | Narrow, real, testable |
+| 2026-10-24 | C4.29 | noted | "substitute of the Deity" cited as pre-1790; Smith cut it in 1790 (smith-1790) |
