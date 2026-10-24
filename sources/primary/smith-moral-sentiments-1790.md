@@ -1,13 +1,177 @@
 # Adam Smith, *The Theory of Moral Sentiments*, 6th edition (1790): the additions
 
-- **Edition used:** original English (OCR; long s)
+- **Edition used:** original English, 6th edition (London: A. Strahan and T. Cadell; Edinburgh: W. Creech and J. Bell, 1790), 2 vols. OCR, with the long s.
 - **Text file:** `texts/smith-moral-sentiments-1790-vol1.txt`, `-vol2.txt`
+- **Standard edition** (for final citations): Glasgow Edition, ed. Raphael & Macfie (Oxford, 1976), which prints this text. Glasgow paragraph numbers below are inferred from the paragraph count and marked "verify".
+- **Citation form:** this edition's part, section and chapter, plus the file's lines.
+- **Quotation form:** the long s "ſ" is modernized to "s", and obvious OCR misreadings are corrected silently (e.g. "dilintereſted" to "disinterested", "reſpeQable" to "respectable"). Page headers, catchwords and broken-off hyphens in the scan are left out without [...]. Each passage's **Checked:** line says so.
+- **Companion file:** `primary/smith-moral-sentiments.md` (the pre-1790 text, Dublin 1777; IDs smith-tms.NN). Where a 1790 passage is also in the earlier text, the passage below says so; "new in 1790" means a search of `texts/smith-moral-sentiments.txt` found no match.
 - **Claims to test:** C4.29, C7.6, C8.7, C1.1, C4.17
+
+## What 1790 cut (searched, not found)
+
+Searched in both 1790 volumes, allowing for the long s and OCR damage:
+
+- "Man is accountable to God and his fellow-creatures" (smith-tms.07): not found. The word *accountable* does not occur at all (only "unaccountable", vol1 line 10777, in another context). The whole "accountable being" paragraph is gone.
+- "the representative of mankind, and substitute of the Deity" and "the slaves of the world" (smith-tms.10): not found. No "substitute", no "abstract man", no "inmate of the breast" in that form. In 1790 the man within is instead called "the representative of the impartial spectator" (smith-1790.13) and "the great demigod within the breast" (smith-1790.08, .11).
+- **Kept:** the "vicegerent upon earth" passage (vol1 lines 12973–12998, now III.2, as the opening of smith-1790.08's context); the mirror passage (vol1 lines 11169–11245, III.1; same as smith-tms.05); the two persons, judge and "the person judged of" (vol1 lines 11498–11530; the 1777 "pannel" is now "the person judged of"); "one of the multitude, in no respect better than any other in it" (vol1 lines 13558–13573, III.3; same as smith-tms.11); the general rules as "the commands and laws of the Deity, promulgated by those vicegerents which he has thus set up within us" (vol1 lines 16369–16371, III.5); and Part V on fashion, including "founded upon reason and nature, not upon habit or prejudice" (vol2 lines 496–502) and "the spirit of freedom and independency" (vol2 lines 1023–1024), unchanged. **C8.7's Smith evidence (smith-tms.18, .19) stands for 1790 too.**
+
+**Caution:** "not found" in an OCR text is strong but not proof. Confirm the cuts against the Glasgow Edition's notes to III.1–2 before the essay says Smith cut them.
 
 ## Passages
 
-None yet.
+### smith-1790.01 · I.iii.3.1 — admiration of the rich "the great and most universal cause of the corruption of our moral sentiments"
+
+- **Claims:** C7.6 (for), C8.7 (for), C4.29 (complicates)
+- **Location:** I.iii.3 ¶1, pp. 146–147 (Glasgow I.iii.3.1); `texts/smith-moral-sentiments-1790-vol1.txt` lines 6259–6282. New in 1790.
+- **Checked:** text file (long s modernized; drop-cap "T" lost in the scan)
+
+> [This] disposition to admire, and almost to worship, the rich and the powerful, and to despise, or, at least, to neglect persons of poor and mean condition, though necessary both to establish and to maintain the distinction of ranks and the order of society, is, at the same time, the great and most universal cause of the corruption of our moral sentiments. That wealth and greatness are often regarded with the respect and admiration which are due only to wisdom and virtue; and that the contempt, of which vice and folly are the only proper objects, is often most unjustly bestowed upon poverty and weakness, has been the complaint of moralists in all ages.
+
+Yes: admiration of wealth corrupts moral judgement, and Smith says so in so many words. But the same disposition is "necessary" to the order of society. Smith condemns it and defends it in one sentence. It is not a disease he wants cured.
+
+### smith-1790.02 · I.iii.3.2–4 — "Two different roads"; the "great mob of mankind" are "the admirers and worshippers" of wealth; the two respects easily mistaken for each other
+
+- **Claims:** C7.6 (for), C8.7 (for), C4.29 (complicates)
+- **Location:** I.iii.3 ¶2–4, pp. 147–149 (Glasgow I.iii.3.2–4, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 6285–6305, 6313–6314, 6327–6334, 6347–6356. New in 1790.
+- **Checked:** text file (long s modernized; "dilintereſted" read as "disinterested")
+
+> We desire both to be respectable and to be respected. [...] To deserve, to acquire, and to enjoy the respect and admiration of mankind, are the great objects of ambition and emulation. Two different roads are presented to us, equally leading to the attainment of this so much desired object; the one, by the study of wisdom and the practice of virtue; the other, by the acquisition of wealth and greatness. [...] They are the wise and the virtuous chiefly, a select, though, I am afraid, but a small party, who are the real and steady admirers of wisdom and virtue. The great mob of mankind are the admirers and worshippers, and, what may seem more extraordinary, most frequently the disinterested admirers and worshippers, of wealth and greatness. [...] But, notwithstanding this difference, those sentiments bear a very considerable resemblance to one another. In some particular features they are, no doubt, different, but, in the general air of the countenance, they seem to be so very nearly the same, that inattentive observers are very apt to mistake the one for the other.
+
+The C8.7 mechanism in its plainest form. Admiration of wealth feels like respect for merit, because the two look so alike "in the general air of the countenance". Conformity to rank passes itself off as the highest value word of moral life (respect for wisdom and virtue). "Disinterested" matters for C7.6: the mob admires wealth with no hope of gain, so wealth is wanted as a sign, not for use.
+
+### smith-1790.03 · I.iii.3.5–6 — in "the middling and inferior stations" the roads to virtue and fortune "very nearly the same"; corruption is a vice of courts
+
+- **Claims:** C7.6 (complicates), C4.29 (for)
+- **Location:** I.iii.3 ¶5–6, pp. 150–152 (Glasgow I.iii.3.5–6, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 6394–6399, 6421–6433, 6436–6453. New in 1790.
+- **Checked:** text file (long s modernized)
+
+> In the middling and inferior stations of life, the road to virtue and that to fortune, to such fortune, at least, as men in such stations can reasonably expect to acquire, are, happily, in most cases, very nearly the same. [...] The success of such people, too, almost always depends upon the favour and good opinion of their neighbours and equals; and without a tolerably regular conduct these can very seldom be obtained. The good old proverb, therefore, That honesty is the best policy, holds, in such situations, almost always perfectly true. In such situations, therefore, we may generally expect a considerable degree of virtue; and, fortunately for the good morals of society, these are the situations of by far the greater part of mankind. In the superior stations of life the case is unhappily not always the same. In the courts of princes, in the drawing-rooms of the great, where success and preferment depend, not upon the esteem of intelligent and well-informed equals, but upon the fanciful and foolish favour of ignorant, presumptuous, and proud superiors; flattery and falsehood too often prevail over merit and abilities.
+
+Against reading I.iii.3 as a general theory of a status-corrupted society. For "by far the greater part of mankind", the eyes of equals keep people honest. Corruption comes from judgement by superiors (courts), not from social judgement as such. Lasch's symbol competition is a middle-class society; Smith's middle class is the healthy part. So the precursor to §7.3 is real but turned the other way round.
+
+### smith-1790.04 · I.iii.3.7 — the rich "set, or [...] lead what is called the fashion"; "ashamed of unfashionable virtues"; "Many a poor man places his glory in being thought rich"
+
+- **Claims:** C8.7 (for), C7.6 (for)
+- **Location:** I.iii.3 ¶7, pp. 153–154 (Glasgow I.iii.3.7, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 6494–6540. New in 1790.
+- **Checked:** text file (long s modernized)
+
+> It is from our disposition to admire, and consequently to imitate, the rich and the great, that they are enabled to set, or to lead what is called the fashion. Their dress is the fashionable dress; the language of their conversation, the fashionable style; their air and deportment, the fashionable behaviour. Even their vices and follies are fashionable; and the greater part of men are proud to imitate and resemble them in the very qualities which dishonour and degrade them. Vain men often give themselves airs of a fashionable profligacy, which, in their hearts, they do not approve of, and of which, perhaps, they are really not guilty. They desire to be praised for what they themselves do not think praise-worthy, and are ashamed of unfashionable virtues which they sometimes practise in secret, and for which they have secretly some degree of real veneration. There are hypocrites of wealth and greatness, as well as of religion and virtue [...] He assumes the equipage and splendid way of living of his superiors [...] Many a poor man places his glory in being thought rich, without considering that the duties (if one may call such follies by so very venerable a name) which that reputation imposes upon him, must soon reduce him to beggary [...]
+
+The strongest Smith text for §7.3 and C8.7 together. The "equipage" of one's superiors is put on as a sign of rank one does not have: symbol competition, with ruin as its cost. Note the self here: it secretly keeps true values (the "real veneration" for virtues it hides) and wears the fashionable ones on the outside. The self is not dissolved into the crowd. It knows the difference, and conforms anyway.
+
+### smith-1790.05 · III.2.1–2, 7 — "not only to be loved, but to be lovely"; praise-worthiness "by no means derived altogether from the love of praise"
+
+- **Claims:** C4.29 (complicates), C1.1 (complicates)
+- **Location:** III.2 ¶1–2 and ¶7, pp. 284–285, 294–295 (Glasgow III.2.1–2, 7, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 11571–11600, 11972–11991. New in 1790 (the 1777 text has no such chapter).
+- **Checked:** text file (long s modernized; drop-cap "Man" damaged in the scan)
+
+> Man naturally desires, not only to be loved, but to be lovely; or to be that thing which is the natural and proper object of love. He naturally dreads, not only to be hated, but to be hateful; or to be that thing which is the natural and proper object of hatred. He desires, not only praise, but praise-worthiness; or to be that thing which, though it should be praised by nobody, is, however, the natural and proper object of praise. [...] The love of praise-worthiness is by no means derived altogether from the love of praise. Those two principles, though they resemble one another, though they are connected, and often blended with one another, are yet, in many respects, distinct and independent of one another. [...] But this desire of the approbation, and this aversion to the disapprobation of his brethren, would not alone have rendered him fit for that society for which he was made. Nature, accordingly, has endowed him, not only with a desire of being approved of, but with a desire of being what ought to be approved of; or of being what he himself approves of in other men. The first desire could only have made him wish to appear to be fit for society. The second was necessary in order to render him anxious to be really fit.
+
+The main 1790 change. Smith now gives conscience a second root, "distinct and independent" of the wish for praise. But its content is still social: what is praise-worthy is "what he himself approves of in other men", and its purpose is to be "really fit" for society. This is more independence from actual opinion, not from society.
+
+### smith-1790.06 · III.2.9 — the secret criminal feels remorse though he "could even bring himself to believe that there was no God to revenge it"
+
+- **Claims:** C4.17 (complicates), C1.1 (complicates)
+- **Location:** III.2 ¶9, pp. 298–299 (Glasgow III.2.9, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 12119–12137, 12148–12156. **Not new:** the same sentence is in the 1777 text (`texts/smith-moral-sentiments.txt` lines 4734–4743); 1790 keeps it.
+- **Checked:** text file (long s modernized)
+
+> and though he could be assured that no man was ever to know it, and could even bring himself to believe that there was no God to revenge it, he would still feel enough of both these sentiments to embitter the whole of his life: he would still regard himself as the natural object of the hatred and indignation of all his fellow-creatures [...] These natural pangs of an affrighted conscience are the dæmons, the avenging furies, which, in this life, haunt the guilty, which allow them neither quiet nor repose, which often drive them to despair and distraction, from which no assurance of secrecy can protect them, from which no principles of irreligion can entirely deliver them [...]
+
+Conscience works without belief in God; it does not work without imagined "fellow-creatures". For answerability (C1.1) the court survives the loss of God and the loss of witnesses, but not the loss of mankind as imagined judge. A first sign of what C4.17 calls moving the court outward. Kept from 1759, so not a 1790 shift.
+
+### smith-1790.07 · III.2.11–12 — Calas; "Religion can alone afford them any effectual comfort"
+
+- **Claims:** C1.1 (for), C4.17 (for)
+- **Location:** III.2 ¶11–12, pp. 300–302 (Glasgow III.2.11–12, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 12334–12354, 12357–12384. New in 1790.
+- **Checked:** text file (long s modernized)
+
+> The unfortunate Calas, a man of much more than ordinary constancy (broke upon the wheel and burnt at Tholouse for the supposed murder of his own son, of which he was perfectly innocent), seemed, with his last breath, to deprecate, not so much the cruelty of the punishment, as the disgrace which the imputation might bring upon his memory. [...] To persons in such unfortunate circumstances, that humble philosophy which confines its views to this life, can afford, perhaps, but little consolation. Every thing that could render either life or death respectable is taken from them. They are condemned to death and to everlasting infamy. Religion can alone afford them any effectual comfort. She alone can tell them, that it is of little importance what man may think of their conduct, while the all-seeing Judge of the world approves of it.
+
+Against any simple story of secularization between 1759 and 1790. The 1790 additions make God *more* explicit as the last court, at exactly the point where society's court fails. When public judgement is wrong, the self does not appeal to itself; it appeals to God.
+
+### smith-1790.08 · III.2.31–33 — the two tribunals, "the man without" and "the man within"; "this demigod within the breast [...] partly of immortal, yet partly too of mortal extraction"; appeal to "a still higher tribunal"
+
+- **Claims:** C1.1 (for), C4.17 (for), C4.29 (complicates)
+- **Location:** III.2 ¶31–33, pp. 320–324 (Glasgow III.2.31–33, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 13001–13009, 13024–13048, 13074–13096, 13110–13129, 13132–13155. New in 1790 (replaces the pre-1790 III.ii ¶8–15, smith-tms.08–.10).
+- **Checked:** text file (long s modernized). Verifies the "demigod" phrase that smith-moral-sentiments.md quoted from memory.
+
+> But though man has, in this manner, been rendered the immediate judge of mankind, he has been rendered so only in the first instance; and an appeal lies from his sentence to a much higher tribunal, to the tribunal of their own consciences, to that of the supposed impartial and well-informed spectator, to that of the man within the breast, the great judge and arbiter of their conduct. The jurisdictions of those two tribunals are founded upon principles which, though in some respects resembling and akin, are, however, in reality different and distinct. The jurisdiction of the man without, is founded altogether in the desire of actual praise, and in the aversion to actual blame. The jurisdiction of the man within, is founded altogether in the desire of praise-worthiness, and in the aversion to blame-worthiness [...] But in this and in some other cases, the man within seems sometimes, as it were, astonished and confounded by the vehemence and clamour of the man without. [...] We scarce dare to absolve ourselves, when all our brethren appear loudly to condemn us. The supposed impartial spectator of our conduct seems to give his opinion in our favour with fear and hesitation; when that of all the real spectators, when that of all those with whose eyes and from whose station he endeavours to consider it, is unanimously and violently against us. In such cases, this demigod within the breast appears, like the demigods of the poets, though partly of immortal, yet partly too of mortal extraction. When his judgments are steadily and firmly directed by the sense of praise-worthiness and blame-worthiness, he seems to act suitably to his divine extraction: But when he suffers himself to be astonished and confounded by the judgments of ignorant and weak man, he discovers his connexion with mortality, and appears to act suitably, rather to the human, than to the divine, part of his origin. In such cases, the only effectual consolation of humbled and afflicted man lies in an appeal to a still higher tribunal, to that of the all-seeing Judge of the world, whose eye can never be deceived, and whose judgments can never be perverted.
+
+The decisive 1790 text. The inner judge is now a separate court from society's ("different and distinct"), which is a real step toward conscience against the crowd. But it is not the self's own court: it is half divine, and it still sees "with whose eyes and from whose station" the real spectators see, so a unanimous crowd can shake it. Above it stands "a still higher tribunal", God. A three-level court: man without, man within, God.
+
+### smith-1790.09 · III.3.25 — "the wise and just man" "almost becomes himself that impartial spectator"
+
+- **Claims:** C1.1 (complicates), C4.29 (for), C4.17 (complicates)
+- **Location:** III.3 ¶25, pp. 371–372 (Glasgow III.3.25, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 14488–14540. New in 1790.
+- **Checked:** text file (long s modernized)
+
+> The man of real constancy and firmness, the wise and just man who has been thoroughly bred in the great school of self-command, in the bustle and business of the world, exposed, perhaps, to the violence and injustice of faction, and to the hardships and hazards of war, maintains this control of his passive feelings upon all occasions; and whether in solitude or in society, wears nearly the same countenance, and is affected very nearly in the same manner. [...] He has never dared to forget for one moment the judgment which the impartial spectator would pass upon his sentiments and conduct. He has never dared to suffer the man within the breast to be absent one moment from his attention. With the eyes of this great inmate he has always been accustomed to regard whatever relates to himself. [...] He has been in the constant practice, and, indeed, under the constant necessity, of modelling, or of endeavouring to model, not only his outward conduct and behaviour, but, as much as he can, even his inward sentiments and feelings, according to those of this awful and respectable judge. He does not merely affect the sentiments of the impartial spectator. He really adopts them. He almost identifies himself with, he almost becomes himself that impartial spectator, and scarce even feels but as that great arbiter of his conduct directs him to feel.
+
+Here answerability is to an idealized self: the best person is the one who has almost become his own judge. But this is the reverse of self-expression. Even "inward sentiments and feelings" are modelled on the judge, and the school of self-command is "the bustle and business of the world", not solitude. The ideal is a self wholly under command, not a self set free.
+
+### smith-1790.10 · III.3.43 — under faction the man of candour is "a solitary individual, without any influence"; "Of all the corrupters of moral sentiments [...] faction and fanaticism"
+
+- **Claims:** C4.29 (complicates), C4.17 (complicates), C8.7 (complicates)
+- **Location:** III.3 ¶43, pp. 400–402 (Glasgow III.3.43, verify); `texts/smith-moral-sentiments-1790-vol1.txt` lines 15382–15421. New in 1790.
+- **Checked:** text file (long s modernized)
+
+> In a nation distracted by faction, there are, no doubt, always a few, though commonly but a very few, who preserve their judgement untainted by the general contagion. They seldom amount to more than, here and there, a solitary individual, without any influence, excluded, by his own candour, from the confidence of either party, and who, though he may be one of the wisest, is necessarily, upon that very account, one of the most insignificant men in the society. All such people are held in contempt and derision, frequently in detestation, by the furious zealots of both parties. A true party-man hates and despises candour; and, in reality, there is no vice which could so effectually disqualify him for the trade of a party-man as that single virtue. The real, revered, and impartial spectator, therefore, is, upon no occasion, at a greater distance than amidst the violence and rage of contending parties. To them, it may be said, that such a spectator scarce exists any where in the universe. Even to the great Judge of the universe, they impute all their own prejudices, and often view that Divine Being as animated by all their own vindictive and implacable passions.
+
+The clearest 1790 case of conscience against the crowd: the one sound judge is a "solitary individual" whom both parties despise. Note that the crowd here is a faction, not society, and Smith's worst corrupter is now party and fanaticism, ranked above wealth (smith-1790.01). Faction even remakes God in its own image, so in 1790 God is a judge that conformity can capture too.
+
+### smith-1790.11 · VI.iii.23–25 — "two different standards"; the "archetype of perfection", the work of "the great demigod within the breast"
+
+- **Claims:** C1.1 (complicates), C4.17 (for), C4.29 (for)
+- **Location:** VI.iii ¶23–25, vol. 2 pp. 162–165 (Glasgow VI.iii.23–25, verify); `texts/smith-moral-sentiments-1790-vol2.txt` lines 5330–5350, 5372–5421, 5446–5453. Part VI is new in 1790.
+- **Checked:** text file (long s modernized; "chatacter" read as "character")
+
+> In estimating our own merit, in judging of our own character and conduct, there are two different standards to which we naturally compare them. The one is the idea of exact propriety and perfection, so far as we are each of us capable of comprehending that idea. The other is that degree of approximation to this idea which is commonly attained in the world, and which the greater part of our friends and companions, of our rivals and competitors, may have actually arrived at. [...] The wise and virtuous man directs his principal attention to the first standard; the idea of exact propriety and perfection. There exists in the mind of every man, an idea of this kind, gradually formed from his observations upon the character and conduct both of himself and of other people. It is the slow, gradual, and progressive work of the great demigod within the breast, the great judge and arbiter of conduct. [...] He endeavours as well as he can, to assimilate his own character to this archetype of perfection. But he imitates the work of a divine artist, which can never be equalled. He feels the imperfect success of all his best endeavours, and sees, with grief and affliction, in how many different features the mortal copy falls short of the immortal original. [...] He is never so elated as to look down with insolence even upon those who are really below him. He feels so well his own imperfection, he knows so well the difficulty with which he attained his own distant approximation to rectitude, that he cannot regard with contempt the still greater imperfection of other people.
+
+The best answer to the question whether the judge is God, society or an idealized self: all three at once. The standard is an ideal self ("archetype of perfection"); it is built from watching "himself and of other people"; and its maker is "a divine artist". Its effect is humility, not self-esteem. The ideal binds the self; it never licenses it. The second standard (how one compares with friends and rivals) is where vanity and rank-competition live.
+
+### smith-1790.12 · VI.iii.27–28 — "excessive self-admiration [...] dazzles the multitude"; great men worshipped "with a sincere admiration, superior even to that with which they appear to worship themselves"
+
+- **Claims:** C7.6 (complicates), C8.7 (for), C1.1 (for)
+- **Location:** VI.iii ¶27–28, vol. 2 pp. 166–169 (Glasgow VI.iii.27–28, verify); `texts/smith-moral-sentiments-1790-vol2.txt` lines 5577–5592, 5605–5622, 5653–5657. New in 1790.
+- **Checked:** text file (long s modernized; "nolle of thoſe foolith" read as "noise of those foolish")
+
+> The attention of such persons, however, being always principally directed, not to the standard of ideal, but to that of ordinary perfection, they have little sense of their own weaknesses and imperfections; they have little modesty; are often assuming, arrogant, and presumptuous; great admirers of themselves, and great contemners of other people. Though their characters are in general much less correct, and their merit much inferior to that of the man of real and modest virtue; yet their excessive presumption, founded upon their own excessive self-admiration, dazzles the multitude, and often imposes even upon those who are much superior to the multitude. [...] But when those pretensions are supported by a very high degree of real and solid merit, when they are displayed with all the splendour which ostentation can bestow upon them, when they are supported by high rank and great power, when they have often been successfully exerted, and are, upon that account, attended by the loud acclamations of the multitude; even the man of sober judgment often abandons himself to the general admiration. The very noise of those foolish acclamations often contributes to confound his understanding, and while he sees those great men only at a certain distance, he is often disposed to worship them with a sincere admiration, superior even to that with which they appear to worship themselves. [...] Great success in the world, great authority over the sentiments and opinions of mankind, have very seldom been acquired without some degree of this excessive self-admiration.
+
+Smith names the self-worshipping self and its public. Self-admiration produces admiration in others, and the crowd's "acclamations" overcome even sober judgement: C8.7's mechanism with a person, not a fashion, as its object. For C1.1 this is the danger Smith sees in a self measured only against others (the second standard): it inflates. For C7.6 it is closer to celebrity than to Lasch's competition in goods.
+
+### smith-1790.13 · VI.i.10–11 — the prudent man "respects with an almost religious scrupulosity, all the established decorums"; approved by "the representative of the impartial spectator, the man within the breast"
+
+- **Claims:** C4.29 (for), C1.1 (complicates)
+- **Location:** VI.i ¶10–11, vol. 2 pp. 56–58 (Glasgow VI.i.10–11, verify); `texts/smith-moral-sentiments-1790-vol2.txt` lines 2213–2224, 2251–2262, 2269–2277. New in 1790.
+- **Checked:** text file (long s modernized; "figuresin" and "paiety" corrected)
+
+> But though his conversation may not always be very sprightly or diverting, it is always perfectly inoffensive. He hates the thought of being guilty of any petulance or rudeness. He never assumes impertinently over any body, and, upon all common occasions, is willing to place himself rather below than above his equals. Both in his conduct and conversation, he is an exact observer of decency, and respects with an almost religious scrupulosity, all the established decorums and ceremonials of society. [...] In the steadiness of his industry and frugality, in his steadily sacrificing the ease and enjoyment of the present moment for the probable expectation of the still greater ease and enjoyment of a more distant but more lasting period of time, the prudent man is always both supported and rewarded by the entire approbation of the impartial spectator, and of the representative of the impartial spectator, the man within the breast. The impartial spectator does not feel himself worn out by the present labour of those whose conduct he surveys; nor does he feel himself solicited by the importunate calls of their present appetites.
+
+Two things. The prudent man is bound by society's forms with "an almost religious scrupulosity". And the title of the man within has changed: in 1777 he was "the representative of mankind, and substitute of the Deity" (smith-tms.10); here he is "the representative of the impartial spectator". The chain of representation now ends in an idealized observer, not in mankind or God. This is the most precise sign of the 1790 shift, but Smith gives it no fanfare.
+
+### smith-1790.14 · VI.concl.1–3 — "this inmate who, in the evening, calls us to an account"; without the impartial spectator "every passion would [...] rush headlong"
+
+- **Claims:** C1.1 (for), C4.29 (for), C4.17 (complicates)
+- **Location:** Conclusion of Part VI ¶1–3, vol. 2 pp. 187–189 (Glasgow VI.concl.1–3, verify); `texts/smith-moral-sentiments-1790-vol2.txt` lines 6725–6744, 6751–6771, 6774–6807. New in 1790.
+- **Checked:** text file (long s modernized; "omiflions" read as "omissions")
+
+> Concern for our own happiness recommends to us the virtue of prudence: concern for that of other people, the virtues of justice and beneficence; of which, the one restrains us from hurting, the other prompts us to promote that happiness. Independent of any regard either to what are, or to what ought to be, or to what upon a certain condition would be, the sentiments of other people, the first of those three virtues is originally recommended to us by our selfish, the other two by our benevolent affections. Regard to the sentiments of other people, however, comes afterwards both to enforce and to direct the practice of all those virtues; and no man during, either the whole course of his life, or that of any considerable part of it, ever trod steadily and uniformly in the paths of prudence, of justice, or of proper beneficence, whose conduct was not principally directed by a regard to the sentiments of the supposed impartial spectator, of the great inmate of the breast, the great judge and arbiter of conduct. If in the course of the day we have swerved in any respect from the rules which he prescribes to us [...] it is this inmate who, in the evening, calls us to an account for all those omissions and violations [...] Without the restraint which this principle imposes, every passion would, upon most occasions, rush headlong, if I may say so, to its own gratification. [...] Respect for what are, or for what ought to be, or for what upon a certain condition would be, the sentiments of other people, is the sole principle which, upon most occasions, overawes all those mutinous and turbulent passions into that tone and temper which the impartial spectator can enter into and sympathize with.
+
+Answerability survives in the 1790 text as a daily review ("calls us to an account"), though the word "accountable" is gone. And it is a bound: self-command is respect for others' sentiments, actual, ideal or hypothetical. Without it the passions "rush headlong". Smith's last word on virtue makes the self answerable and restrained, not expressed.
+
+## What the 1790 changes do to the earlier findings
+
+- **C4.29 (social moral self).** Still supported. The mirror passage stays (III.1), the content of conscience is still social (smith-1790.05, .11, .14), and the prudent man keeps society's decorums "with an almost religious scrupulosity" (.13). But the claim's quotation is now wrong for Smith's final text: "the representative of mankind, and substitute of the Deity" is a pre-1790 phrase (cut). The 1790 equivalents are "the representative of the impartial spectator" and "this demigod within the breast [...] partly of immortal, yet partly too of mortal extraction".
+- **Independence.** 1790 makes the inner court more separate from actual opinion: praise-worthiness is "distinct and independent" of praise (.05); the two tribunals are "different and distinct" (.08); the sound judge under faction is "a solitary individual" (.10). That is a step toward conscience against the crowd, but not toward the separated Self: the inner judge is still built from, and shaken by, other people's eyes, and above it stands God.
+- **God.** Not removed. The words "accountable to God" and "substitute of the Deity" go, but 1790 adds two appeals to "the all-seeing Judge of the world" (.07, .08). God moves from inside the inner judge (substitute) to above it (a higher court). Conscience can work without belief in God (.06, kept from 1759).
+- **C8.7, C7.6.** Strengthened. I.iii.3 is the fullest early statement of both (.01, .02, .04), and Part V (fashion felt as "reason and nature") is unchanged. But Smith puts the corruption at court and in superior stations, and calls the middling ranks virtuous (.03), which cuts against reading him as a critic of a society-wide status competition.
 
 ## To do
 
-- [ ] First reading (see the reader brief).
+- [ ] Check the cuts named above (smith-tms.07, .10) and the paragraph numbers marked "verify" against the Glasgow Edition and its textual notes (III.1–2, VI).
+- [ ] Update `primary/smith-moral-sentiments.md`: its edition warning can now cite smith-1790.08 for the "demigod" passage (verified here, no longer from memory), and smith-tms.07, .08, .10 should say which parts are cut or replaced in 1790.
+- [ ] C4.29: replace or date the quotation "the representative of mankind, and substitute of the Deity" (pre-1790 wording; see suggested rewording in the reader report).
+- [ ] C7.6, C8.7 / §7.3: decide whether to cite I.iii.3 (smith-1790.01, .02, .04) as Smith's main statement, with smith-1790.03 (the middling ranks) as the caveat.
+- [ ] C1.1, C4.17: consider whether smith-1790.11 (two standards; the ideal self as a bound producing humility) belongs in §4 as the Enlightenment form of answerability to an idealized self.
+- [ ] Not yet read in the 1790 text: VI.ii.3 (universal benevolence and "the great Director of nature"), VII.ii.1 (the Stoics, much revised in 1790), and III.5–6 beyond the vicegerent sentence. Read for C4.17 and C4.30.

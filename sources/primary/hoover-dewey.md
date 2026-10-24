@@ -225,13 +225,13 @@ Dewey's mechanism for the erosion: corporateness detaches people from "old local
 
 ### dewey.13 · ch. IV, pp. 63–64 and note — "the primacy of the self" as "a reaction [...] to the dissolution"
 
-- **Claims:** C5.14 (for, step 2), C5.3 (for), C6.13 (for)
+- **Claims:** C5.14 (complicates; was "for, step 2" before Frank was checked), C5.3 (complicates), C6.13 (for)
 - **Location:** ch. IV, pp. 63–65 and footnote p. 64; lines 1744–1746, 1757–1767, 1778–1785, 1795–1799
-- **Checked:** text file. The words Dewey quotes are Waldo Frank's (*The Re-discovery of America*, 1929), at second hand; check them against Frank before citing him.
+- **Checked:** text file. The words Dewey quotes are Waldo Frank's (*The Re-discovery of America*, 1929), at second hand; checked against Frank on 2026-10-24: the words match (Dewey drops "I said"), but see simmel-frank.02.
 
 > They wish to reverse the operation and to form the social bond of unity and of allegiance by regeneration of the isolated individual soul. [...] The very attempt to secure integration for the individual, and through him for society, by means of a deliberate and conscious cultivation of religion, is itself proof of how far the individual has become lost through detachment from acknowledged social values. It is no wonder that when the appeal does not take the form of dogmatic fundamentalism, it tends to terminate in either some form of esoteric occultism or private estheticism. [Dewey's note on Frank:] he goes on to say "man's need of order and his making of order are his science, his art, his religion; and these are all to be referred to the initial sense of order called the self," quite oblivious of the fact that this doctrine of the primacy of the self is precisely a reaction of the romantic and subjective age to the dissolution he has depicted, having its meaning only in that dissolution. [...] For the idea that the outward scene is chaotic because of the machine, which is a principle of chaos, and that it will remain so until individuals reinstitute wholeness within themselves, simply reverses the true state of things.
 
-The best passage in either book for §5. A 1929 cultural critic makes the self the origin of all order (science, art, religion), which is C5.14's step 2. Dewey, writing at the time, explains it as the product of the very "dissolution" of loyalties. That is the thesis's own causal order (frame loss leads to the self as origin), stated in 1930, with "dogmatic fundamentalism" as the other response (compare §9.1).
+**Corrected 2026-10-24:** Dewey's reading of Frank does not hold. Two sentences after the line Dewey quotes, Frank corrects himself: the self is "a relative focus in the unity of all men and all being" (simmel-frank.02), bounded by the Whole. So this is not evidence for C5.14's step 2. What stands is Dewey's own analysis: he explains the turn to the individual soul as a product of the "dissolution" of loyalties. That is the thesis's own causal order (frame loss leads to the self as origin), stated in 1930, with "dogmatic fundamentalism" as the other response (compare §9.1).
 
 ### dewey.14 · ch. V "Toward a New Individualism", pp. 77, 80, 92 — "a dying echo"; "Individuality was a reality because it corresponded to conditions"
 
