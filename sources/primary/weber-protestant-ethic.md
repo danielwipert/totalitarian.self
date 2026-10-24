@@ -2,7 +2,7 @@
 
 - **Edition used:** trans. Talcott Parsons (1930), with a Foreword by R. H. Tawney
 - **Text file:** `texts/weber-protestant-ethic-1930.txt` (OCR, noisy: stray marks, broken words, running heads in mid-sentence)
-- **Claims to test:** C4.2, C4.4, C4.5, C9.5, C6.5; also C4.1 (the "structure kept, limit dropped" pattern)
+- **Claims to test:** C4.2, C4.4, C4.5, C9.5, C6.5; also C4.1 (the pattern in which the structure is kept and the limit dropped)
 - **Citation form:** chapter and Parsons page (from the OCR page numbers), then line numbers in the text file. Main text: Author's Introduction lines 822–1543; ch. I 1553–2004; ch. II 2005–3266; ch. III 3269–3806; ch. IV 3818–6198; ch. V 6199–7385; notes from 7388.
 - **Quotation conventions:** footnote markers are omitted; words hyphenated across a line break are joined; **[p. N]** marks where a quotation runs onto the next page (a running head stands there in the OCR). OCR fixes are listed under **Checked** for each passage. None has yet been checked against a scan.
 - **Not in this text:** the phrase "elective affinity" does not occur anywhere in the file. Where the German has the term (not in hand), Parsons seems to say "correlations" (weber.11). Do not attribute "elective affinity" to this edition.
@@ -35,13 +35,13 @@ Weber grants "the fundamental importance of the economic factor" and says this e
 
 - **Claims:** C4.5 (for), C4.2 (for)
 - **Location:** ch. I, pp. 35–36; lines 1577–1589, 1608–1614
-- **Checked:** text file. OCR: "modem" read as "modern"; "he explained" as "be explained"; "gfrfpg^^^" ^hp tpnHpncy" as "strengthen the tendency"; "traditinn" as "tradition". "[of them]" stands after a running head.
+- **Checked:** text file. OCR: "modem" read as "modern"; "he explained" as "be explained"; "gfrfpg^^^" ^hp tpnHpncy" as "[strengthen] the tendency" (the bracketed word is a reconstruction); "traditinn" as "tradition". "[of them]" stands after a running head.
 
-> It is true that the greater relative participation of Protestants in the ownership of capital, in management, and the upper ranks of labour in great modern industrial and commercial enterprises, may in part be explained in terms of historical circumstances which extend far back into the past, and in which religious affiliation is not a cause of the economic conditions, but to a certain extent appears to be a result [of them]. [...] The emancipation from economic traditionalism appears, no doubt, to be a factor which would greatly strengthen the tendency to doubt the sanctity of the religious tradition, as of all traditional authorities.
+> It is true that the greater relative participation of Protestants in the ownership of capital, in management, and the upper ranks of labour in great modern industrial and commercial enterprises, may in part be explained in terms of historical circumstances which extend far back into the past, and in which religious affiliation is not a cause of the economic conditions, but to a certain extent appears to be a result [of them]. [...] The emancipation from economic traditionalism appears, no doubt, to be a factor which would greatly [strengthen] the tendency to doubt the sanctity of the religious tradition, as of all traditional authorities.
 
 The best "for" in Weber himself: the wealthy towns went Protestant, and getting free of economic tradition made it easier to doubt religious tradition. But he raises this only to say it is not enough (weber.04).
 
-### weber.04 · Ch. I, pp. 36–37 — not less control but more: "this unexampled tyranny of Puritanism"
+### weber.04 · Ch. I, pp. 36–37 — not less control but more: "tyranny of Puritanism"
 
 - **Claims:** C4.5 (complicates), C4.2 (complicates), C4.1 (for)
 - **Location:** ch. I, pp. 36–37; lines 1616–1634, 1658–1665
@@ -241,7 +241,7 @@ This is the §4 pattern in Weber's own words: the method stays and its religious
 
 > No one knows who will live in this cage in the future, or whether at the end of this tremendous development entirely new prophets will arise, or there will be a great rebirth of old ideas and ideals, or, if neither, mechanized petrification, embellished with a sort of convulsive self-importance. For of the last stage of [this] cultural development, it might well be truly said: "Specialists without spirit, sensualists without heart; this nullity imagines that it has attained a level of civilization never before achieved."
 
-C9.5 as written ("reason became a tyrant") is not here. The cage is the economic order "bound to [...] machine production," a "mechanism," not reason. What is here is the pattern. Baxter's limit (a cloak that "can be thrown aside") was dropped, and the structure became compulsory once "the religious and ethical meaning" was stripped. The nearest thing to C9.5's "values it served" is the calling that can no longer be "related to the highest spiritual and cultural values." C6.5: the United States is named as the place of "its highest development," where the root is most fully gone.
+C9.5 as written ("reason became a tyrant") is not here. The cage is the economic order "bound to [...] machine production," a "mechanism," not reason. What is here is the pattern. Baxter's limit (a cloak that "can be thrown aside") was dropped, and the structure became compulsory once it was "stripped of its religious and ethical meaning". The nearest thing to C9.5's "values it served" is the calling that can no longer be "related to the highest spiritual and cultural values." C6.5: the United States is named as the place of "its highest development," where the root is most fully gone.
 
 ### weber.21 · Ch. V, p. 183 — "not my aim to substitute for a one-sided materialistic an equally one-sided spiritualistic causal interpretation"
 
