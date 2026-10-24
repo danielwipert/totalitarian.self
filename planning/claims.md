@@ -251,6 +251,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 **Pressure points**
 
+- **C9.2–C9.4:** read *The Fundamentals* themselves (1910–15): is the movement's founding text a *surrender* of the self to authority, an assertion of the individual believer's own reading (a Self in religious form), or neither?
 - **C9.2:** Fundamentalism as a movement dates to the 1910s, so "from the Reagan era onward" must refer to intensification only.
 - **C9.5:** The Weber line comes via Solomon. Find it in Weber's own text before relying on it.
 

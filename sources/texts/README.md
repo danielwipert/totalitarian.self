@@ -73,6 +73,12 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `lynd-middletown.txt` | Robert S. and Helen M. Lynd, *Middletown: A Study in Contemporary American Culture* (1929), foreword by Clark Wissler | original English (1929 text) | [archive.org](https://archive.org/details/middletownstudyi00lyndrich) | OCR |
 | `lippmann-preface-to-morals.txt` | Walter Lippmann, *A Preface to Morals* (1929) | original English | [Gutenberg #77019](https://www.gutenberg.org/ebooks/77019) | clean |
 | `dewey-individualism-old-and-new.txt` | John Dewey, *Individualism Old and New* (1930) | original English | [archive.org](https://archive.org/details/individu00dewe) | OCR |
+| `weber-protestant-ethic-1930.txt` | Max Weber, *The Protestant Ethic and the Spirit of Capitalism* (1904–05; rev. 1920) | Talcott Parsons (1930) | [archive.org](https://archive.org/details/protestantethics00webe) | OCR |
+| `tawney-religion-rise-capitalism.txt` | R. H. Tawney, *Religion and the Rise of Capitalism* (1926) | original English | [Gutenberg #71223](https://www.gutenberg.org/ebooks/71223) | clean |
+| `fundamentals-vol1.txt` … `-vol4.txt` | *The Fundamentals: A Testimony to the Truth* (essays 1910–15), four-volume edition (1917) | original English | [archive.org](https://archive.org/details/fundamentalstest0001unse) and companion volumes | OCR |
+| `simmel-fashion-intl-quarterly-1904.txt` | Georg Simmel, "Fashion," *International Quarterly* vol. 10 (1904), pp. 130ff.; the whole volume, essay from about line 6216 | English as published | [archive.org](https://archive.org/details/internationalqua10newy) | OCR |
+| `frank-rediscovery-of-america-1929.txt` | Waldo Frank, *The Re-discovery of America* (1929) | original English | [archive.org](https://archive.org/details/bwb_W7-BOW-973) | OCR |
+| `smith-moral-sentiments-1790-vol1.txt`, `-vol2.txt` | Adam Smith, *The Theory of Moral Sentiments*, 6th edition (1790), with Smith's final additions (I.iii.3, Part VI, revised Part III) | original English; long s (ſ) | [archive.org](https://archive.org/details/bim_eighteenth-century_the-theory-of-moral-sent_smith-adam_1790_1) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
 
