@@ -86,6 +86,11 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `wilson-new-freedom.txt` | Woodrow Wilson, *The New Freedom* (1913) | original English | [Gutenberg #14811](https://www.gutenberg.org/ebooks/14811) | clean |
 | `brandeis-other-peoples-money.txt` | Louis D. Brandeis, *Other People's Money, and How the Bankers Use It* (1914) | original English | [Gutenberg #57819](https://www.gutenberg.org/ebooks/57819) | clean |
 | `maitland-collected-papers-vol3.txt` | F. W. Maitland, *Collected Papers* vol. III (1911), incl. "The Corporation Sole," "The Crown as Corporation," "Moral Personality and Legal Personality" | original English | [archive.org](https://archive.org/details/collectedpapers03maituoft) | OCR |
+| `gierke-maitland-political-theories.txt` | Otto Gierke, *Political Theories of the Middle Age*, with Maitland's Translator's Introduction (1900) | F. W. Maitland (1900) | [archive.org/details/politicaltheorie00gier_0](https://archive.org/details/politicaltheorie00gier_0) | OCR |
+| `carnegie-gospel-of-wealth.txt` | Andrew Carnegie, *The Gospel of Wealth and Other Timely Essays* (1900), incl. "Wealth" (1889) | original English | [archive.org/details/cu31924001214539](https://archive.org/details/cu31924001214539) | OCR |
+| `carnegie-autobiography.txt` | Andrew Carnegie, *Autobiography* (1920) | original English | [Gutenberg #17976](https://www.gutenberg.org/ebooks/17976) | clean |
+| `rockefeller-reminiscences.txt` | John D. Rockefeller, *Random Reminiscences of Men and Events* (1909) | original English | [Gutenberg #17090](https://www.gutenberg.org/ebooks/17090) | clean |
+| `hoover-new-day-1928.txt` | Herbert Hoover, *The New Day: Campaign Speeches of Herbert Hoover, 1928* (Stanford, Dec. 1928), incl. the New York speech of October 22 ("rugged individualism") | original English | [archive.org/details/newdaycampaignsp0000hoov](https://archive.org/details/newdaycampaignsp0000hoov) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
 
