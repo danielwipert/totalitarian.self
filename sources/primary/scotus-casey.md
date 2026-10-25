@@ -2,7 +2,7 @@
 
 - **Edition used:** the U.S. Supreme Court's opinions, 505 U.S. 833; 112 S.Ct. 2791; 120 L.Ed.2d 674 (argued April 22, decided June 29, 1992). All opinions: the joint opinion of O'Connor, Kennedy and Souter (Parts I–VI, part of it the opinion of the Court), Stevens and Blackmun (each concurring in part and dissenting in part), Rehnquist and Scalia (each concurring in the judgment in part and dissenting in part, each joined by the other, White and Thomas). Public domain.
 - **Text file:** `texts/scotus-casey-1992.txt` (Cornell Legal Information Institute HTML, converted to text; not OCR).
-- **Citation form:** opinion and part, plus this file's line numbers. The text has **no U.S. Reports page breaks**: the internal cross-references read "ante, at ____". The standalone numbers between paragraphs (e.g. 55 before line 261) are the LII's paragraph numbers, not pages. A few S.Ct. pages survive inside the dissents' own citations (e.g. "ante, at 2815-2816", line 1827; "pages 2803-2814", line 1755), but U.S. Reports pages must be added from a print or official copy before any final citation. Reporter citations inside quotations are cut and marked [...]. The footnotes are gathered at the end of the file (lines 1889–2031) with numbering restarting for each opinion and no opinion named, so a footnote's author has to be inferred and checked against print; only one footnote is used below (casey.24, marked).
+- **Citation form:** opinion and part, plus this file's line numbers. The text has **no U.S. Reports page breaks**: the internal cross-references read "ante, at ____". The standalone numbers between paragraphs (e.g. 55 before line 261) are the LII's paragraph numbers, not pages. A few S.Ct. pages survive inside the dissents' own citations (e.g. "ante, at 2815-2816", line 1827; "pages 2803-2814", line 1755), but U.S. Reports pages must be added from a print or official copy before any final citation. Reporter citations inside quotations are cut and marked [...]. The footnotes are gathered at the end of the file (lines 1889–2031) with numbering restarting for each opinion and no opinion named, so a footnote's author has to be inferred and checked against print; only one footnote is used below (casey.23, marked).
 - **Claims to test:** C5.14 (step 2), C1.2, C1.3, C4.30, C9.1, C9.6, C6.13, and the §4 pattern ("the later Self kept the structure and dropped the limit").
 - **Neutrality:** this is a test of claims about the *concept of the self*, not a judgement on abortion or on the outcome of the case. Passages are chosen and tagged only for what they say about the self, liberty, meaning, identity, and what bounds the self.
 
@@ -10,21 +10,21 @@
 
 ## Summary of the reading (2026-10-25)
 
-**C5.14 step 2 (does the self become its own origin, answerable to nothing?).** The famous sentence is there: "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (casey.04). Read alone it is the strongest legal statement of step 2 we have. Read in context it is narrower in three ways. (a) Its object is a *concept* of meaning, and its point is negative: such beliefs "could not define the attributes of personhood were they formed under compulsion of the State" (.04). It names who may not compel, not where meaning comes from. (b) The next paragraph bounds it at once: the decision "may originate within the zone of conscience and belief" but "is more than a philosophic exercise", an act "fraught with consequences for others" (.05). The woman's destiny is shaped "to a large extent" on "her own conception of her spiritual imperatives and her place in society" (.06): imperatives and a place are assumed, and only their *conception* is hers. (c) The opinion then fences the right: it "is not so unlimited" (.11), it is "not a right to be insulated from all others" (.12), the State may try to persuade with "philosophic and social arguments of great weight" (.12), and informed consent serves "the wise exercise of that right" (.13). Verdict: **complicates**, leaning against the strong form. In law the self is made the final *judge* of the frame it answers to, and the State may not pick that frame for it. The opinion never says the self answers to nothing: it leaves the question to the person. Stevens says outright that the frame may be religious ("perhaps to the salvation of her own immortal soul", .19). The closest thing to self-origination is in the reliance passage, where people "made choices that define their views of themselves and their places in society" (.08). Even there, self-definition rests *on a legal order*, not on nothing.
+**C5.14 step 2 (does the self become its own origin, answerable to nothing?).** The famous sentence is there: "At the heart of liberty is the right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (casey.04). Read alone it is the strongest legal statement of step 2 we have. Read in context it is narrower in three ways. (a) Its object is a *concept* of meaning, and its point is negative: such beliefs "could not define the attributes of personhood were they formed under compulsion of the State" (.04). It names who may not compel, not where meaning comes from. (b) The next paragraph bounds it at once: the decision "may originate within the zone of conscience and belief" but "is more than a philosophic exercise", an act "fraught with consequences for others" (.05). The woman's destiny is shaped "to a large extent" on "her own conception of her spiritual imperatives and her place in society" (.06): imperatives and a place are assumed, and only their *conception* is hers. (c) The opinion then fences the right: it "is not so unlimited" (.11), it is "not a right to be insulated from all others" (.12), the State may try to persuade with "philosophic and social arguments of great weight" (.12), and informed consent serves "the wise exercise of that right" (.13). Verdict: **complicates**, leaning against the strong form. In law the self is made the final *judge* of the frame it answers to, and the State may not pick that frame for it. The opinion never says the self answers to nothing: it leaves the question to the person. Stevens says outright that the frame may be religious ("perhaps to the salvation of her own immortal soul", .18). The closest thing to self-origination is in the reliance passage, where people "made choices that define their views of themselves and their places in society" (.08). Even there, self-definition rests *on a legal order*, not on nothing.
 
-**What bounds the self in the joint opinion.** (1) The State's interests: "legitimate interests from the outset of the pregnancy", viability as the point where the State's interest "overrides the rights of the woman" (.11). (2) Others: consequences "for the spouse, family, and society" (.05); parents, and their family's "values and moral or religious principles", for a minor (.16). (3) The Court's method: "reasoned judgment" checked by Harlan's "balance" between liberty and "the demands of organized society", and by a tradition that "is a living thing" (.02). (4) The covenant of generations (.17). What is *not* a bound: the husband (.15), and any "vision of the woman's role, however dominant that vision has been in the course of our history and our culture" (.06). Tradition bounds the Court's *reasoning* but is expressly overruled as a bound on the woman's *choice* where it carries the older view of marriage (.15).
+**What bounds the self in the joint opinion.** (1) The State's interests: "legitimate interests from the outset of the pregnancy", viability as the point where the State's interest "overrides the rights of the woman" (.11). (2) Others: consequences "for the spouse, family, and society" (.05); parents, and their family's "values and moral or religious principles", for a minor (.15). (3) The Court's method: "reasoned judgment" checked by Harlan's "balance" between liberty and "the demands of organized society", and by a tradition that "is a living thing" (.02). (4) The covenant of generations (.16). What is *not* a bound: the husband (.14), and any "vision of the woman's role, however dominant that vision has been in the course of our history and our culture" (.06). Tradition bounds the Court's *reasoning* but is expressly overruled as a bound on the woman's *choice* where it carries the older view of marriage (.14).
 
-**C1.2 (the Self written into law as a value admitting no rival frame).** **Against** as written for the joint opinion's own claims, **complicates** in effect. The opinion says it is balancing, admits that "Men and women of good conscience can disagree", and disclaims any wish "to mandate our own moral code" (.03). It leaves the State free to speak for the rival frame and to "express a preference for normal childbirth" (.12). Rival frames are kept, but as *private* "intimate views with infinite variations" (.07), and Stevens adds that the State's own interest "must be secular" (.18). So the shared frame does not vanish; it is moved from law to the person. The dissents charge the stronger version, with liberties "undefined and unbounded" (.25), but that is a charge, not the opinion's words.
+**C1.2 (the Self written into law as a value admitting no rival frame).** **Against** as written for the joint opinion's own claims, **complicates** in effect. The opinion says it is balancing, admits that "Men and women of good conscience can disagree", and disclaims any wish "to mandate our own moral code" (.03). It leaves the State free to speak for the rival frame and to "express a preference for normal childbirth" (.12). Rival frames are kept, but as *private* "intimate views with infinite variations" (.07), and Stevens adds that the State's own interest "must be secular" (.17). So the shared frame does not vanish; it is moved from law to the person. The dissents charge the stronger version, with liberties "undefined and unbounded" (.24), but that is a charge, not the opinion's words.
 
-**The pattern (structure kept, limit dropped) and C4.30.** The structure is plainly Locke's. A realm the magistrate "may not enter" (.01), beliefs that cannot be formed "under compulsion of the State" (.04), the flag-salute case (*Barnette*) used as the model (.03), and a decision that originates in "the zone of conscience and belief" (.05). Locke's conscience belongs "intirely to the conscience of every particular man", who is "accountable to God only" (locke-toleration.09). The joint opinion grounds the same protection not in God but in "personal dignity and autonomy" and "the attributes of personhood" (.04). That is the limit dropped *as a ground*. But it is not denied as a *content*: God, creation and the soul stay as things the person may believe (.07, .19). Better wording for the pattern here: *the limit is privatized, not dropped*. The law no longer names whom the self answers to, and protects the self's naming of it. Blackmun's 1891 quotation (the "right of every individual to the possession and control of his own person", .20) shows the bodily half of the structure was in the case law long before.
+**The pattern (structure kept, limit dropped) and C4.30.** The structure is plainly Locke's. A realm the magistrate "may not enter" (.01), beliefs that cannot be formed "under compulsion of the State" (.04), the flag-salute case (*Barnette*) used as the model (.03), and a decision that originates in "the zone of conscience and belief" (.05). Locke's conscience belongs "intirely to the conscience of every particular man", who is "accountable to God only" (locke-toleration.09). The joint opinion grounds the same protection not in God but in "personal dignity and autonomy" and "the attributes of personhood" (.04). That is the limit dropped *as a ground*. But it is not denied as a *content*: God, creation and the soul stay as things the person may believe (.07, .18). Better wording for the pattern here: *the limit is privatized, not dropped*. The law no longer names whom the self answers to, and protects the self's naming of it. Blackmun's 1891 quotation (the "right of every individual to the possession and control of his own person", .19) shows the bodily half of the structure was in the case law long before.
 
-**C9.1 (do both sides share a form: one final source, no rival frame?).** **Complicates.** The joint opinion's Part III comes close to one final source: the Court calls "the contending sides of a national controversy" to accept "a common mandate rooted in the Constitution". It also ties the Nation's "belief in themselves" to its understanding of the Court that speaks "before all others" for its ideals (.09, .10). Scalia names this a "Nietzschean vision" with a "Volk" (.26). But the dissents do *not* share the form. Their source is text and tradition, and above all plurality: questions settled "by citizens trying to persuade one another and then voting" (.23); their "wisdom as a matter of public policy is for the people of Pennsylvania to decide" (.22). That gives many sources and admits regional difference. The shared element is narrower: each side claims its own method is not a value choice.
+**C9.1 (do both sides share a form: one final source, no rival frame?).** **Complicates.** The joint opinion's Part III comes close to one final source: the Court calls "the contending sides of a national controversy" to accept "a common mandate rooted in the Constitution". It also ties the Nation's "belief in themselves" to its understanding of the Court that speaks "before all others" for its ideals (.09, .10). Scalia names this a "Nietzschean vision" with a "Volk" (.25). But the dissents do *not* share the form. Their source is text and tradition, and above all plurality: questions settled "by citizens trying to persuade one another and then voting" (.22); their "wisdom as a matter of public policy is for the people of Pennsylvania to decide" (.21). That gives many sources and admits regional difference. The shared element is narrower: each side claims its own method is not a value choice.
 
-**C9.6 (values presented as findings/law).** **For**, as the dissents' charge. Rehnquist: the spousal/parental line is "quintessentially a legislative" judgment, and the Court will "impart its own preferences" (.22). Scalia: the opinion's adjectives "decorate a value judgment and conceal a political choice" (.24); "reasoned judgment" is "nothing but philosophical predilection and moral intuition" (.25). But Scalia's own counter-claim fits C9.6 too: "Texts and traditions are facts to study, not convictions to demonstrate about" (.25). Each side calls its own ground fact or principle and the other's ground preference. Also complicating: the joint opinion openly names the values it serves ("The Constitution serves human values", .08) and admits its line-drawing "may seem somewhat arbitrary" (line 435). The values are not hidden.
+**C9.6 (values presented as findings/law).** **For**, as the dissents' charge. Rehnquist: the spousal/parental line is "quintessentially a legislative" judgment, and the Court will "impart its own preferences" (.21). Scalia: the opinion's adjectives "decorate a value judgment and conceal a political choice" (.23); "reasoned judgment" is "nothing but philosophical predilection and moral intuition" (.24). But Scalia's own counter-claim fits C9.6 too: "Texts and traditions are facts to study, not convictions to demonstrate about" (.24). Each side calls its own ground fact or principle and the other's ground preference. Also complicating: the joint opinion openly names the values it serves ("The Constitution serves human values", .08) and admits its line-drawing "may seem somewhat arbitrary" (line 435). The values are not hidden.
 
-**C1.3 (the totalized Self suppresses the truths it was meant to reveal).** Only an indirect test. Scalia argues that the "potentiality of human life" frame decides the disputed question by assumption, and that it "is in fact a value judgment" (.24). That bears on whether framing a question as private liberty hides a question of fact or value. It is a dissent's argument, so it **complicates** at most.
+**C1.3 (the totalized Self suppresses the truths it was meant to reveal).** Only an indirect test. Scalia argues that the "potentiality of human life" frame decides the disputed question by assumption, and that it "is in fact a value judgment" (.23). That bears on whether framing a question as private liberty hides a question of fact or value. It is a dissent's argument, so it **complicates** at most.
 
-**C6.13 (redirected checks).** Out of period, but one line runs on: the husband's role as a check ("head and representative in the social state", quoted from *Bradwell*) is set aside as "no longer consistent with our understanding of the family, the individual, or the Constitution". Meanwhile the family keeps its role for minors (.15, .16). The check is removed between adults and kept for children.
+**C6.13 (redirected checks).** Out of period, but one line runs on: the husband's role as a check ("head and representative in the social state", quoted from *Bradwell*) is set aside as "no longer consistent with our understanding of the family, the individual, or the Constitution". Meanwhile the family keeps its role for minors (.14, .15). The check is removed between adults and kept for children.
 
 ## Passages
 
@@ -56,7 +56,7 @@ The bound on liberty, in the Court's own adopted words: a "balance" with "the de
 
 > Men and women of good conscience can disagree, and we suppose some always shall disagree, about the profound moral and spiritual implications of terminating a pregnancy, even in its earliest stage. Some of us as individuals find abortion offensive to our most basic principles of morality, but that cannot control our decision. Our obligation is to define the liberty of all, not to mandate our own moral code. The underlying constitutional issue is whether the State can resolve these philosophic questions in such a definitive way that a woman lacks all choice in the matter [...]. It is conventional constitutional doctrine that where reasonable people disagree the government can adopt one position or the other. [...] That theorem, however, assumes a state of affairs in which the choice does not intrude upon a protected liberty. Thus, while some people might disagree about whether or not the flag should be saluted, or disagree about the proposition that it may not be defiled, we have ruled that a State may not compel or enforce one view or the other.
 
-Rival moral frames are named and their reality granted ("profound moral and spiritual implications"). The Court claims not to choose among them but to keep the State from choosing "in such a definitive way". The model is the conscience case (flag salute), Locke's structure in modern dress. Whether "define the liberty of all" is itself a moral code is Scalia's question (casey.23–.25).
+Rival moral frames are named and their reality granted ("profound moral and spiritual implications"). The Court claims not to choose among them but to keep the State from choosing "in such a definitive way". The model is the conscience case (flag salute), Locke's structure in modern dress. Whether "define the liberty of all" is itself a moral code is Scalia's question (casey.22–.24).
 
 ### casey.04 · Joint opinion, Part II — "the right to define one's own concept of existence, of meaning, of the universe"
 
@@ -126,7 +126,7 @@ The nearest thing in the case to C9.1's "one final source". Rival frames are cal
 
 > Like the character of an individual, the legitimacy of the Court must be earned over time. So, indeed, must be the character of a Nation of people who aspire to live according to the rule of law. Their belief in themselves as such a people is not readily separable from their understanding of the Court invested with the authority to decide their constitutional cases and speak before all others for their constitutional ideals. If the Court's legitimacy should be undermined, then, so would the country be in its very ability to see itself through its constitutional ideals.
 
-A collective self-image ("belief in themselves") tied to one institution that speaks "before all others". The individual's character is the model, but it is *earned over time*, not self-given. This is the passage Scalia calls "Nietzschean" (casey.26).
+A collective self-image ("belief in themselves") tied to one institution that speaks "before all others". The individual's character is the model, but it is *earned over time*, not self-given. This is the passage Scalia calls "Nietzschean" (casey.25).
 
 ### casey.11 · Joint opinion, Part IV — "not so unlimited"; "ultimate control over her destiny and her body"; viability
 
@@ -156,29 +156,21 @@ The clearest "against" for step 2 and for C1.2's no-rival-frame. The State may s
 
 > In attempting to ensure that a woman apprehend the full consequences of her decision, the State furthers the legitimate purpose of reducing the risk that a woman may elect an abortion, only to discover later, with devastating psychological consequences, that her decision was not fully informed. [...] Rather, the right protected by Roe is a right to decide to terminate a pregnancy free of undue interference by the State. Because the informed consent requirement facilitates the wise exercise of that right it cannot be classified as an interference with the right Roe protects.
 
-The right has a standard of exercise ("wise") that the State may serve. A self that was its own origin could not be told that its choice might be unwise. Stevens dissents on this point, and his dissent is the most self-sovereign voice in the case (casey.19).
+The right has a standard of exercise ("wise") that the State may serve. A self that was its own origin could not be told that its choice might be unwise. Stevens dissents on this point, and his dissent is the most self-sovereign voice in the case (casey.18).
 
-### casey.14 · Joint opinion, Part V-C — *Bradwell*: "no legal existence separate from her husband"; "no longer consistent with our understanding of the family, the individual"
+### casey.14 · Joint opinion, Part V-C — *Bradwell*: "no legal existence separate from her husband"; "the kind of dominion over his wife that parents exercise over their children"
 
-- **Claims:** C6.13 (complicates), C1.2 (for, on tradition overruled), pattern (for)
-- **Location:** joint opinion, Part V-C; line 759
+- **Claims:** C6.13 (complicates), C1.2 (for, on tradition overruled), pattern (for), C5.14 (complicates)
+- **Location:** joint opinion, Part V-C; lines 759, 767, 771
 - **Checked:** text file
 
 > There was a time, not so long ago, when a different understanding of the family and of the Constitution prevailed. In Bradwell v. Illinois [...], three Members of this Court reaffirmed the common-law principle that "a woman had no legal existence separate from her husband, who was regarded as her head and representative in the social state; and, notwithstanding some recent modifications of this civil status, many of the special rules of law flowing from and dependent upon this cardinal principle still exist in full force in most States." [...] Only one generation has passed since this Court observed that "woman is still regarded as the center of home and family life," with attendant "special responsibilities" that precluded full and independent legal status under the Constitution. [...] These views, of course, are no longer consistent with our understanding of the family, the individual, or the Constitution.
 
-A bound that the law itself removes: the woman answerable through her husband. The phrase "our understanding of the family, the individual, or the Constitution" marks a change in the concept of the individual, dated by the Court to within a generation. For the pattern this is a limit dropped by name. But it is a limit on *standing*, not on meaning.
-
-### casey.15 · Joint opinion, Part V-C — "the kind of dominion over his wife that parents exercise over their children"
-
-- **Claims:** C6.13 (complicates), C5.14 (complicates)
-- **Location:** joint opinion, Part V-C; lines 767, 771
-- **Checked:** text file
-
 > The husband's interest in the life of the child his wife is carrying does not permit the State to empower him with this troubling degree of authority over his wife. The contrary view leads to consequences reminiscent of the common law. A husband has no enforceable right to require a wife to advise him before she exercises her personal choices. [...] A State may not give to a man the kind of dominion over his wife that parents exercise over their children. [...] Section 3209 embodies a view of marriage consonant with the common-law status of married women but repugnant to our present understanding of marriage and of the nature of the rights secured by the Constitution. Women do not lose their constitutionally protected liberty when they marry.
 
-Between adults, a family member is not a legal check on "personal choices". The record findings behind this part (lines 611–770) concern abuse and coercion. So the Court presents the removal of the check as protection *against* domination, not as the self's escape from others.
+A bound that the law itself removes: the woman answerable through her husband. The phrase "our understanding of the family, the individual, or the Constitution" marks a change in the concept of the individual, dated by the Court to within a generation. For the pattern this is a limit dropped by name. But it is a limit on *standing*, not on meaning. Between adults, a family member is not a legal check on "personal choices". The record findings behind this part (lines 611–770) concern abuse and coercion. So the Court presents the removal of the check as protection *against* domination, not as the self's escape from others.
 
-### casey.16 · Joint opinion, Part V-D — a minor's family and its "values and moral or religious principles"
+### casey.15 · Joint opinion, Part V-D — a minor's family and its "values and moral or religious principles"
 
 - **Claims:** C5.14 (complicates), C1.2 (against), C6.13 (complicates)
 - **Location:** joint opinion, Part V-D; line 785
@@ -186,9 +178,9 @@ Between adults, a family member is not a legal check on "personal choices". The 
 
 > Indeed, some of the provisions regarding informed consent have particular force with respect to minors: the waiting period, for example, may provide the parent or parents of a pregnant young woman the opportunity to consult with her in private, and to discuss the consequences of her decision in the context of the values and moral or religious principles of their family.
 
-For the minor, the family's "moral or religious principles" are a legitimate frame the law makes room for. The bounded self survives in law, assigned by age. Rehnquist (casey.22) calls the line between parent and husband a policy judgment.
+For the minor, the family's "moral or religious principles" are a legitimate frame the law makes room for. The bounded self survives in law, assigned by age. Rehnquist (casey.21) calls the line between parent and husband a policy judgment.
 
-### casey.17 · Joint opinion, Part VI — "Our Constitution is a covenant"
+### casey.16 · Joint opinion, Part VI — "Our Constitution is a covenant"
 
 - **Claims:** pattern (for: structure kept), C5.14 (complicates), C9.1 (complicates)
 - **Location:** joint opinion, Part VI; line 809
@@ -198,7 +190,7 @@ For the minor, the family's "moral or religious principles" are a legitimate fra
 
 The opinion ends on the oldest American check, the covenant (cf. Winthrop, C6.13), now running between generations under a written text and not before God. Liberty is not self-given here. It is a "promise" inherited and handed on. The word survives, and its content has become "the promise of liberty".
 
-### casey.18 · Stevens, Part II — "the State's interest must be secular"
+### casey.17 · Stevens, Part II — "the State's interest must be secular"
 
 - **Claims:** C1.2 (for), C4.30 (for)
 - **Location:** Stevens, J., concurring in part and dissenting in part, Part II; line 1119
@@ -208,17 +200,17 @@ The opinion ends on the oldest American check, the covenant (cf. Winthrop, C6.13
 
 This is the frame question stated as a rule. A theological frame may not ground the State's interest, so it can act in law only as the person's own belief. That is the strongest sign in the case of C1.2's "no rival frame" *in law*. It is one Justice's opinion, not the Court's.
 
-### casey.19 · Stevens, Part II — "perhaps to the salvation of her own immortal soul"; "a matter of conscience"
+### casey.18 · Stevens, Parts II–III — "perhaps to the salvation of her own immortal soul"; "a matter of conscience"
 
 - **Claims:** C4.30 (for), pattern (complicates: answerability privatized, not denied), C5.14 (complicates)
-- **Location:** Stevens, Part II; lines 1131, 1135, 1165
+- **Location:** Stevens, Parts II (lines 1131, 1135) and III (line 1165)
 - **Checked:** text file
 
 > The woman's constitutional liberty interest also involves her freedom to decide matters of the highest privacy and the most personal nature. [...] A woman considering abortion faces "a difficult choice having serious and personal consequences of major importance to her own future—perhaps to the salvation of her own immortal soul." [...] The authority to make such traumatic and yet empowering decisions is an element of basic human dignity. As the joint opinion so eloquently demonstrates, a woman's decision to terminate her pregnancy is nothing less than a matter of conscience. [...] Decisional autonomy must limit the State's power to inject into a woman's most personal deliberations its own views of what is best. [...] A woman who has, in the privacy of her thoughts and conscience, weighed the options and made her decision cannot be forced to reconsider all, simply because the State believes she has come to the wrong conclusion.
 
 The closest direct comparison with Locke's "accountable to God only" (locke-toleration.09). The soul and its salvation are still named, but with "perhaps": answerability is a possibility the person weighs, not a judge the law names. The structure is the same: conscience beyond the magistrate. The limit is not dropped but bracketed. Stevens goes further than the joint opinion: the State may not even press its view "of what is best" on a decided conscience.
 
-### casey.20 · Blackmun, Part II-A — "possession and control of his own person"; "bodily integrity, identity, and destiny"
+### casey.19 · Blackmun, Part II-A — "possession and control of his own person"; "bodily integrity, identity, and destiny"
 
 - **Claims:** pattern (complicates: the bodily root is old in law), C5.14 (for, on identity)
 - **Location:** Blackmun, J., concurring in part, concurring in the judgment in part, and dissenting in part, Part II-A; line 1235
@@ -228,7 +220,7 @@ The closest direct comparison with Locke's "accountable to God only" (locke-tole
 
 Two layers. The 1891 rule is the common law's self-ownership of the body (Locke's "property in his own person" in a court's mouth). The later formula adds "identity, and destiny". Identity is the new word in the line, but it is still only "largely" beyond government.
 
-### casey.21 · Rehnquist, Part I — "rooted in the traditions and conscience of our people"; "a woman is not isolated in her pregnancy"
+### casey.20 · Rehnquist, Part I — "rooted in the traditions and conscience of our people"; "a woman is not isolated in her pregnancy"
 
 - **Claims:** C5.14 (against), C1.2 (complicates)
 - **Location:** Rehnquist, C.J., concurring in the judgment in part and dissenting in part, Part I; lines 1459, 1467, 1471
@@ -238,7 +230,7 @@ Two layers. The 1891 rule is the common law's self-ownership of the body (Locke'
 
 The dissent's bound is a shared "conscience of our people", not the individual's, and liberty is "ordered". The phrase "not isolated" answers the joint opinion's conscience framing (casey.05) with the other party in the case. Rehnquist still calls the woman's interest "a form of liberty" (line 1585). The dispute is over its weight and its source, not its existence.
 
-### casey.22 · Rehnquist, Parts II and IV — "unconventional—and unconvincing" reliance; a "legislative" judgment; "for the people of Pennsylvania to decide"
+### casey.21 · Rehnquist, Parts II and IV — "unconventional—and unconvincing" reliance; a "legislative" judgment; "for the people of Pennsylvania to decide"
 
 - **Claims:** C9.6 (for, as a charge), C9.1 (against, for the dissent's own form), C5.14 (complicates)
 - **Location:** Rehnquist, Parts II and IV; lines 1513, 1577, 1679
@@ -248,7 +240,7 @@ The dissent's bound is a shared "conscience of our people", not the individual's
 
 Two findings. On the self, the dissent puts women's "places in society" down to their own "determination" and society's recognition, which is a self-as-cause story, not the law's (cf. C7.4). On form, it charges the Court with preferences dressed as law (C9.6) and sends the value question to many legislatures, which is not one final source.
 
-### casey.23 · Scalia — "citizens trying to persuade one another and then voting"; "not because of anything so exalted"; "eliminating checks upon its own power"
+### casey.22 · Scalia — "citizens trying to persuade one another and then voting"; "not because of anything so exalted"; "eliminating checks upon its own power"
 
 - **Claims:** C9.1 (against, for the dissent), C5.14 (complicates), C1.2 (complicates)
 - **Location:** Scalia, J., concurring in the judgment in part and dissenting in part, opening; lines 1687, 1691, 1695
@@ -258,7 +250,7 @@ Two findings. On the self, the dissent puts women's "places in society" down to 
 
 Scalia grants the liberty "in the absolute sense" (line 1691) and denies that the meaning-of-life sentence is a legal ground at all. He puts his own judgment on "two simple facts". His theme is the *limit dropped*, but on the Court, not the self: "eliminating checks upon its own power". That is C9.1's form charged against an institution.
 
-### casey.24 · Scalia — "it is in fact a value judgment"; adjectives that "decorate a value judgment and conceal a political choice"
+### casey.23 · Scalia — "it is in fact a value judgment"; adjectives that "decorate a value judgment and conceal a political choice"
 
 - **Claims:** C9.6 (for, as a charge), C1.3 (complicates)
 - **Location:** Scalia; lines 1711, 1719; footnote at line 1994 (Scalia's footnote 1, inferred from its content: it answers the joint opinion's *Loving* argument; check against print)
@@ -270,7 +262,7 @@ Scalia grants the liberty "in the absolute sense" (line 1691) and denies that th
 
 The C9.6 charge in plain words, aimed at the language of the self ("intimate", "personal", "dignity and autonomy"). For C1.3, Scalia argues that the private-liberty frame settles the disputed question by assumption. That is an argument, not a finding, so it only complicates. The footnote shows his bound: tradition, unless a text overrides it.
 
-### casey.25 · Scalia — "philosophical predilection and moral intuition"; "undefined and unbounded"; "Texts and traditions are facts to study"
+### casey.24 · Scalia — "philosophical predilection and moral intuition"; "undefined and unbounded"; "Texts and traditions are facts to study"
 
 - **Claims:** C9.6 (for, and complicates: each side claims fact for itself), C1.2 (for, as a charge)
 - **Location:** Scalia; lines 1863, 1867
@@ -280,7 +272,7 @@ The C9.6 charge in plain words, aimed at the language of the self ("intimate", "
 
 "Undefined and unbounded" is the dissent's paraphrase of the Court, not the Court's own words. The joint opinion says only that liberty's "boundaries are not susceptible of expression as a simple rule" (casey.02). Scalia's own ground, "facts to study, not convictions", is the C9.6 move made from the other side. Each side presents its method as fact and the other's as values.
 
-### casey.26 · Scalia — "this Nietzschean vision"; "a Volk who will be 'tested by following'"
+### casey.25 · Scalia — "this Nietzschean vision"; "a Volk who will be 'tested by following'"
 
 - **Claims:** C9.1 (for, as a charge), C5.14 (complicates)
 - **Location:** Scalia; lines 1831, 1855
@@ -293,8 +285,8 @@ A dissent names the form C9.1 describes, "one final source" with a people define
 ## To do
 
 - [ ] Add U.S. Reports page numbers (505 U.S.) for every passage before any final citation; the text file has none ("ante, at ____").
-- [ ] Check the one footnote used (casey.24, line 1994) against print to confirm it is Scalia's footnote 1.
+- [ ] Check the one footnote used (casey.23, line 1994) against print to confirm it is Scalia's footnote 1.
 - [ ] Read the Part V-C record findings (lines 611–770) in full if the essay uses the spousal-notice section.
 - [ ] Read the Blackmun and Stevens opinions in full (skimmed here); Blackmun Part II-B (gender equality, line 1247: the State "conscripts women's bodies into its service") bears on whether the self is framed as a person or as a status.
 - [ ] Follow the line forward: the "concept of existence" sentence is quoted and contested in later cases (e.g. *Lawrence v. Texas*, 2003; *Dobbs*, 2022). Test whether later uses read it as self-origination (step 2) or, as here, as a bar on State compulsion. Texts needed in `sources/texts/`.
-- [ ] Compare casey.04 and casey.19 directly with locke-toleration.02, .06, .09 in the essay's §4c/§5 discussion.
+- [ ] Compare casey.04 and casey.18 directly with locke-toleration.02, .06, .09 in the essay's §4c/§5 discussion.
