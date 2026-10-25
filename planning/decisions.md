@@ -120,3 +120,4 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-24 | Fundamentalism | A: a carrier in shape only (C9.2–C9.4 rewritten); C9.5 rewritten on the iron cage | Answers SPEC §10.3 with the evidence |
 | 2026-10-24 | §8 after Simmel | A: §8 claims the two things Simmel lacks: a genuine first expression, and conformity felt as the self itself (C8.1, C8.2 rewritten) | Narrow, real, testable |
 | 2026-10-24 | C4.29 | noted | "substitute of the Deity" cited as pre-1790; Smith cut it in 1790 (smith-1790) |
+| 2026-10-25 | Next | A then B: PR #2 merged; then §9 technocrats and corporatism (Taylor, Veblen, Lippmann, Croly, Wilson, Brandeis, Maitland) | Puts three rounds on main; §9 is the largest untested public-domain gap |

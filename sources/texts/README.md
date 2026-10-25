@@ -79,6 +79,13 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `simmel-fashion-intl-quarterly-1904.txt` | Georg Simmel, "Fashion," *International Quarterly* vol. 10 (1904), pp. 130ff.; the whole volume, essay from about line 6216 | English as published | [archive.org](https://archive.org/details/internationalqua10newy) | OCR |
 | `frank-rediscovery-of-america-1929.txt` | Waldo Frank, *The Re-discovery of America* (1929) | original English | [archive.org](https://archive.org/details/bwb_W7-BOW-973) | OCR |
 | `smith-moral-sentiments-1790-vol1.txt`, `-vol2.txt` | Adam Smith, *The Theory of Moral Sentiments*, 6th edition (1790), with Smith's final additions (I.iii.3, Part VI, revised Part III) | original English; long s (ſ) | [archive.org](https://archive.org/details/bim_eighteenth-century_the-theory-of-moral-sent_smith-adam_1790_1) | OCR |
+| `taylor-scientific-management.txt` | Frederick Winslow Taylor, *The Principles of Scientific Management* (1911) | original English | [Gutenberg #6435](https://www.gutenberg.org/ebooks/6435) | clean |
+| `veblen-engineers-price-system.txt` | Thorstein Veblen, *The Engineers and the Price System* (1921) | original English | [archive.org](https://archive.org/details/cu31924013939149) | OCR |
+| `lippmann-drift-and-mastery.txt` | Walter Lippmann, *Drift and Mastery* (1914) | original English | [Gutenberg #79553](https://www.gutenberg.org/ebooks/79553) | clean |
+| `croly-promise-american-life.txt` | Herbert Croly, *The Promise of American Life* (1909) | original English | [Gutenberg #14422](https://www.gutenberg.org/ebooks/14422) | clean |
+| `wilson-new-freedom.txt` | Woodrow Wilson, *The New Freedom* (1913) | original English | [Gutenberg #14811](https://www.gutenberg.org/ebooks/14811) | clean |
+| `brandeis-other-peoples-money.txt` | Louis D. Brandeis, *Other People's Money, and How the Bankers Use It* (1914) | original English | [Gutenberg #57819](https://www.gutenberg.org/ebooks/57819) | clean |
+| `maitland-collected-papers-vol3.txt` | F. W. Maitland, *Collected Papers* vol. III (1911), incl. "The Corporation Sole," "The Crown as Corporation," "Moral Personality and Legal Personality" | original English | [archive.org](https://archive.org/details/collectedpapers03maituoft) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
 

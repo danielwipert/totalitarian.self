@@ -253,6 +253,8 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 - **C9.2–C9.4:** read *The Fundamentals* themselves (1910–15): is the movement's founding text a *surrender* of the self to authority, an assertion of the individual believer's own reading (a Self in religious form), or neither?
 - **C9.2:** Fundamentalism as a movement dates to the 1910s, so "from the Reagan era onward" must refer to intensification only.
+- **C9.6:** test the technocrats against their own founding texts (Taylor, Veblen's engineers, Lippmann's "mastery"): do they claim objectivity, deny their own values, and organise by in-group? Or do they state their values openly?
+- **C9.8:** "the organization as a singular Self" (SPEC §9.3) can be tested against the legal theory of corporate personality (Maitland) and the Progressive critique of the corporation (Wilson, Brandeis). Open question 4: is the corporation a Self, or a structure that requires Totalitarian Selves to staff it?
 - **C9.5:** The Weber line comes via Solomon. Find it in Weber's own text before relying on it.
 
 ---
