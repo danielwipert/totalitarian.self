@@ -1,10 +1,10 @@
 # Where the argument stands
 
-*Updated 2026-10-24, after the §6, erosion and public-domain rounds. Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
+*Updated 2026-10-25, after the §9 round (technocrats and the corporation). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
 
-**Evidence so far:** 948 tagged passages in 57 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,042 tagged passages in 60 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
 
-**Claims:** 88 in all. 12 supported, 50 revised after testing, 1 challenged, 25 not yet tested.
+**Claims:** 88 in all. 12 supported, 52 revised after testing, 2 challenged, 22 not yet tested.
 
 ---
 
@@ -62,6 +62,13 @@ Weber calls the claim that religion produced capitalism a "foolish and doctrinai
 
 *The Fundamentals* (1910–15) argue from evidence, defend private judgement against Rome, and attack the mind-cure self ("no man has moral resources to transform himself"). What they share with the Totalitarian Self is a form: one final source, no rival frame.
 
+### 11. Technocrats and the corporation (§9)
+
+- **Technocrats (C9.6).** The founders (Taylor, Veblen's engineers, Lippmann 1914, Croly) claim the authority of science and form an open in-group, but they state their values. Their fault is presenting value choices as findings of science. Denying values, and nihilism, belong if anywhere to a later technocracy; Lippmann's 1929 turn to disinterestedness is a candidate start.
+- **The corporation (C9.8).** Not a Self. Its legal person is plural and answerable (Maitland). It enlarges a few selves past their limits and submerges the rest: "Your individuality is swallowed up in the individuality and purpose of a great organization" (Wilson); the few break on "the fundamental laws of human limitations" (Brandeis). The pattern again, located in the men.
+- **The pioneer vocabulary (C6.7).** Contested from about 1890 to 1922: the reformers claimed the men "on the make" against the trusts, and Hoover's 1922 pioneer still backed regulation. By 1930 it is "a war cry" against regulation (Dewey).
+- **One family of carriers? (C9.1).** Still challenged: the carriers are not one group, and the business class Lewis describes suppresses the self rather than inflating it.
+
 ### §8, narrowed again
 
 Simmel (1904) already has the cycle and conformity felt as individuality, but for him fashion stays "at the periphery of personality," a mask over an inner self. §8's claim is what Simmel lacks: a genuine first expression, and conformity felt *as the self itself*. Through 1930, consumers still speak of rank, "decency," "service" and "duty"; "self-expression" belongs to the rebel (Veblen's "New-Woman," 1899) or the producer (Hoover, 1922). The cure becomes the disguise after 1930.
@@ -77,6 +84,7 @@ Simmel (1904) already has the cycle and conformity felt as individuality, but fo
 | The Enlightenment separated the Self from religion and community | It separated the person from *institutions*; the Self stayed answerable and social (C4.30, C4.31) |
 | The mutation is the Self becoming its own source | Philosophy never got there; the culture did, in two steps (C5.9, C5.14) |
 | Blame is personal because other frames were lost | Blame is personal because the self was made the cause (C7.4) |
+| The corporation is the Self at institutional scale | A structure that enlarges a few selves past their limits and submerges the rest (C9.8) |
 | §8's mechanism is the essay's discovery | The mechanism is centuries old; the new disguise word is the Self itself (C8.2, C8.7) |
 | Locke's forensic Self is the root of modern guilt | Locke *limits* guilt; the genealogy rests on Nietzsche, who never mentions Locke (C7.1, C4.12) |
 
@@ -85,14 +93,14 @@ Simmel (1904) already has the cycle and conformity felt as individuality, but fo
 ## Claims by status
 
 - **Supported (12):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C5.7, C6.10, C6.11, C7.1, C8.7
-- **Revised after testing (50):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C5.14, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C7.4, C8.1, C8.2, C8.4, C8.5, C8.6, C9.2, C9.3, C9.4, C9.5
-- **Challenged, not yet reworded (1):** C6.9
-- **Untested (25):** C1.2, C1.3, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.3, C9.1, C9.6, C9.7, C9.8, C10.1, C10.2
+- **Revised after testing (52):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C5.14, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C7.4, C8.1, C8.2, C8.4, C8.5, C8.6, C9.2, C9.3, C9.4, C9.5, C9.6, C9.8
+- **Challenged, not yet reworded (2):** C6.9, C9.1
+- **Untested (22):** C1.2, C1.3, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.3, C9.7, C10.1, C10.2
 
 ## The biggest gaps
 
 1. **After 1930.** The consumer's "self-expression" (C8.6) and the self as its own origin (C5.14 step 2): copyrighted, see `sources/excerpts-needed.md`.
-2. **§9 technocrats and corporatism (C9.6–C9.8).** Untested.
+2. **§9 after 1930.** The later technocracy (C9.6) and whether the corporation ever becomes a Self (C9.8): Burnham, Whyte, Galbraith (excerpts needed). C9.1 needs a gate once the carriers are in.
 3. **§5 Burke (C5.1, C5.4).** The diagnostic tool itself is untested. Burke is under copyright: excerpts needed.
 
 ## Housekeeping still open
