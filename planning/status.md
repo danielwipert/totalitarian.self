@@ -1,10 +1,10 @@
 # Where the argument stands
 
-*Updated 2026-10-23, after the Renaissance and Enlightenment round. Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`.*
+*Updated 2026-10-24, after the §6, erosion and public-domain rounds. Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
 
-**Evidence so far:** 629 tagged passages in 41 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
+**Evidence so far:** 948 tagged passages in 57 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
 
-**Claims:** 84 in all. 9 supported, 36 revised after testing, 3 challenged, 36 not yet tested.
+**Claims:** 88 in all. 12 supported, 50 revised after testing, 1 challenged, 25 not yet tested.
 
 ---
 
@@ -50,6 +50,22 @@ Personal blame arrives *before* any frame is lost: Smiles (1859) blames misery "
 
 The mechanism is old: "grace" (Castiglione, 1528, "a deliberate purpose to like that which perhaps he by nature dislikes"), the wish to rise (Mandeville, 1714), "reason and nature" (Adam Smith, 1759), station (Mill, 1859), the "natural" (Wilde, 1891), "his own idea" (Bernays, 1928). What is new is that the disguise word is now the Self itself, **"self-expression,"** and the motive has shifted from rising to **belonging**. Once the Self is the only vocabulary left (§5), conformity can only speak as the Self.
 
+### 8. America was the host by erosion (§6)
+
+America lacked Europe's inherited checks but replaced them with voluntary ones: Winthrop's covenant ("the care of the publique must oversway all private respects"), the township, associations, religion. Tocqueville judges democracy's individualism "subdued" there. Because these checks bound by consent, they could wear away, and between the 1890s and 1930 they were *redirected*, split by class (*Middletown*, *Babbitt*, Dewey): the working class lost them to isolation, the business class multiplied them into clubs that enforced conformity. By 1929 the Self itself, not only institutions, has separated from religion: the modern man "is unable any longer to think of himself as a single personality approaching an everlasting judgment" (Lippmann).
+
+### 9. The economic origin is background, not cause (§4)
+
+Weber calls the claim that religion produced capitalism a "foolish and doctrinaire thesis," and in Massachusetts the spirit came before the capitalist order. Commerce made the change possible and profitable; the self-directed calling came from later Puritans (after 1640) meeting it. Weber's "iron cage" is the pattern again: a "light cloak" that became a cage once its religious root died.
+
+### 10. Fundamentalism carries the Self's shape, not its content (§9)
+
+*The Fundamentals* (1910–15) argue from evidence, defend private judgement against Rome, and attack the mind-cure self ("no man has moral resources to transform himself"). What they share with the Totalitarian Self is a form: one final source, no rival frame.
+
+### §8, narrowed again
+
+Simmel (1904) already has the cycle and conformity felt as individuality, but for him fashion stays "at the periphery of personality," a mask over an inner self. §8's claim is what Simmel lacks: a genuine first expression, and conformity felt *as the self itself*. Through 1930, consumers still speak of rank, "decency," "service" and "duty"; "self-expression" belongs to the rebel (Veblen's "New-Woman," 1899) or the producer (Hoover, 1922). The cure becomes the disguise after 1930.
+
 ---
 
 ## What changed in the thesis
@@ -68,18 +84,16 @@ The mechanism is old: "grace" (Castiglione, 1528, "a deliberate purpose to like 
 
 ## Claims by status
 
-- **Supported (9):** C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C5.7, C7.1, C8.7
-- **Revised after testing (36):** C1.1, C4.1–C4.5, C4.7, C4.8, C4.11–C4.21, C4.23, C4.24, C4.26–C4.28, C4.30, C4.31, C5.8–C5.14, C7.4, C8.2, C8.5
-- **Challenged, not yet reworded (3):** C6.9, C8.1, C8.4
-- **Untested (36):** C1.2, C1.3, C5.1–C5.6, C6.1–C6.8, C7.2, C7.3, C7.5–C7.10, C8.3, C8.6, C9.1–C9.8, C10.1, C10.2
+- **Supported (12):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C5.7, C6.10, C6.11, C7.1, C8.7
+- **Revised after testing (50):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C5.14, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C7.4, C8.1, C8.2, C8.4, C8.5, C8.6, C9.2, C9.3, C9.4, C9.5
+- **Challenged, not yet reworded (1):** C6.9
+- **Untested (25):** C1.2, C1.3, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.3, C9.1, C9.6, C9.7, C9.8, C10.1, C10.2
 
 ## The biggest gaps
 
-1. **§6 Host (America).** Almost untested. Tocqueville, Turner and Winthrop are public domain.
-2. **§9 Carriers.** Entirely untested (fundamentalism, technocrats, corporatism).
+1. **After 1930.** The consumer's "self-expression" (C8.6) and the self as its own origin (C5.14 step 2): copyrighted, see `sources/excerpts-needed.md`.
+2. **§9 technocrats and corporatism (C9.6–C9.8).** Untested.
 3. **§5 Burke (C5.1, C5.4).** The diagnostic tool itself is untested. Burke is under copyright: excerpts needed.
-4. **The 20th century (C5.14 step 2, C8.6).** Mostly copyrighted: excerpts needed from Rieff, Riesman, Lasch, Marchand, Frank.
-5. **The economic origin (C4.2, C4.5).** Weber and Tawney.
 
 ## Housekeeping still open
 

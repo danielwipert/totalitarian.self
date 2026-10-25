@@ -61,7 +61,27 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `mandeville-fable-of-the-bees.txt` | Mandeville, *The Fable of the Bees* (1714–29) | original English | [Gutenberg #57260](https://www.gutenberg.org/ebooks/57260) | clean |
 | `rousseau-social-contract.txt` | Rousseau, *The Social Contract* (1762) and *Discourses* | G. D. H. Cole (1913) | [Gutenberg #46333](https://www.gutenberg.org/ebooks/46333) | clean |
 | `franklin-autobiography.txt` | Franklin, *Autobiography* (written 1771–90) | original English | [Gutenberg #20203](https://www.gutenberg.org/ebooks/20203) | clean |
+| `tocqueville-democracy-vol1.txt` | Tocqueville, *Democracy in America* vol. 1 (1835) | Henry Reeve | [Gutenberg #815](https://www.gutenberg.org/ebooks/815) | clean |
+| `tocqueville-democracy-vol2.txt` | Tocqueville, *Democracy in America* vol. 2 (1840), incl. the chapters on individualism | Henry Reeve | [Gutenberg #816](https://www.gutenberg.org/ebooks/816) | clean |
+| `turner-frontier.txt` | Turner, *The Frontier in American History* (1920), incl. "The Significance of the Frontier in American History" (1893) | original English | [Gutenberg #22994](https://www.gutenberg.org/ebooks/22994) | clean |
+| `crevecoeur-letters.txt` | Crèvecoeur, *Letters from an American Farmer* (1782), incl. Letter III, "What Is an American?" | original English | [Gutenberg #4666](https://www.gutenberg.org/ebooks/4666) | clean |
+| `thoreau-walden.txt` | Thoreau, *Walden* (1854) and "Civil Disobedience" (1849) | original English | [Gutenberg #205](https://www.gutenberg.org/ebooks/205) | clean |
+| `winthrop-model-christian-charity-mhs1838.txt` | Winthrop, "A Modell of Christian Charity" (1630), first printed in *Collections of the Massachusetts Historical Society*, 3rd series, vol. 7 (1838); the whole volume, sermon from about line 2534 | original 17th-c. spelling | [archive.org](https://archive.org/details/MeaseMHS1838) | OCR |
+| `veblen-leisure-class.txt` | Veblen, *The Theory of the Leisure Class* (1899) | original English | [Gutenberg #833](https://www.gutenberg.org/ebooks/833) | clean |
+| `hoover-american-individualism.txt` | Herbert Hoover, *American Individualism* (1922) | original English | [archive.org](https://archive.org/details/americanindividu00hoovrich) | OCR |
+| `lewis-babbitt.txt` | Sinclair Lewis, *Babbitt* (1922), a novel | original English | [Gutenberg #1156](https://www.gutenberg.org/ebooks/1156) | clean |
+| `lynd-middletown.txt` | Robert S. and Helen M. Lynd, *Middletown: A Study in Contemporary American Culture* (1929), foreword by Clark Wissler | original English (1929 text) | [archive.org](https://archive.org/details/middletownstudyi00lyndrich) | OCR |
+| `lippmann-preface-to-morals.txt` | Walter Lippmann, *A Preface to Morals* (1929) | original English | [Gutenberg #77019](https://www.gutenberg.org/ebooks/77019) | clean |
+| `dewey-individualism-old-and-new.txt` | John Dewey, *Individualism Old and New* (1930) | original English | [archive.org](https://archive.org/details/individu00dewe) | OCR |
+| `weber-protestant-ethic-1930.txt` | Max Weber, *The Protestant Ethic and the Spirit of Capitalism* (1904–05; rev. 1920) | Talcott Parsons (1930) | [archive.org](https://archive.org/details/protestantethics00webe) | OCR |
+| `tawney-religion-rise-capitalism.txt` | R. H. Tawney, *Religion and the Rise of Capitalism* (1926) | original English | [Gutenberg #71223](https://www.gutenberg.org/ebooks/71223) | clean |
+| `fundamentals-vol1.txt` … `-vol4.txt` | *The Fundamentals: A Testimony to the Truth* (essays 1910–15), four-volume edition (1917) | original English | [archive.org](https://archive.org/details/fundamentalstest0001unse) and companion volumes | OCR |
+| `simmel-fashion-intl-quarterly-1904.txt` | Georg Simmel, "Fashion," *International Quarterly* vol. 10 (1904), pp. 130ff.; the whole volume, essay from about line 6216 | English as published | [archive.org](https://archive.org/details/internationalqua10newy) | OCR |
+| `frank-rediscovery-of-america-1929.txt` | Waldo Frank, *The Re-discovery of America* (1929) | original English | [archive.org](https://archive.org/details/bwb_W7-BOW-973) | OCR |
+| `smith-moral-sentiments-1790-vol1.txt`, `-vol2.txt` | Adam Smith, *The Theory of Moral Sentiments*, 6th edition (1790), with Smith's final additions (I.iii.3, Part VI, revised Part III) | original English; long s (ſ) | [archive.org](https://archive.org/details/bim_eighteenth-century_the-theory-of-moral-sent_smith-adam_1790_1) | OCR |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
+
+**Public domain by date:** US works published in 1930 or earlier are in the public domain as of 2026 (Dewey 1930, the Lynds 1929, Lippmann 1929).
 
 **Not available in a public-domain English translation:** Pico, *Oration on the Dignity of Man* (English translations date from 1948 on). Its key passage is quoted in English in Burckhardt, Part IV (`burckhardt-renaissance.txt`, lines 10063–10080). The full *Oration* needs excerpts from a copy in hand. Erasmus's *On Free Will* (1524) was not found either.
