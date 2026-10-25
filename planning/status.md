@@ -8,6 +8,34 @@
 
 ---
 
+## The thesis in one page
+
+*Added 2026-10-25.*
+
+**In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
+
+**The three original claims**
+
+1. **A realization, not an invention: holds, reshaped.** Not difference but two roots, answerability and self-shaping, both bounded (by God, community, the body, fortune). Difference arrives late (Rousseau to Emerson) and stays framed. Warning sign: for Luther the bondage starts in nature, not in social orders, so "older orders repressed a true Self" does not fit every root.
+2. **The Self mutated: the pattern holds; the mutation itself is unproven.** The strongest finding: *the later Self kept the structure and dropped the limit*, in every section, and in Weber's own words (the "light cloak" became "an iron cage"). But philosophy never made the Self its own origin (Nietzsche calls the wish an error of "the half-educated"). The culture did it in two steps: the self as *cause* (mind-cure, about 1890; tested) and the self as its own *origin*, answerable to nothing (untested). Step 2 is the Totalitarian Self proper.
+3. **America the host: holds, sharpened.** A host *by erosion*: voluntary checks (covenant, township, church, associations) that could wear away, and between 1890 and 1930 were redirected, split by class.
+
+**The later sections**
+
+- **Blame (§7): reshaped.** It comes from making the self the cause, before any frame is lost (Smiles, Carnegie, Rockefeller, with God still in place). Isolation and burnout are untested.
+- **Mechanism (§8): narrowed.** Dressing conformity in the age's highest value word is centuries old. What may be new is that the dress becomes the Self itself ("self-expression"), and that is after 1930.
+- **Carriers (§9): reshaped.** Technocrats state their values; the corporation is not a Self; apparent opposites share the Self's form, not its content.
+
+**What may be most original now**
+
+1. *Structure kept, limit dropped*, traced from 1500 to 1930.
+2. The self becomes a cause long before it becomes an origin.
+3. America's checks were redirected by class, not simply lost.
+
+**The honest risk.** Everything points toward a later moment when the last limit drops, but no text yet shows it. It may be gradual, partial, or absent. The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch for step 2 (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
+
+---
+
 ## The argument in plain words
 
 The texts changed the story. This is the version they currently support.
