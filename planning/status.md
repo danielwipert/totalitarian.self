@@ -16,7 +16,7 @@
 
 **The three original claims**
 
-1. **A realization, not an invention: holds, reshaped.** Not difference but two roots, answerability and self-shaping, both bounded (by God, community, the body, fortune). Difference arrives late (Rousseau to Emerson) and stays framed. Warning sign: for Luther the bondage starts in nature, not in social orders, so "older orders repressed a true Self" does not fit every root.
+1. **A realization, not an invention: holds, reshaped.** Not difference but two roots, answerability and self-shaping, both bounded (by God, community, the body, fortune). Difference arrives late (Rousseau to Emerson) and stays framed. Warning sign: for Luther the bondage starts in nature, not in social orders, so the claim that older orders repressed a true Self does not fit every root.
 2. **The Self mutated: the pattern holds; the mutation itself is unproven.** The strongest finding: *the later Self kept the structure and dropped the limit*, in every section, and in Weber's own words (the "light cloak" became "an iron cage"). But philosophy never made the Self its own origin (Nietzsche calls the wish an error of "the half-educated"). The culture did it in two steps: the self as *cause* (mind-cure, about 1890; tested) and the self as its own *origin*, answerable to nothing (untested). Step 2 is the Totalitarian Self proper.
 3. **America the host: holds, sharpened.** A host *by erosion*: voluntary checks (covenant, township, church, associations) that could wear away, and between 1890 and 1930 were redirected, split by class.
 
