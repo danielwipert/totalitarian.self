@@ -137,3 +137,4 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-25 | Recent sources | A: fetch the public-domain recent primaries first (Casey, Lawrence, Obergefell); Surgeon General's 2023 advisory blocked, user to pull | `sources/recent-sources.md` |
 | 2026-10-25 | Court reading | scotus-casey (25), scotus-lawrence-obergefell (30): 55 passages; checkers clean | First test of C5.14 step 2 after 1930 |
 | 2026-10-26 | C5.14 and the law | A: the law makes the self the final *judge* of what it answers to, not its own origin; the limit is privatized, not dropped (C5.14 rewritten in three stages); self-as-origin to be tested in the carriers' voices | casey.01–.16, .22; obergefell.01–.21 |
+| 2026-10-26 | Byrne reading | byrne-secret: 25 passages from three chapters of *The Secret* (2006); checkers clean | First carrier test of C5.14 stage 3 |
