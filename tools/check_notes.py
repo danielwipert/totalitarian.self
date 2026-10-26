@@ -27,7 +27,7 @@ def letters(s):
 
 
 def main():
-    texts = [letters(open(f, encoding="utf-8").read()) for f in glob.glob("sources/texts/*.txt")]
+    texts = [letters(open(f, encoding="utf-8").read()) for f in glob.glob("sources/texts/*.txt") + glob.glob("sources/excerpts/*.txt")]
     ours = letters("".join(open(f, encoding="utf-8").read() for f in ["planning/SPEC.md", "planning/claims.md"]))
     files = sorted(glob.glob("sources/primary/*.md")) + ["planning/claims.md", "planning/status.md"]
 
