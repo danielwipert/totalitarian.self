@@ -139,3 +139,4 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-26 | C5.14 and the law | A: the law makes the self the final *judge* of what it answers to, not its own origin; the limit is privatized, not dropped (C5.14 rewritten in three stages); self-as-origin to be tested in the carriers' voices | casey.01–.16, .22; obergefell.01–.21 |
 | 2026-10-26 | Byrne reading | byrne-secret: 25 passages from three chapters of *The Secret* (2006); checkers clean | First carrier test of C5.14 stage 3 |
 | 2026-10-26 | C5.14 stage 3 | A: reached in one carrier, in a new form: the frame absorbed and turned around, not dropped (Byrne 2006); the wider culture untested | byrne.07, .13, .17, .20–.25 |
+| 2026-10-26 | Brown reading | brown-daring-greatly: 25 passages from the introduction and chapters 1–2 of *Daring Greatly* (2012); checkers clean | Mainstream carrier test of C5.14 stage 3 |
