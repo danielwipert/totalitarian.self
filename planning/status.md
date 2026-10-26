@@ -2,9 +2,37 @@
 
 *Updated 2026-10-25, after the §9 round (technocrats, the corporation, business leaders and Gierke). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
 
-**Evidence so far:** 1,117 tagged passages in 63 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,172 tagged passages in 65 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
 
 **Claims:** 88 in all. 12 supported, 53 revised after testing, 1 challenged, 22 not yet tested.
+
+---
+
+## The thesis in one page
+
+*Added 2026-10-25; updated 2026-10-26 after the court opinions.*
+
+**In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
+
+**The three original claims**
+
+1. **A realization, not an invention: holds, reshaped.** Not difference but two roots, answerability and self-shaping, both bounded (by God, community, the body, fortune). Difference arrives late (Rousseau to Emerson) and stays framed. Warning sign: for Luther the bondage starts in nature, not in social orders, so the claim that older orders repressed a true Self does not fit every root.
+2. **The Self mutated: the pattern holds; the mutation itself is unproven.** The strongest finding: *the later Self kept the structure and dropped the limit*, in every section, and in Weber's own words (the "light cloak" became "an iron cage"). But philosophy never made the Self its own origin (Nietzsche calls the wish an error of "the half-educated"). The culture did it in stages: the self as *cause* (mind-cure, about 1890; tested); the self as final *judge* of what it answers to, written into law (*Casey*, 1992; tested: the limit is privatized, not dropped); and the self as its own *origin*, answerable to nothing (untested). The last stage is the Totalitarian Self proper.
+3. **America the host: holds, sharpened.** A host *by erosion*: voluntary checks (covenant, township, church, associations) that could wear away, and between 1890 and 1930 were redirected, split by class.
+
+**The later sections**
+
+- **Blame (§7): reshaped.** It comes from making the self the cause, before any frame is lost (Smiles, Carnegie, Rockefeller, with God still in place). Isolation and burnout are untested.
+- **Mechanism (§8): narrowed.** Dressing conformity in the age's highest value word is centuries old. What may be new is that the dress becomes the Self itself ("self-expression"), and that is after 1930.
+- **Carriers (§9): reshaped.** Technocrats state their values; the corporation is not a Self; apparent opposites share the Self's form, not its content.
+
+**What may be most original now**
+
+1. *Structure kept, limit dropped*, traced from 1500 to 1930.
+2. The self becomes a cause long before it becomes an origin.
+3. America's checks were redirected by class, not simply lost.
+
+**The honest risk.** Everything points toward a later moment when the last limit drops, but no text yet shows it. It may be gradual, partial, or absent. The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
 
 ---
 
@@ -37,10 +65,11 @@ From Rousseau to Emerson, difference becomes a value ("I am not made like any on
 - **The common frame went next:** Stirner drops God, Man, society, morality and conscience; Nietzsche drops God and the herd.
 - **Self-origination never arrives.** Stirner's "unique one" is a "creative nothing." Nietzsche calls the wish to "absolve God, the world, ancestors, chance, and society" a self-contradiction of "the half-educated."
 
-### 5. The culture made the self a cause first, and its own origin later (C5.14)
+### 5. The culture made the self a cause, then a judge, and perhaps later its own origin (C5.14)
 
 - **Step 1, tested:** the 1890s mind-cure movement made the self the *cause* of its conditions ("Within yourself lies the cause of whatever enters into your life"), still powered by a borrowed Infinite. William James called it America's "only decidedly original contribution to the systematic philosophy of life."
-- **Step 2, untested:** the borrowed power thins and the self becomes its own origin, answerable to nothing. Probably 20th century.
+- **Step 2, tested in law:** the self becomes the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: the decision stays "fraught with consequences for others," and by 2015 meaning is placed in a bond, "a two-person union unlike any other" (*Obergefell*). The dissents charge that the Self is becoming the only frame the law allows; in 2015 that is a forecast.
+- **Step 3, untested:** the borrowed power thins and the self becomes its own origin, answerable to nothing. To be tested in the carriers' own voices (Byrne, Doyle), not in law.
 
 ### 6. Blame comes from making the self the cause (§7)
 

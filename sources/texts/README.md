@@ -91,6 +91,9 @@ Gutenberg files keep their license header, which is a condition of redistributin
 | `carnegie-autobiography.txt` | Andrew Carnegie, *Autobiography* (1920) | original English | [Gutenberg #17976](https://www.gutenberg.org/ebooks/17976) | clean |
 | `rockefeller-reminiscences.txt` | John D. Rockefeller, *Random Reminiscences of Men and Events* (1909) | original English | [Gutenberg #17090](https://www.gutenberg.org/ebooks/17090) | clean |
 | `hoover-new-day-1928.txt` | Herbert Hoover, *The New Day: Campaign Speeches of Herbert Hoover, 1928* (Stanford, Dec. 1928), incl. the New York speech of October 22 ("rugged individualism") | original English | [archive.org/details/newdaycampaignsp0000hoov](https://archive.org/details/newdaycampaignsp0000hoov) | OCR |
+| `scotus-casey-1992.txt` | *Planned Parenthood of Southeastern Pa. v. Casey*, 505 U.S. 833 (1992): joint opinion, concurrences, dissents | US court opinion (public domain) | [Cornell LII](https://www.law.cornell.edu/supremecourt/text/505/833) | clean (from HTML) |
+| `scotus-lawrence-2003.txt` | *Lawrence v. Texas*, 539 U.S. 558 (2003): all opinions | US court opinion (public domain) | [Cornell LII](https://www.law.cornell.edu/supremecourt/text/539/558) | clean (from HTML) |
+| `scotus-obergefell-2015.txt` | *Obergefell v. Hodges*, 576 U.S. 644 (2015): all opinions | US court opinion (public domain) | [Cornell LII](https://www.law.cornell.edu/supremecourt/text/14-556) | clean (from HTML; slip opinion) |
 
 Why the Molyneux Descartes is here: it shows how English readers first met the *Meditations*, which is evidence for the reception claim C4.7.
 

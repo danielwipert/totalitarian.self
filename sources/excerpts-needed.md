@@ -1,5 +1,7 @@
 # Excerpts needed
 
+*For sources from 2000 to 2025, see `recent-sources.md`.*
+
 Works still under copyright that the claims need. These can't be downloaded, so they need excerpts from a copy in hand: a photo, scan or typed transcription of the pages named, with the edition and page numbers.
 
 **How to add an excerpt**
