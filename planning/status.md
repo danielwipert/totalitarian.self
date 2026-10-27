@@ -1,16 +1,18 @@
 # Where the argument stands
 
-*Updated 2026-10-25, after the §9 round (technocrats, the corporation, business leaders and Gierke). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
+*Updated 2026-10-27, after the evidence standard and audit (see `claims.md`, "Evidence standard" and "Evidence audit"). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
 
-**Evidence so far:** 1,222 tagged passages in 67 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,222 tagged passages in 67 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
 
-**Claims:** 88 in all. 12 supported, 53 revised after testing, 1 challenged, 22 not yet tested.
+**Evidence standard (2026-10-27).** One voice is one among millions. A claim about the culture is `supported` only with at least two independent Tier 1 critics (established intellectuals and cultural critics), plus data or institutional evidence, with dissenting critics read and answered. Popular carriers (Byrne, Brown, Smiles, Trine) *illustrate* how the Self speaks; they cannot show how far it has spread. Claims resting on them alone are `illustrated`.
+
+**Claims:** 88 in all. 10 supported, 50 revised after testing, 3 illustrated, 1 challenged, 24 not yet tested.
 
 ---
 
 ## The thesis in one page
 
-*Added 2026-10-25; updated 2026-10-27 after the court opinions, Byrne and Brown.*
+*Added 2026-10-25; updated 2026-10-27 after the court opinions, Byrne, Brown and the evidence audit.*
 
 **In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
 
@@ -32,7 +34,7 @@
 2. The self becomes a cause long before it becomes an origin.
 3. America's checks were redirected by class, not simply lost.
 
-**The honest risk.** The last stage is now shown in one carrier (Byrne, 2006), but the mainstream (Brown, 2012) keeps the self bound to others and gives up only the giver of worth, and the law (1992–2015) still privatizes the limit rather than dropping it. The mutation may be partial, or confined to some carriers. The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
+**The honest risk.** The mutation is so far only *illustrated*: two popular carriers (Byrne, 2006, the extreme; Brown, 2012, bound to others but self-given in worth) and three court opinions that privatize the limit rather than drop it. No established critic has yet been read on the period after 1930, so nothing yet shows how widespread the mutation is. It may be partial, or confined to some carriers. The next test is Tier 1: Rieff, Lasch, Bellah and Taylor, with Lunbeck as dissent, and the data (Greenfield, Wetzel, Santos). The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
 
 ---
 
@@ -67,9 +69,9 @@ From Rousseau to Emerson, difference becomes a value ("I am not made like any on
 
 ### 5. The culture made the self a cause, then a judge, then answerable to nothing (C5.14)
 
-- **Step 1, tested:** the 1890s mind-cure movement made the self the *cause* of its conditions ("Within yourself lies the cause of whatever enters into your life"), still powered by a borrowed Infinite. William James called it America's "only decidedly original contribution to the systematic philosophy of life."
-- **Step 2, tested in law:** the self becomes the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: the decision stays "fraught with consequences for others," and by 2015 meaning is placed in a bond, "a two-person union unlike any other" (*Obergefell*). The dissents charge that the Self is becoming the only frame the law allows; in 2015 that is a forecast.
-- **Step 3, tested in one carrier:** in Byrne's *The Secret* (2006) the self answers to nothing, not because the frame is dropped but because it is absorbed and turned around. The Universe and its law are still named on almost every page, but identified with the self ("You are God in a physical body") and set to serve it (the Genie's "Your wish is my command"). Answerability is gone: "no one will stand in judgment of it, now or ever" (Walsch). Compared with Trine (1897), man no longer differs from God "in degree"; he is God. But it is a strand, not the whole culture. Brown's *Daring Greatly* (2012), a mainstream bestseller, has no cosmic frame and rejects going it alone: we are "hardwired to connect" and "simply can't" learn courage on our own. What she shares with Byrne is worth with no giver: the Wholehearted "simply believe they are worthy of love and belonging." Bound to others for support, answerable to no one for worth. Which strand dominates is untested (Doyle, reception data).
+- **Step 1, illustrated** (one critic, William James, plus carriers): the 1890s mind-cure movement made the self the *cause* of its conditions ("Within yourself lies the cause of whatever enters into your life"), still powered by a borrowed Infinite. William James called it America's "only decidedly original contribution to the systematic philosophy of life."
+- **Step 2, shown in law** (Tier 3, no critic yet): the self becomes the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: the decision stays "fraught with consequences for others," and by 2015 meaning is placed in a bond, "a two-person union unlike any other" (*Obergefell*). The dissents charge that the Self is becoming the only frame the law allows; in 2015 that is a forecast.
+- **Step 3, illustrated** (two carriers, no critic yet): in Byrne's *The Secret* (2006) the self answers to nothing, not because the frame is dropped but because it is absorbed and turned around. The Universe and its law are still named on almost every page, but identified with the self ("You are God in a physical body") and set to serve it (the Genie's "Your wish is my command"). Answerability is gone: "no one will stand in judgment of it, now or ever" (Walsch). Compared with Trine (1897), man no longer differs from God "in degree"; he is God. But it is a strand, not the whole culture. Brown's *Daring Greatly* (2012), a mainstream bestseller, has no cosmic frame and rejects going it alone: we are "hardwired to connect" and "simply can't" learn courage on our own. What she shares with Byrne is worth with no giver: the Wholehearted "simply believe they are worthy of love and belonging." Bound to others for support, answerable to no one for worth. Which strand dominates, and how far either has spread, is untested: that needs Tier 1 critics and data.
 
 ### 6. Blame comes from making the self the cause (§7)
 
@@ -121,10 +123,11 @@ Simmel (1904) already has the cycle and conformity felt as individuality, but fo
 
 ## Claims by status
 
-- **Supported (12):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C5.7, C6.10, C6.11, C7.1, C8.7
-- **Revised after testing (53):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C5.14, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C7.4, C8.1, C8.2, C8.4, C8.5, C8.6, C9.1, C9.2, C9.3, C9.4, C9.5, C9.6, C9.8
+- **Supported (10):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C6.10, C6.11, C7.1
+- **Revised after testing (50):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C8.1, C8.4, C8.6, C8.7, C9.1, C9.2, C9.3, C9.4, C9.5, C9.6, C9.8
+- **Illustrated, not yet meeting the evidence standard (3):** C5.7, C5.14, C7.4
 - **Challenged, not yet reworded (1):** C6.9
-- **Untested (22):** C1.2, C1.3, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.3, C9.7, C10.1, C10.2
+- **Untested (24):** C1.2, C1.3, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.2, C8.3, C8.5, C9.7, C10.1, C10.2
 
 ## The biggest gaps
 

@@ -2,6 +2,8 @@
 
 This is where the thesis gets tested. Every claim in `planning/claims.md` should be checked against what the primary texts actually say, including passages that cut against it.
 
+**Weighing sources.** For claims about the culture, sources are weighed in four tiers: established critics and intellectuals (Tier 1), data (Tier 2), institutions (Tier 3), popular carriers (Tier 4). One voice is one among millions: a carrier shows how the Self speaks, not how far it has spread. The full standard is in `planning/claims.md`, "Evidence standard". When a new source file is written, note its tier in the header.
+
 ## Folders
 
 | Folder | What goes in it |
