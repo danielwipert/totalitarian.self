@@ -1,8 +1,8 @@
 # Where the argument stands
 
-*Updated 2026-10-27, after the evidence standard and audit (see `claims.md`, "Evidence standard" and "Evidence audit"). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Copyrighted works still needed are in `sources/excerpts-needed.md`.*
+*Updated 2026-10-27, after the evidence standard and audit (see `claims.md`, "Evidence standard" and "Evidence audit"). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Sources still to pull are in `sources/to-pull.md`.*
 
-**Evidence so far:** 1,222 tagged passages in 67 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,238 tagged passages in 68 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
 
 **Evidence standard (2026-10-27).** One voice is one among millions. A claim about the culture is `supported` only with at least two independent Tier 1 critics (established intellectuals and cultural critics), plus data or institutional evidence, with dissenting critics read and answered. Popular carriers (Byrne, Brown, Smiles, Trine) *illustrate* how the Self speaks; they cannot show how far it has spread. Claims resting on them alone are `illustrated`.
 

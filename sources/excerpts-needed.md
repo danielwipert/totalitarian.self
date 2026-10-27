@@ -1,6 +1,7 @@
 # Excerpts needed
 
-*For sources from 2000 to 2025, see `recent-sources.md`.*
+> **The master list is now `to-pull.md`**, in pull order with tiers. This file keeps the original notes and is no longer updated.
+
 
 Works still under copyright that the claims need. These can't be downloaded, so they need excerpts from a copy in hand: a photo, scan or typed transcription of the pages named, with the edition and page numbers.
 

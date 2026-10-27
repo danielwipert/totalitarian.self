@@ -19,6 +19,7 @@ essay/               the essay, one file per section, in reading order
 sources/
   README.md          how sources are collected and tagged
   bibliography.md    sources and lineage (live copy of SPEC §13)
+  to-pull.md         master list of sources still to pull, in order
   texts/             full public-domain primary texts (never edited)
   primary/           one file per primary work: passages tagged to claims
   notes/             reading notes and secondary literature
