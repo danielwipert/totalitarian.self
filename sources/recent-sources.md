@@ -1,5 +1,7 @@
 # Recent sources (2000–2025)
 
+> **The master list is now `to-pull.md`**, in pull order with tiers. This file keeps the original notes and is no longer updated.
+
 Sources from the last 25 years for working backwards from the present: the period where the Self is claimed to have become a dogma (C1.2, C1.3, C5.14 step 2, C8.6, §7). Compiled 2026-10-25. Older post-1930 works are in `excerpts-needed.md`.
 
 **How to use this list.** Most of these are under copyright. Pull the pages named, save them in `sources/excerpts/` with the edition and `[p. 21]` page marks, and tell Claude (same steps as `excerpts-needed.md`). The works marked **PD** are public domain (US court opinions and federal reports), and Claude can fetch them.
