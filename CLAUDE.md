@@ -12,6 +12,7 @@ The thesis is unproven; the job is to test it against primary texts, not to conf
 - Never edit `sources/texts/`; corrections go in `sources/primary/`.
 - After any new reading, run `python3 tools/check_quotes.py` (blockquotes) and `python3 tools/check_notes.py` (quoted phrases in notes); read by eye anything flagged.
 - Put quotation marks only around words copied from a text. Paraphrase goes outside quotation marks.
+- **Evidence standard.** One voice is one among millions. Weigh sources in four tiers: established critics and intellectuals (1), data (2), institutions (3), popular carriers (4). A claim about the culture is `supported` only with two independent Tier 1 critics plus Tier 2 or 3 evidence, with dissenting critics read and answered; on carriers alone it is `illustrated`. Full standard: `planning/claims.md`, "Evidence standard".
 - Conventions: `sources/README.md`.
 
 ## Logic gates (how to ask for decisions)
