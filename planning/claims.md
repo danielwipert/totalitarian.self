@@ -9,7 +9,9 @@ Every claim the essay makes, numbered so it can be tested against the sources. T
 3. To see the evidence for a claim, search the repo for its ID (e.g. `grep -rn "C4.3" sources/`).
 4. Once there's enough evidence, update the claim's status and log the change in `decisions.md`.
 
-**Status:** `untested` · `supported` · `challenged` · `revised` · `dropped`
+**Status:** `untested` · `illustrated` · `supported` · `challenged` · `revised` · `dropped`
+
+`illustrated` means a claim about the culture is shown in popular carriers (Tier 4), or in one critic, but does not yet meet the evidence standard below.
 
 `revised` means the claim was reworded after testing. The new wording rests on the evidence that prompted it, but it should still be tested further. Earlier wordings are in `SPEC.md` and the git history.
 
@@ -20,6 +22,15 @@ Every claim the essay makes, numbered so it can be tested against the sources. T
 - **historical**: a claim about what happened and why. Needs primary documents plus historians.
 - **empirical**: a claim about how people behave now. Needs sociology or psychology data.
 - **conceptual**: tested by argument, not by sources. It still has to be consistent with the textual claims.
+
+**Evidence standard (2026-10-27).** One voice is one among millions. Sources are weighed in four tiers:
+
+1. **Tier 1, established critics and intellectuals** (e.g. Tocqueville, Weber, Dewey, Simmel; Rieff, Lasch, Bellah, Taylor). Most weight on what a culture *is*. Their claims are tested too, and dissenting critics get the same weight as agreeing ones.
+2. **Tier 2, data:** surveys, field studies, word counts (e.g. *Middletown*, Greenfield, Twenge, Wetzel). Show how widespread a change is, and when.
+3. **Tier 3, institutions:** court opinions, government reports, official speeches. Show what the society made binding or public.
+4. **Tier 4, popular carriers** (e.g. Smiles, Trine, Byrne, Brown). Show how the Self speaks; cannot show how widespread it is.
+
+A claim about the culture (not about what one text says) is `supported` only with **at least two independent Tier 1 critics, plus Tier 2 or Tier 3 evidence, with dissenting critics read and answered**. Resting on Tier 4 alone, or on a single critic, it is `illustrated`. A claim about what a text says needs only the text. Each claim about the culture is tagged with its tiers in the *Evidence audit* at the end of this file.
 
 **Status changes so far** are logged in `decisions.md`, with the passage IDs that caused them.
 
@@ -132,7 +143,7 @@ Added 2026-10-23 at the author's request. The author's long-held view is that se
 | C5.4 | A specialized vocabulary, used long enough in isolation, feeds on itself until it nearly negates other vocabularies (Burke's feedback loop). | textual | Burke, *Language as Symbolic Action*; *Permanence and Change* | untested |
 | C5.5 | The language of Selfhood (authenticity, expression, responsibility, reliance) has run this loop for centuries in the West, and more intensely in America. | historical + empirical | word-frequency data; Taylor; Trilling, *Sincerity and Authenticity* | untested |
 | C5.6 | The metaphysical shift: difference goes from relational to absolute, and the Self from *in* experience to *prior to* it. | conceptual | — | untested |
-| C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | supported |
+| C5.7 | The totalized Self represses truths about history, environment, dependence, mortality and the collective as thoroughly as the orders it replaced. | conceptual + empirical | §7 evidence | illustrated |
 | C5.8 | Identifying the Self with a separate Mind lets it imagine itself prior to and independent of the material world. In Descartes this priority is bounded by dependence on God; the Totalitarian Self keeps the priority and drops the dependence. | conceptual + textual | Descartes; Heidegger, *Being and Time* | revised |
 
 **Pressure points**
@@ -152,7 +163,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C5.11 | Whitman's American Self is Emerson's Over-Soul made democratic and bodily: a common self shared "on the same terms" with everyone. It drops answerability and ranks itself above God, but keeps relation; when it swells into containment ("it becomes mine"), the poem itself calls it "a usual mistake." | textual | Whitman, "Song of Myself" | revised |
 | C5.12 | Wilde makes "Be thyself" the message of Christ, with socialism only the means: the Self answers to no law, judge or duty. But it stays relational (it loves others "because they will be different") and is set inside a law of nature, Evolution. | textual | Wilde, "The Soul of Man under Socialism" | revised |
 | C5.13 | Nietzsche makes uniqueness a task ("become what thou art") and drops God and the common good as its frame, replacing them with an order of rank, the higher type, the body and the earth. He attacks the "I" and *causa sui* as fictions: he cuts difference from the common, not from relation, and rejects self-origination. | textual | Nietzsche, *Gay Science*, *Zarathustra*, *Beyond Good and Evil*, "Schopenhauer as Educator" | revised |
-| C5.14 | The culture, not philosophy, made the Self self-originating, in stages. First it made the self the *cause* of its own conditions while keeping a borrowed frame: mind-cure and New Thought, 1890s ("Within yourself lies the cause of whatever enters into your life"), powered by the Infinite. Second, the law made the self the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: whether the choice bears on "the salvation of her own immortal soul" becomes the person's own question, and the decision stays "fraught with consequences for others"; by 2015 meaning is placed in a bond (*Obergefell*). Third, the borrowed power thins and the self becomes its own *origin*, answerable to nothing: untested, to be tested in the carriers' own voices, not in law. | historical + textual | step 1: Trine, James (tested); step 2: *Casey*, *Lawrence*, *Obergefell* (tested); step 3: Wattles (1910), Hill (1937), Byrne, Doyle, later self-help and therapy; Rieff, Lasch | revised |
+| C5.14 | The culture, not philosophy, made the Self self-originating, in stages. First it made the self the *cause* of its own conditions while keeping a borrowed frame: mind-cure and New Thought, 1890s ("Within yourself lies the cause of whatever enters into your life"), powered by the Infinite. Second, the law made the self the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: whether the choice bears on "the salvation of her own immortal soul" becomes the person's own question, and the decision stays "fraught with consequences for others"; by 2015 meaning is placed in a bond (*Obergefell*). Third, the self answers to nothing, not because the frame is dropped but because it is *absorbed and turned around*: the Universe and its law are still named, but identified with the self and set to serve it (Byrne, 2006: "You are God in a physical body"; the Genie's "Your wish is my command"; Walsch: "no one will stand in judgment of it, now or ever"; "Whatever you choose is right"). Tested in one carrier (2006). Stage 3 is a strand, not the whole culture: mainstream self-help keeps the self bound to others for support but lets it declare its own worth (Brown, 2012: we are "hardwired to connect"; we "simply can't" learn courage alone; yet the Wholehearted "simply believe they are worthy of love and belonging"). Which strand dominates is untested (Doyle, reception data). | historical + textual | stage 1: Trine, James (tested); stage 2: *Casey*, *Lawrence*, *Obergefell* (tested); stage 3: Byrne (tested), Brown (against, with self-given worth); still to read: Wattles (1910), Hill (1937), Doyle, later self-help and therapy; Rieff, Lasch | illustrated |
 
 **Pressure points**
 
@@ -200,7 +211,7 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | C7.1 | The pervasive blame and guilt of the surfeit Self do not come from Locke. The Self kept Locke's forensic accountability but lost his God and his limits on guilt ("no one shall be made to answer for what he knows nothing of"). The genealogy of the guilt itself rests on Nietzsche (C4.12). | conceptual + textual | Locke, *Essay* II.xxvii; Nietzsche, *Genealogy* II; Lasch | supported |
 | C7.2 | Self-reliance in surfeit produces isolationism, rootlessness and asociality. | empirical | Bellah, *Habits of the Heart*; Putnam, *Bowling Alone* | untested |
 | C7.3 | Individual responsibility in surfeit produces exhaustion, inefficiency and stagnation. | empirical | Han, *The Burnout Society* | untested |
-| C7.4 | Failure is attributed mainly to the Self, rarely to environmental, social or historical factors. This comes from making the self the *cause* of its conditions, not from losing the frames: Providence licenses it first (Smiles), then mind (Trine). Once God's relief is gone (Nietzsche: God as "the one being who can deliver man"), the blame can no longer be discharged. | empirical + textual | smiles-selfhelp.11, .15; trine-infinite.09, .11; nietzsche-guilt.10; attribution research | revised |
+| C7.4 | Failure is attributed mainly to the Self, rarely to environmental, social or historical factors. This comes from making the self the *cause* of its conditions, not from losing the frames: Providence licenses it first (Smiles), then mind (Trine). Once God's relief is gone (Nietzsche: God as "the one being who can deliver man"), the blame can no longer be discharged. | empirical + textual | smiles-selfhelp.11, .15; trine-infinite.09, .11; nietzsche-guilt.10; attribution research | illustrated |
 | C7.5 | A surfeit of personal expression produces a cacophony that makes sensible discourse nearly impossible. | empirical + conceptual | MacIntyre, *After Virtue* (emotivism); Sennett | untested |
 | C7.6 | Lasch's account of the narcissistic society is as the spec summarizes it (invisible hierarchy, symbol competition, defensive living, artificial communities, no past and no future). | textual | Lasch, *The Culture of Narcissism* | untested |
 | C7.7 | The Totalitarian Self is the underlying cause of the collective symptom Lasch describes. | conceptual | Lasch | untested |
@@ -222,12 +233,12 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
 | C8.1 | §8's sequence extends Simmel's cycle of fashion (1904), which already has convergence, imitation from below, the original holders moving on, and contents cut from "the deeper human motives from which they have risen." What §8 adds is a *genuine* expression at the origin, then emptied; Simmel's fashion is social demand from the start. | conceptual + textual | Simmel; Mandeville; Lewis; Rousseau | revised |
-| C8.2 | Accessorizing is conformity felt and spoken *as the self itself*. Conformity felt as individuality is old (Simmel, 1904: "a social obedience, which at the same time is a form of individual differentiation"), and so is the motive of belonging (Tocqueville). For Simmel, fashion stays "at the periphery of personality," a mask over a reserved inner self. Self-expression spends that reserve: the vocabulary that once exposed conformity now speaks it, and can no longer see it. | conceptual + historical | Simmel; C8.6, C8.7; §5 | revised |
+| C8.2 | Accessorizing is conformity felt and spoken *as the self itself*. Conformity felt as individuality is old (Simmel, 1904: "a social obedience, which at the same time is a form of individual differentiation"), and so is the motive of belonging (Tocqueville). For Simmel, fashion stays "at the periphery of personality," a mask over a reserved inner self. Self-expression spends that reserve: the vocabulary that once exposed conformity now speaks it, and can no longer see it. | conceptual + historical | Simmel; C8.6, C8.7; §5 | untested |
 | C8.3 | The process produces False Groups: coherent in appearance, incoherent in substance. | conceptual | — | untested |
 | C8.4 | The motive of belonging is old: Tocqueville already finds that "to live at variance with the multitude is, as it were, not to live." §8 does not claim the motive as new; its claim is the disguise word (C8.2). | textual | tocqueville2.24 | revised |
-| C8.5 | The desire to belong is routed through self-expression because, by the time the idiom passes to persons (after 1928, date to find), no other vocabulary of belonging remains available. | historical + conceptual | C8.6; §5 | revised |
+| C8.5 | The desire to belong is routed through self-expression because, by the time the idiom passes to persons (after 1928, date to find), no other vocabulary of belonging remains available. | historical + conceptual | C8.6; §5 | untested |
 | C8.6 | "Self-expression" becomes the consumer's own word for conforming only after 1930. Before that it belongs to the rebel against conformity (Veblen's "New-Woman," 1899; the critics in *Babbitt*, 1922) or to the producer (Hoover, 1922); consumers through 1925–30 speak of rank, "decency," "service" and "duty" (*Middletown*; Dewey). | historical | veblen-leisure-class.18; lewis-babbitt.15, .18; hoover.04; middletown.03–.05; dewey.09; post-1930 sources (copyrighted) | revised |
-| C8.7 | Every age dresses conformity in its highest value word: "grace" and "nature" (Castiglione, 1528), the wish to rise (Mandeville, 1714), "reason and nature" and "freedom and independency" (Smith, 1759), station (Mill, 1859), the "natural" (Wilde, 1891), "his own idea" (Bernays, 1928). Also: the vocabulary of freedom (Tocqueville, 1835: the majority says \"You are free to think differently\") and \"Fashion\" as impersonal Fate (Thoreau, 1854). The motive is rising, favour or distinction, and already belonging in Tocqueville. | historical + textual | castiglione.11; mandeville.10; smith-tms.18, .19; mill-liberty.05; wilde-soul.13; bernays-propaganda.08 | supported |
+| C8.7 | Every age dresses conformity in its highest value word: "grace" and "nature" (Castiglione, 1528), the wish to rise (Mandeville, 1714), "reason and nature" and "freedom and independency" (Smith, 1759), station (Mill, 1859), the "natural" (Wilde, 1891), "his own idea" (Bernays, 1928). Also: the vocabulary of freedom (Tocqueville, 1835: the majority says \"You are free to think differently\") and \"Fashion\" as impersonal Fate (Thoreau, 1854). The motive is rising, favour or distinction, and already belonging in Tocqueville. | historical + textual | castiglione.11; mandeville.10; smith-tms.18, .19; mill-liberty.05; wilde-soul.13; bernays-propaganda.08 | revised |
 
 **Pressure points**
 
@@ -269,3 +280,29 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 **Pressure points**
 
 - **C10.1:** Lasch *does* offer causes (bureaucracy, the therapeutic culture, consumer capitalism, the decline of the family). The claim must say how this theory's cause differs from his.
+
+---
+
+## Evidence audit (2026-10-27)
+
+Claims about the culture, tagged by tier under the evidence standard above. T1–T4 = tiers; "Dissent" = a dissenting critic read and answered. Claims about what one text says are not listed: their evidence is the text.
+
+| ID | T1 critics | T2 data | T3 institutions | T4 carriers | Dissent | Verdict |
+|---|---|---|---|---|---|---|
+| C1.1 | (first half: the texts themselves) | — | — | — | — | first half rests on texts; the "calcified" half is C1.2, untested |
+| C1.2 | — | Santos et al. 2017 (complicates: individualist practices and values rose since 1960 in most countries, "not confined to the developed world"; the measures do not capture a Self that admits no rival frame) | — | — | — | `untested`: the data cannot measure the claim as worded; a survey of what authority people recognize above their own choice is needed |
+| C5.7 | — | — | — | Byrne (social causes vanish); Brown (against) | — | `illustrated` (was `supported`: no Tier 1 or Tier 2 evidence) |
+| C5.14 | James (stage 1) | — | *Casey*, *Lawrence*, *Obergefell* (stage 2) | Trine (1); Byrne, Brown (3) | — | `illustrated`: stage 2 has institutions but no critic; stage 3 has carriers only. Needs Rieff, Lasch, Bellah, Taylor; dissent Lunbeck |
+| C6.1 | Tocqueville, Turner, Dewey | *Middletown* | Winthrop's covenant | Crèvecoeur | — (Hartz needed) | meets T1 + T2; stays `revised` until a dissenting historian is read |
+| C6.13 | Dewey, Veblen, Lippmann | *Middletown* | Hoover 1922, 1928 | *Babbitt* | — | meets T1 + T2; stays `revised` until dissent is read |
+| C7.4 | Nietzsche (guilt) | — (attribution research needed) | — | Smiles, Trine, Carnegie, Rockefeller, Byrne; Brown complicates | — | `illustrated` (one critic; carriers) |
+| C8.2 | Simmel, Tocqueville (old part only) | — | — | — | — | `untested`: the new part (conformity felt *as the self*, after 1930) has no evidence yet |
+| C8.5 | — | — | — | — | — | `untested`: depends on C8.6 after 1930 |
+| C8.6 | Veblen, Dewey, Lippmann (before 1930) | *Middletown* | Hoover 1922, 1928 | *Babbitt*; Brown (2012: no "self-expression") | — | `revised` for the pre-1930 half; the post-1930 half untested |
+| C8.7 | Castiglione, Mandeville, Smith, Mill, Tocqueville, Simmel | — | — | Bernays, Wilde | — | meets T1, lacks T2/T3 and dissent: `revised` (was `supported`) |
+| C9.1 | Gierke | — | Roberts, Scalia in *Obergefell* | *The Fundamentals*, Byrne | — | `revised`, thin: one critic; after 1930 untested |
+| C9.6 | Lippmann, Veblen, Croly | — | — | Taylor (Frederick) | — | `revised` for the founders; later technocracy untested |
+| C9.8 | Maitland, Gierke, Lippmann | — | Wilson, Brandeis (as reformers in office) | Carnegie, Rockefeller | — | `revised`; after 1930 untested |
+
+**Historical claims before 1930** (C4.2, C4.5, C4.7, C4.14, C4.15, C4.21, C5.9, C6.2–C6.5, C6.7, C9.2–C9.4) rest on the primary texts read directly plus Tier 1 historians (Burckhardt, Weber, Tawney, Tocqueville, Turner, Gierke, Maitland). None yet has a dissenting historian read; tag each fully when next touched.
+

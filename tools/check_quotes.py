@@ -1,4 +1,4 @@
-"""Check that every quotation in sources/primary/ appears in a text in sources/texts/.
+"""Check that every quotation in sources/primary/ appears in a text in sources/texts/ or sources/excerpts/.
 
 Run from the repo root:
 
@@ -53,7 +53,7 @@ def closeness(piece, texts):
 
 
 def main():
-    texts = [letters(open(f, encoding="utf-8").read()) for f in glob.glob("sources/texts/*.txt")]
+    texts = [letters(open(f, encoding="utf-8").read()) for f in glob.glob("sources/texts/*.txt") + glob.glob("sources/excerpts/*.txt")]
     if not texts:
         sys.exit("No texts found. Run this from the repo root.")
 
