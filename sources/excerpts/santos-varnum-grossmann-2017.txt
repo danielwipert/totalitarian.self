@@ -1,0 +1,1332 @@
+Henri C. Santos, Michael E. W. Varnum and Igor Grossmann, "Global Increases in Individualism," Psychological Science 28.9 (2017): 1228-1239, doi:10.1177/0956797617700622.
+Text: the authors' accepted manuscript, posted open access on PsyArXiv/OSF (https://osf.io/hynwh), fetched 2026-10-27 and converted from PDF. Page numbers below are the manuscript's, not the journal's: check quotations against the published version before final use.
+
+                                                       GLOBAL INCREASES IN INDIVIDUALISM 1
+
+
+
+
+                                  Global Increases in Individualism
+
+                                            Henri C. Santos1
+
+                                        Michael E. W. Varnum2
+
+                                            Igor Grossmann1
+
+
+                                  1
+                                      University of Waterloo, Canada
+                                  2
+                                      Arizona State University, USA
+
+
+
+
+In press, Psychological Science
+
+
+
+Correspondence concerning this article should be addressed to Henri Santos, Department of
+
+Psychology, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada
+
+N2L 3G1. Contact: hsantos@uwaterloo.ca or Igor Grossmann, Department of Psychology,
+
+University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada N2L 3G1.
+
+Contact: igrossma@uwaterloo.ca
+
+
+      This article may not exactly replicate the final version published in the journal.
+                                It is not the copy of record.
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 2
+
+
+                                             Abstract
+
+Individualism appears to have increased over the past several decades, yet most research
+
+documenting this shift has been limited to the study of a handful of highly-developed countries.
+
+Is the world becoming more individualistic as a whole? If so, why? To address these questions,
+
+here we examine 51 years of data on individualistic practices and values across 77 countries. Our
+
+findings suggest that individualism is indeed rising in most of societies we tested. Despite
+
+dramatic shifts towards greater individualism around the world, cultural differences remain
+
+sizeable. Moreover, cultural differences are primarily linked to changes in socioeconomic
+
+development, and to a lesser extent to shifts in pathogen prevalence, disaster frequency, and
+
+climatic stress.
+
+
+Keywords: cultural change, individualism, cross-cultural differences, social ecology, change over
+time
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 3
+
+
+                               Global Increases in Individualism
+
+       In the last century, some affluent societies have been moving toward greater
+
+individualism in values and practices. Has individualism risen around the globe or is such shift
+
+limited to a few highly-developed societies? Why have such shifts occurred? Utilizing 51 years
+
+of data on individualistic practices and values from 77 countries, we present novel empirical
+
+evidence regarding the universality and potential causes of cultural shifts and reflect on
+
+outstanding questions for future research.
+
+Cross-Cultural Differences in Individualism and Collectivism
+
+       Individualism-collectivism (IC) is currently the most discussed construct in cross-cultural
+
+studies. Since the seminal works by Triandis (1995), Hofstede (2001), and Markus and Kitayama
+
+(1991), researchers have used this cultural dimension to explain variations in psychological
+
+processes across different cultural groups. Individualism promotes a view of the self as self-
+
+directed, autonomous, and separate from others. Conversely, collectivism fosters an
+
+interconnected view of the self that overlaps with close others, with individuals’ thoughts,
+
+feelings, and behaviors embedded in social contexts (Markus & Kitayama, 1991; Triandis, 1995;
+
+Varnum, Grossmann, Kitayama, & Nisbett, 2010). Individualistic cultures prioritize
+
+independence and uniqueness, whereas collectivistic cultures emphasize family ties and fitting in
+
+(Grossmann & Na, 2014). Cross-cultural differences in IC occur when examining values and
+
+norms (e.g., obedience; Hofstede, 2001), socialization practices (Greenfield, 2009) and cultural
+
+products (Morling & Lamoreaux, 2008).
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 4
+
+
+Cross-Temporal Shifts in Individualism-Collectivism
+
+       Cultural values and practices are not static in society (Kashima, 2014; Morris, Chiu, &
+
+Liu, 2015). Recently, scholars have begun to explore how IC may change over time (e.g.,
+
+Greenfield, 2009; Grossmann & Varnum, 2015; Kitayama, Conway, Pietromonaco, Park, &
+
+Plaut, 2010; Twenge, Dawson, & Campbell, 2016). Initial studies tracked changes between 1969
+
+and 1991 in Mayan communities (Greenfield, 2009). During this period, this group’s economy
+
+shifted from a subsistence to a market-based economy, and this change was associated with a
+
+learning environment that became more individualistic. More recently, researchers have analyzed
+
+several decades of US survey data to assess potential changes in IC-related constructs. For
+
+instance, Twenge and colleagues (Twenge, Campbell, & Gentile, 2012) found increases in the
+
+better-than-average effect among college students from 1966 to 2009.
+
+       Subsequent studies have shown shifts in individualism in cultural products and practices:
+
+Americans and Japanese have become increasingly likely to give their children relatively unique
+
+names (Grossmann & Varnum, 2015; Ogihara et al., 2015; Twenge et al., 2016). Also,
+
+Americans have become less likely to live in multigenerational households and more likely to
+
+divorce (Grossmann & Varnum, 2015). Moreover, the frequencies of words reflecting
+
+individualist themes (e.g., self, unique, personal, ”me”/ “mine”) vs. collectivistic ones (e.g.,
+
+obedience, belong, together, ”we”/ “ours”) have increased over time in books from the U.S.
+
+(Greenfield, 2013; Grossmann & Varnum, 2015) and several other countries (e.g., Zeng &
+
+Greenfield, 2015; Yu et al., 2016).
+
+       At least three studies have explored changes in markers of IC across societies. Using data
+
+from the World Values Surveys, Inglehart and Baker (2000) found increasing self-expression (a
+
+concept related to individualism; Inglehart & Oyserman, 2004) across 65 countries. Consistent
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 5
+
+
+with this idea, Yu and colleagues (2016) found increasing use of “me”/“mine” in eight language
+
+groups over a span of 59 years. Further, Hamamura’s (2012) analysis of survey and census data
+
+from the U.S. and Japan revealed shifts towards more individualistic relational practices in both
+
+countries. These studies suggest that there may be a global trend towards individualism.
+
+However, much of this data came from developed countries, limiting inferences about less
+
+economically-developed countries. And although Inglehart and Baker (2000) observed how
+
+countries that experienced economic development endorsed more individualistic values, they did
+
+not examine changes in practices, nor did they systematically test multiple hypotheses for why
+
+individualistic values and practices may be on the rise.
+
+Changes in Ecology and Changes in IC
+
+       Recently, scholars studying cross-cultural variation have begun using an ecological
+
+framework to explain cross-cultural differences (Oishi & Graham, 2010; Thornhill & Fincher,
+
+2014; Van de Vliert, 2013). This research has focused on dimensions of ecological affordance
+
+and threat, including socioeconomic development, frequency of natural disasters, pathogen
+
+prevalence, and climatic stress.
+
+       Socioeconomic development. Several scholars have theorized that individualism-related
+
+changes are explained by socioeconomic development, which involves a shift from agricultural
+
+to industrial and post-industrial economies, greater occupational prestige and education, and
+
+higher income (e.g., Inglehart & Baker, 2000; Kağıtçıbaşı, 2007; Kraus, Piff, Mendoza-Denton,
+
+Rheinschmidt, & Keltner, 2012; Newson & Richerson, 2009; Triandis, 1995; Varnum et al.,
+
+2010). Living in an economically developed society reduces the need to rely on a group for
+
+survival, allowing people to prioritize individual goals and personal freedom (Inglehart & Baker,
+
+2000). A related argument specifically focuses on the rise of urban centers, holding that city
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 6
+
+
+environments promote individualism (Greenfield, 2009; Yamagishi, Hashimoto, Li, & Schug,
+
+2012). Although there are different explanations for modernization, correlational studies across
+
+multiple countries (e.g., Hofstede, 2001; Kashima & Kashima, 2003) and observations of single
+
+communities before and after economic development (Greenfield, 2009) support the claim that
+
+more developed and urbanized societies are more individualistic. Also, time-lagged analyses in
+
+the U.S. showed that over 150 years, shifts from blue-collar to white-collar jobs preceded
+
+changes in individualistic living arrangements, cultural products, and practices (Grossmann &
+
+Varnum, 2015).
+
+       Disaster frequency. Environmental threats could also shape culture. Triandis (2009)
+
+proposed that more frequent disasters would reduce individuals’ sense of agency, which would
+
+then lead to less individualism. However, research on reactions to trauma and the cognitive
+
+effects of stress suggest that the experience of a disaster would narrow attentional scope
+
+(Wachtel, 1968) – a tendency that frequently accompanies individualism (Varnum et al., 2010).
+
+Thus, it is possible that more frequent disasters may lead to greater individualism. Consistent
+
+with the latter view, increases in individualistic practices were preceded by increases in disaster
+
+frequency in the US (Grossmann & Varnum, 2015).
+
+       Pathogen prevalence. Evolutionary theorists argue that humans have developed a
+
+behavioral immune system (Schaller & Park, 2011), a suite of cognitive-behavioral tendencies –
+
+including collectivism – that reduce disease transmission. Collectivism limits people’s contact
+
+outside the in-group, reducing the likelihood of acquiring infections (Thornhill & Fincher, 2014).
+
+Further, people who live in regions with many infectious diseases are more likely to emphasize
+
+obedience and conformity over individualistic values like self-reliance, which, all else being
+
+equal, likely reduces the chance of infection (Murray, Trudeau, & Schaller, 2011). While many
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 7
+
+
+of these studies have examined the correlations between historical pathogen prevalence and
+
+contemporary data on IC-related variables, only one US-based study has investigated this
+
+relationship over time (Grossmann & Varnum, 2015).
+
+       Climate. People living in climates that deviate from the optimal level (22 Celsius/72
+
+Fahrenheit; cf. Van de Vliert, 2013) face greater environmental stresses. These stresses may
+
+increase focus on survival goals and in-group support as opposed to individualistic pursuits like
+
+self-expression (Hofstede, 2001; Kashima & Kashima, 2003; Van de Vliert, 2013). Notably, the
+
+effects of suboptimal climates are particularly felt in countries that do not have the financial
+
+resources to cope with them. According to this climato-economic theory, increased climatic
+
+stress should lead to greater individualism in richer countries, but a shift toward collectivism in
+
+poorer countries (Van de Vliert, 2013).
+
+The Current Research
+
+       We performed a formal analysis of change over 51 years in a subset of individualistic
+
+practices and values across 77 countries, which varied in their economic development (e.g.,
+
+highly-developed Switzerland vs. less-developed Malawi) and geographic diversity. To assess
+
+whether the rise in individualism is a global phenomenon, we extended previous work on
+
+changes in IC that was conducted in a few industrialized countries (Greenfield, 2013; Grossmann
+
+& Varnum, 2015; Hamamura, 2012; Zeng & Greenfield, 2015) to a more representative sample
+
+of societies. We also examined how certain socio-ecological factors – socioeconomic
+
+development, disaster frequency, pathogen prevalence and climatic-stress – account for
+
+pancultural IC shifts.
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 8
+
+
+                                                Methods
+
+       We focused on behavioral choices resulting in individualist vs. collectivist practices (e.g.,
+
+living alone vs. living together with grandparents; Triandis, 1995) and values associated with
+
+individualism (e.g., valuing independence; Hamamura, 2012). In line with previous research
+
+(Grossmann & Na, 2014; Hofstede, 2001), we conceptualized cultural-level changes in
+
+individualism vs. collectivism as a single country-level dimension, acknowledging that
+
+individualism and collectivism may be independent from each other when explored on the
+
+individual level of analysis (Grossmann & Na, 2014; Schimmack, Oishi, & Diener, 2005;
+
+Triandis, 1995).
+
+Country Selection
+
+       Table 1 shows all countries used in the analyses and the source of their data. For the
+
+analysis of individualistic practices, we selected 41 countries that had at least three data points of
+
+national census data (i.e. covering at least two decades between 1960 and 2011, as most census
+
+data is collected every 10 years). We retrieved this data from the Integrated Public Use
+
+Microdata Series, International database (IPUMS; see Supplemental Table S1 for a full list of
+
+databases used) which standardized measures such that indicators can be easily compared to each
+
+other regardless of the source country or survey. For the analysis of individualistic values, we
+
+selected 52 countries that had at least three data points over 10 years in the World Values Survey
+
+and European Values Survey integrated database (WVS). We chose a shorter range of time since
+
+the WVS was collected in more frequent waves. Of these countries, 16 were also part of the
+
+countries used for individualistic practices.
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 9
+
+
+Table 1.
+List of Countries in the IPUMS and WVS Samples.
+              IPUMS alone                IPUMS and WVS                      WVS alone
+    Bangladesh             Israel           Argentina         Albania               Lithuania
+      Bolivia              Kenya             Austria          Armenia               Macedonia
+       Brazil             Malawi             Canada           Australia               Malta
+   Burkina Faso           Malaysia            Chile          Azerbaijan             Moldova
+    Cameroon                Mali              France          Belarus              Netherlands
+     Colombia            Nicaragua          Hungary           Belgium              New Zealand
+    Costa Rica            Panama               India          Bulgaria                Nigeria
+ Dominican Republic     Puerto Rico          Ireland            China                Norway
+      Ecuador             Thailand           Mexico            Croatia                 Peru
+        Fiji             Venezuela          Morocco        Czech Republic             Poland
+      Greece              Vietnam            Portugal        Denmark            Russian Federation
+       Haiti              Zambia            Romania           Estonia                Slovenia
+     Indonesia                                Spain           Finland              South Africa
+                                           Switzerland        Georgia              South Korea
+                                           United States     Germany                 Sweden
+                                            Uruguay            Iceland                Turkey
+                                                                 Italy               Ukraine
+                                                                Japan            United Kingdom
+                                                                Latvia
+
+
+
+Socio-Ecological Factors
+
+       Socioeconomic development. We examined markers of socioeconomic development that
+
+should be associated with differences in individualism: shifts from agriculture to a service
+
+economy, occupational prestige, educational attainment, income, urbanization (Greenfield, 2009;
+
+Grossmann & Varnum, 2015; Inglehart & Baker, 2000; Kraus et al., 2012).
+
+       White-collar vs. agricultural jobs. We examined whether people had white-collar jobs
+
+(i.e., more developed) or agricultural jobs (i.e., less developed; Greenfield, 2009). Using
+
+harmonized census data from IPUMS, we took the percentage of people with occupations
+
+classified as “skilled agricultural, forestry, and fishery workers” as a measure of agricultural
+
+jobs. We also took the percentage of people with occupations classified as “legislators, senior
+
+officials, and managers,” “professionals,” “technicians and associate professionals,” “clerks,”
+                                                    GLOBAL INCREASES IN INDIVIDUALISM 10
+
+
+and “service workers and shop and market sales” as a measure of white-collar jobs. We then
+
+computed the difference between the percentages of agriculture jobs from those of white-collar
+
+jobs, such that higher scores represent more white-collar jobs in society.
+
+       Occupational prestige. We obtained occupation data coded by IPUMS into the major
+
+categories in the 1988 International Standard Classification of Occupations scheme. We
+
+weighted these categories using the 1996 Standard International Occupational Prestige Scale,
+
+which reflects popular evaluation of occupational standing across multiple countries. Higher
+
+scores indicate jobs with greater prestige.
+
+       Educational attainment. We used harmonized census data on educational attainment that
+
+was already recorded in the IPUMS database using a standard, 4-point scale (1 – less than
+
+primary completed to 4 – university completed).
+
+       Income. We used gross domestic product (GDP) as an indicator of income. Following
+
+recommendations by Deaton (2008), we log transformed the GDP per capita (current US$) from
+
+the World Bank database.
+
+       Urbanization. Using the same harmonized census data, we calculated the percentage of
+
+households coded as urban.
+
+       These variables were correlated to each other in the expected direction, .17 < |τ|s < .74
+
+(see Supplementary Table S2). To simplify these data, we computed a composite score of
+
+individualistic socioeconomic development by standardizing and getting the mean of agriculture
+
+vs. white-collar jobs, occupational prestige, educational attainment, income, and urbanization. To
+
+account for missing data when computing the composite score, we used linear interpolation
+
+between any two data points, which were no more than ten years apart (we had income data for
+
+almost every year in the sample, and thus no interpolation was necessary for this variable).
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 11
+
+
+Countries in the IPUMS countries included measures of agriculture vs. white-collar jobs,
+
+occupational prestige, educational attainment, and urbanization. For the other countries, we used
+
+the standardized income data. The findings were similar with and without the countries that only
+
+had income data (see Supplementary Analyses).
+
+       Disaster frequency. We obtained data on disaster prevalence from 1960 to the present
+
+from the International Disaster Database, maintained by the Centre for Research on the
+
+Epidemiology of Disasters in Belgium. Disasters were classified as natural (e.g., earthquakes,
+
+storms, floods) or technological (e.g., fire, chemical spill, transportation accidents) events where
+
+at least one of the following criteria was met: 10 or more people dead, 100 or more people
+
+affected, declaration of a state of emergency, or call for international assistance. We log-
+
+transformed these values to address issues of skew and kurtosis.
+
+       Pathogen prevalence. We obtained annual data on the incidence of infectious diseases
+
+from the Global Health Observatory data repository. We selected 7 diseases that had data
+
+spanning at least 20 years: cholera, diphtheria, measles, neonatal tetanus, pertussis, total tetanus,
+
+and tuberculosis. To estimate the prevalence of these diseases, we divided the number of
+
+incidences of each disease by the total annual population, taken from the World Bank database.
+
+We then took the sum of all of these ratios as an overall measure of the prevalence of infectious
+
+pathogens.
+
+       Climate. We obtained the monthly mean temperature for each country from the Climate
+
+Change Knowledge Portal database. These data were obtained from thousands of weather
+
+stations all throughout the world and should represent the average climate across the whole
+
+country. We then calculated the annual mean from this data and took the absolute value of the
+                                                    GLOBAL INCREASES IN INDIVIDUALISM 12
+
+
+difference between the annual mean and 22 C as a measure of the deviation from the optimal
+
+temperature for humans (Van de Vliert, 2013).
+
+Individualism-Collectivism
+
+       Practices. Previous work has examined shifts in individualism by looking at changes in
+
+choices people make concerning their living arrangements. Individualistic people are more likely
+
+to have smaller households, live alone, less likely to personally care for their parents and
+
+grandparents by living with them, and more likely to be divorced (Grossmann & Varnum, 2015;
+
+Triandis, 1995; Vandello & Cohen, 1999). To measure these behaviors, we analyzed harmonized
+
+census data from IPUMS.
+
+       Household size. We obtained the mean number of relatives (by blood, marriage, or
+
+adoption) in the household. Individualistic families would be more likely to live alone and have
+
+smaller households, so we reverse-scored this measure.
+
+       Living alone. We calculated the percentage of households that only had one member. We
+
+expected this percentage to be higher in more individualistic countries.
+
+       Older adults living alone. We calculated the percentage of single-member households
+
+with members aged 60 or older. We also expected this to be higher in more individualistic
+
+countries.
+
+       Divorce. We calculated the percentage of people who were divorced or separated as
+
+opposed to married or widowed. We also expected this to be higher in more individualistic
+
+countries.
+
+       These variables were correlated to each other in the expected direction, .27 < |τ|s < .69,
+
+with the exception of older adults living alone and divorce, τ = .02 (see Supplementary Table
+
+S3). Therefore, after pooling all measures such that higher values indicate greater individualism,
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 13
+
+
+they were standardized across all years and countries with available data. The mean of these
+
+standardized values was computed as an annual measure of individualistic practices. Notably,
+
+tests without divorce as part of the IC composite yielded similar results to those reported below
+
+(see Supplementary Analyses). We also looked at the number of children born, single-child
+
+families, and married couples with no children as part of the individualism index, but since these
+
+variables are closely related to life history strategies, we did not include them in the main
+
+analysis. We found similar findings with these variables in the composite (see Supplementary
+
+Analyses).
+
+       Values. Aside from changes in practices, culture is also manifested in the values held by
+
+a country. We used the following three items from the World Values Survey that have been used
+
+as indices of individualism-collectivism in prior cross-cultural research and have been linked to
+
+established self-report and non-self-report measures of individualism-collectivism (Hamamura,
+
+2012; Inglehart & Oyserman, 2004).
+
+       Importance of friends vs. family. Respondents answered two four-point items asking
+
+them about the importance of their friends and their family (1 – very important to 4 – not very
+
+important). The scales were reverse scored so that higher mean scores indicated greater value
+
+given to friends and family. We then subtracted the score for friends from the one of family, so
+
+that this difference represents the importance of friendship relative to family. Higher scores on
+
+this measure reflect a lower relative emphasis on the family, which is associated with less
+
+collectivism (Hamamura, 2012; Triandis, 1995).
+
+       Independent children. We calculated the percentage of respondents who said that it was
+
+important to teach the value of independence to their children (dichotomous yes/no measure).
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 14
+
+
+Individualistic societies socialize children to be more independent, in contrast to collectivistic
+
+societies, which put greater emphasis on obedience (Hamamura, 2012; Triandis, 1995).
+
+       Preference for self-expression. Respondents were asked to think about their country’s
+
+goals in the future and select two out of the four goals that would be important to them. If they
+
+picked at least one self-expression goal (i.e., “Giving people more say in important government
+
+decisions” or “Protecting freedom of speech”), they were coded as valuing self-expression,
+
+which is nomologically linked to the notion of individualism (Inglehart & Oyserman, 2004).
+
+       These variables were correlated to each other, .11 < |τ|s < .24 (see Supplementary Table
+
+S4). After pooling variables to be in the same direction, a composite score of individualistic
+
+values was computed by standardizing values for each year across all countries and then getting
+
+their mean.
+
+Data Analysis
+
+       We performed all analyses in the R language for statistical computing (see
+
+Supplementary Table S1 for a list of the main R packages used). To reproduce all results, see
+
+publicly available code and data at osf.io/au4x3. We computed two averaged index scores out of
+
+multiple measures: individualistic practices and values. To allow the computation of composite
+
+scores, we standardized all of our individualism and socioeconomic development variables
+
+before analysis. We calculated z-scores using the grand means and standard deviations taken
+
+across all years and countries in the sample (as opposed to calculating them within each country
+
+or year), since we were interested in countries’ level of individualism and socioeconomic
+
+development relative to other countries and time periods overall (Hox, 2002). Following
+
+recommendations for longitudinal analyses, we set the first time point to zero.
+                                                    GLOBAL INCREASES IN INDIVIDUALISM 15
+
+
+       We performed multilevel modeling (MLM) with the lme4 and lmerTest packages for R,
+
+because differences between countries explained a significant part of the variance in
+
+individualism – 54% for practices and 30% for values (intra-class correlations are .73 and .54,
+
+respectively). This variance pattern necessitates the use of MLM to control for these differences
+
+(Hox, 2002).
+
+       We nested data per year within countries and treated the proposed predictors as fixed
+
+effects, controlling for differences between countries (i.e. random effects; Hox, 2002). Since we
+
+expected countries to vary in their starting values, we allowed the intercepts to be random in our
+
+analyses. Similar to other statistical programs (e.g., SPSS, SAS), we estimate statistical
+
+significance using the Satterthwaite approximation for denominator degrees of freedom. To
+
+estimate the relative effect size of main effects, we chose to use marginal R-squared values (R2m),
+
+which estimates the proportion of residual variance explained by the predictors only (i.e.,
+
+irrespective of the variance explained by between-country differences; Nakagawa & Schielzeth,
+
+2013), using the MuMIn package for R.
+
+       Notably, caution should be taken when estimating the R-squared term of interactions
+
+between two variables in a multi-level models. This is because the marginal R-squared
+
+estimation for multi-level models does not estimate the effect size of the interaction term per se.
+
+Rather, it estimates the effect size of the whole model, which includes the main effects.
+
+Therefore, to clarify the incremental effect of the interaction term, we reported Akaike
+
+Information Criterion (AIC) which allows for exact model comparisons (Hox, 2002). For AIC,
+
+lower scores indicate a better model. We calculated the change in AIC (ΔAIC) by subtracting the
+
+AIC of the model with the interaction effect from the model with only main effects. An ΔAIC >
+                                                    GLOBAL INCREASES IN INDIVIDUALISM 16
+
+
+2 would indicate that the interaction model is a superior model (i.e. it explains additional
+
+variance as compared to a model with main effects alone).
+
+                                              Results
+
+Change in Individualism over Time
+
+       We performed formal modeling of the rate of individualism changes over time, by adding
+
+year as a predictor in the model. In support of our first hypothesis, we observed increased
+
+individualism over time both in terms of both practices, B = 0.02, SE = 0.001, t(142.03) = 13.54,
+
+p < .001, R2m = .12, and values, B = 0.03, SE = 0.004, t(191.88) = 9.76, p < .001, R2m = .12,
+
+suggesting that since 1960, individualism has increased by about 12 percent worldwide.
+
+       Supplementary regional and country-specific analyses indicated that individualism has
+
+been on a rise across all regions and in most of the countries we examined (see Supplementary
+
+Table S5). For cultural practices, only four countries (Cameroon, Malawi, Malaysia, and Mali )
+
+showed a non-negligible reversal in the direction of change, whereas 34 out of 41 countries
+
+exhibited a substantial change in the predicted direction (see Figure 1 and Supplementary Table
+
+S6). For values, only five countries (Armenia, China, Croatia, Ukraine, and Uruguay) showed a
+
+non-negligible reversal in the direction of change, whereas 37 out of 51 countries exhibited a
+
+substantial change in the predicted direction (see Figure 2 and Supplementary Table S7). We
+
+consider possible reasons why this handful of countries showed a different trend then the rest of
+
+the world in the discussion. In summary, overall we observed increasing individualism in the
+
+vast majority of sampled countries. Notably, despite dramatic shifts towards greater
+
+individualism around the world, Figures 1 and 2 indicate that cultural differences remain sizeable
+
+up to this day.
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 17
+
+
+
+
+Fig. 1.
+Change in Individualistic Practices over Time. For each country, lines are drawn between the
+first and last data points for individualism (standardized). The bold black line represents the line
+of best fit across all data points and the bold dashed lines represent 95% confidence intervals.
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 18
+
+
+
+
+Fig. 2.
+Change in Individualistic Values over Time. For each country, lines are drawn between the first
+and last data points for individualism (standardized). The bold black line represents the line of
+best fit across all data points and the bold dashed lines represent 95% confidence intervals.
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 19
+
+
+Predictors of Change in Individualism
+
+        Next, we examined how socio-ecological changes impacted shifts in individualism. Prior
+
+work (e.g., Grossmann & Varnum, 2015; Inglehart & Baker, 2000) suggests that increases in
+
+socioeconomic development, disaster frequency, and pathogen prevalence would accompany
+
+increases in individualism. As shown in Table 2, these hypotheses were mostly supported:
+
+increases in socioeconomic development (SED), practices: R2m = .58, values: R2m =.35 and
+
+decreases in pathogen prevalence, practices: R2m = .03, values: R2m = .02, were linked to
+
+increases in individualism. Notably, increases in disaster frequency led to increases in
+
+individualistic practices but not values, practices: R2m =.09, values: R2m =.01. In addition, there
+
+was a significant interaction between climate and socioeconomic development for practices,
+
+ΔAIC = 7.30, but not values, ΔAIC = 0.40 (ΔAIC > 2 indicates a sizable difference between the
+
+models with and without an interaction term). Specifically, the harsher the climate, the more
+
+strongly SED was associated with shifts towards individualistic practices (see Figure 3). This
+
+finding is partially consistent with the climato-economic theory of cultural change (Van de
+
+Vliert, 2013). Recall that the theory predicts that in less developed countries, harsher climate
+
+would promote less individualism, whereas in more developed countries, harsher climate would
+
+promote more individualism. Here, we observe that in lower SED countries changes in climate
+
+were related to decreases in individualism, whereas in more developed SED countries they were
+
+not related.
+
+Table 2.
+Effect of Socio-Ecological Factors on Individualistic Practices and Values.
+      Socioeconomic                                                          Climate x Socioeconomic
+                            Disaster Frequency      Pathogen Prevalence
+       Development                                                                 Development
+    B(SE)         t(df)      B(SE)         t         B(SE)         t            B(SE)           t
+     0.66        15.46        0.58       5.81         -0.18      -3.25           0.02         3.13
+  (0.04)***    (181.22)    (0.10)***   (114.31)     (0.05)**   (116.22)       (0.007)**     (181.79)
+     0.59        9.51         0.19       1.46         -0.19      -2.71           0.02         1.58
+  (0.06)***    (188.64)      (0.13)    (178.85)     (0.07)**   (221.32)         (0.01)      (156.49)
+                                                                                GLOBAL INCREASES IN INDIVIDUALISM 20
+
+
+Note: Estimates from a multi-level model analysis, with annual data nested within country data.
+The top row shows findings for individualistic practices; the bottom row shows those for
+individualistic values. We calculated grand means and standard errors based on all countries and
+years in the sample.
+
+
+                                                                Low SED            High SED
+
+                                               1.0
+                   Individualistic Practices
+
+
+
+                                               0.5
+                          (z-scores)
+
+
+
+
+                                               0.0
+
+                                               -0.5
+
+                                               -1.0
+
+                                               -1.5
+                                                      Optimal Climate (± 0 C)       Harsh Climate (± 30 C)
+
+
+Fig. 3.
+Effect of Effect of Climate Change (from Optimal to Harsh) and Socioeconomic Development
+(SED) on Change in Individualistic Practices. High/low SED plotted at the 25th/75th percentiles
+of Change in SED.
+
+       Across these factors, socioeconomic development had the strongest effect; between 35%
+
+and 58% of the change in individualism over time can be attributed to shifts in socioeconomic
+
+development (almost four times as much as the next largest predictor). Looking more closely at
+
+individual measures of socioeconomic development, increases in the proportion of white-collar
+
+vs. agriculture jobs, practices: R2m = .42, values: R2m = .42, occupational prestige, practices: R2m
+
+= .33, values: R2m = .25, educational attainment, practices: R2m = .60, values: R2m = .46, income,
+
+practices: R2m = .40, values: R2m = .38, were all associated with rises in individualism (see Table
+
+3). Increases in urbanization was only associated with increases in practices, practices: R2m = .25;
+
+we did not have enough data to examine the relationship for values. In summary, although all
+
+measures of income are strong correlates of cultural change, type of job, education, and income
+
+are particularly powerful factors. The effect of socioeconomic development also held when
+
+controlling for year, disaster frequency, pathogen prevalence, and climate.
+                                                                     GLOBAL INCREASES IN INDIVIDUALISM 21
+
+
+Table 3.
+Socioeconomic Development Predictors of Individualistic Practices and Values.
+    White-Collar vs.     Occupational Prestige         Educational              Income               Urbanization
+    Agriculture Jobs                                   Attainment
+   B(SE)         t(df)     B(SE)         t(df)     B(SE)          t(df)     B(SE)        t(df)     B(SE)        t(df)
+    1.22         9.81       0.19        8.45        1.16         16.09       0.69       13.15       1.52        6.44
+ (0.12)***    (148.55)   (0.02)***    (155.81)   (0.07)***     (179.73)   (0.05)***   (158.58)   (0.24)***    (119.00)
+    1.38         4.55       0.10        3.34        0.83          5.53       0.87       10.03
+                                                                                                    --              --
+ (0.30)***     (19.30)    (0.03)**     (25.68)   (0.15)***      (27.28)   (0.09)***   (182.74)
+Note: Estimates from a multi-level model analysis, with annual data nested within country data.
+The top row shows results for individualistic practices; the bottom row shows results for
+individualistic values. We calculated grand means and standard errors based on all countries and
+years in the sample. There was not enough data to conduct MLM analyses for urbanization and
+values.
+
+Socioeconomic Development as a Mediator
+
+         Although the MLM analyses reported above show a correlation between socio-ecological
+
+factors and individualism, they do not necessarily imply a causal relationship. Given that
+
+socioeconomic development was the only non-negligible correlate of individualism in our prior
+
+analyses, we focused on this factor for subsequent analyses of lagged effects and mediation (see
+
+Supplementary Analyses for findings with the other factors).
+
+         First, we looked at the lagged effects of socioeconomic development, as previous work
+
+has suggested that relationships between ecology and cultural change may occur at a lag (e.g.,
+
+Grossmann & Varnum, 2015). We expected changes in socioeconomic development to be
+
+associated with similar shifts in individualism 10 years later (i.e., a 10-year lead), suggesting a
+
+causal path from the former variable to the latter. We chose to lead the data by 10 years, since
+
+most census data is collected by the decade (we also found similar findings with shorter leads;
+
+see Supplementary Analyses). By leading the individualism data by 10 years, and running an
+
+MLM analysis, we found that changes in socioeconomic development resulted in subsequent
+
+shifts in individualistic practices, B = 0.59, SE = 0.04, t(154.03) = 13.55, p < .001, R2m = .48, and
+
+values, B = 0.46, SE = 0.09, t(36.70) = 5.27, p < .001, R2m = .43.
+                                                     GLOBAL INCREASES IN INDIVIDUALISM 22
+
+
+       Next, we tested whether socioeconomic development could explain the effect of time on
+
+individualism. Using the mediation package in R, we conducted mediation analyses in MLM
+
+with time predicting individualistic practices and values, both set 10 years later, with SED as a
+
+mediator (see Figure 4). The conditions for establishing mediation were met as the 95%
+
+confidence interval of the indirect effects did not include zero, practices: 95% CI [0.01, 0.02],
+
+values: 95% CI [0.003, 0.01], suggesting that the rise of individualism was in part explained by
+
+an increase in socioeconomic development (see supplementary analysis for similar mediation
+
+results without a 10-year lead). Taken together, the lagged and mediation analyses lend support
+
+to a causal relationship between socioeconomic development and individualism.
+
+
+
+
+Fig. 4.
+Indirect Effect of Time on Individualism (10-year Lead) through Socioeconomic Development.
+Unstandardized coefficients and standard errors are shown. The values in parentheses show the
+relationship between time and the individualism after controlling for Socioeconomic
+Development. †p< .10, *p< .05, **p<.01, ***p<.001.
+
+
+                                            Discussion
+
+       Is the rise of individualism a global phenomenon? Our analysis of data across 51 years
+
+and 77 countries suggests that the answer is yes. Thirty-four (out of 41) countries showed a
+
+substantial rise in individualist practices. Thirty-seven (out of 52) countries showed a similar rise
+
+on a subset of markers assessing individualist values. The IC change for practices and values
+                                                      GLOBAL INCREASES IN INDIVIDUALISM 23
+
+
+were similar at around 12%. Overall, these results show that a shift toward greater individualism
+
+is not confined to the developed world.
+
+       Increasing individualism appears to be linked to several previously theorized sources of
+
+cultural variation, including socioeconomic development, disaster frequency, pathogen
+
+prevalence, and climatic variations. Notably, the last three factors only affected individualistic
+
+practices, not values. Of these ecological dimensions, socioeconomic development emerged as
+
+the key predictor, explaining between 35 and 58% of the variance in IC-related change over
+
+time. Moreover, we found that changes in socioeconomic development mediated the effect of
+
+time on individualism, and increases in socioeconomic development preceded increases in
+
+individualism. Future research could examine how regional variations in these predictors might
+
+influence the rate of cultural change.
+
+       We observed a few exceptions to the global rise in individualism. Cameroon, Malawi,
+
+Malaysia, and Mali showed a decline in individualistic practices and Armenia, China, Croatia,
+
+Ukraine, and Uruguay showed a non-negligible decline in individualistic values. Also, several
+
+countries did not change much over time (see Supplementary Analyses). Consistent with the
+
+observation that socioeconomic development is driving the rise in individualism, most of these
+
+countries were among the lowest in socioeconomic development over the same time period.
+
+China is an exception to this pattern, showing a decrease in IC-practices and -values,
+
+respectively. Notably, China has a complex socioeconomic history, making it worthwhile to
+
+investigate them in more detail in future research.
+
+       In the current work cultural changes in IC are mostly viewed as evoked responses,
+
+whereby environmental cues or conditions lead to adaptive behavioral and psychological
+
+responses. However, cultural transmission likely plays a role in the phenomena we observed.
+                                                    GLOBAL INCREASES IN INDIVIDUALISM 24
+
+
+Ecologically-driven changes in individual responses may also lead to changes in norms and
+
+institutions that reflect and promote an individualistic orientation. And consistent with the notion
+
+that cultural transmission is involved in cultural changes in IC, Newson and Richerson (2009)
+
+propose that close interaction with kin promotes social learning about reproductive fitness. They
+
+argue that the transmission of this information would encourage more traditional and
+
+collectivistic values. In this view, the rise of modern economies has led to greater contact with
+
+non-kin vs. kin; hence, individualism should increase. An important future direction in the study
+
+of cultural change will be integrating theory and research on cultural evolution, which tends to
+
+focus more on processes of cultural transmission, with work (such as the present study) on how
+
+specific ecological changes may lead to specific patterns of cultural change.
+
+       Before concluding, let us consider some caveats. First, the present work focused on the
+
+role of relatively proximal ecological factors for changes in individualism-collectivism. There
+
+are also several distal historical explanations that have been advanced to explain variations and
+
+potentially shifts in IC, including modes of subsistence (e.g., Talhelm et al., 2014) and migration
+
+to frontiers (Kitayama et al., 2010). Ecological factors might drive such trends or mediate the
+
+effects of such events on IC. A key future direction in studying cultural change will involve a
+
+theoretical or modelling-based (cf. Oishi & Kesebir, 2012) integration of proximal and distal
+
+explanations. Further, though present research focused on overall shifts of common features of
+
+IC over time, some aspects of individualism may deviate from these general patterns
+
+(Hamamura, 2012; Kashima, 2014; Kitayama et al., 2010). Indeed, there is emerging evidence
+
+that IC may be more multifaceted than previously believed (Vignoles et al., 2016). Moreover, we
+
+had a limited number of data points available per country, and our analyses were constrained to
+
+linear models of change. With the prospect of greater availability of cross-temporal data, future
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 25
+
+
+work may explore more fine-grained models integrating social ecology and a multi-faceted IC
+
+construct, making the study of cultural change an exciting scientific endeavor in the years ahead.
+                                                  GLOBAL INCREASES IN INDIVIDUALISM 26
+
+
+                                    Author Contributions:
+
+I.G. developed the study concept. All authors contributed to study design. Data analysis was
+conducted by H.S. under the supervision of I.G. H.S. and I.G. drafted the manuscript and M.V.
+provided critical revisions. All authors approved the final version of the manuscript for
+submission.
+
+                                     Acknowledgements:
+
+We thank Sylvia Cheng, Jacklyn Koyama, and Reanne Howard for research assistance. Work on
+this manuscript was supported by the Insight grant #435-2014-0685 from the Social Sciences and
+Humanities Research Council of Canada to Igor Grossmann.
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 27
+
+
+
+                                          References
+
+Deaton, A. (2008). Income, health, and well-being around the world : Evidence from the Gallup
+
+    World Poll. Journal of Economic Perspectives, 22(2), 53–72.
+
+
+Greenfield, P. M. (2009). Linking social change and developmental change: Shifting pathways of
+
+    human development. Developmental Psychology, 45(2), 401–418.
+
+    http://doi.org/10.1037/a0014726
+
+
+Greenfield, P. M. (2013). The changing psychology of culture from 1800 through 2000.
+
+    Psychological Science, 24, 1722–1731. http://doi.org/10.1177/0956797613479387
+
+
+Grossmann, I., & Na, J. (2014). Research in culture and psychology: Past lessons and future
+
+    challenges. Wiley Interdisciplinary Reviews: Cognitive Science, 5, 1–14.
+
+    http://doi.org/10.1002/wcs.1267
+
+
+Grossmann, I., & Varnum, M. E. W. (2015). Social structure, infectious diseases, disasters,
+
+    secularism, and cultural change in America. Psychological Science, 26, 311–324.
+
+    http://doi.org/10.1177/0956797614563765
+
+
+Hamamura, T. (2012). Are cultures becoming individualistic? A cross-temporal comparison of
+
+    Individualism-Collectivism in the United States and Japan. Personality and Social
+
+    Psychology Review, 16(1), 3–24. http://doi.org/10.1177/1088868311411587
+
+
+Hofstede, G. (2001). Culture’s consequences: Comparing values, behaviors, institutions and
+
+    organizations across nations (2nd ed.). Thousand Oaks, CA: Sage Publications.
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 28
+
+
+Hox, J. (2002). Multilevel analysis. 2002. Mahwah, NJ: Lawrence Erlbaum.
+
+
+Inglehart, R. F., & Baker, W. E. (2000). Modernization, cultural change, and the persistence of
+
+     traditional values. American Sociological Review, 65(1), 19–51.
+
+     http://doi.org/10.2307/2657288
+
+
+Inglehart, R. F., & Oyserman, D. (2004). Individualism, autonomy, self-expression: The human
+
+     development syndrome. In H. Vinken, J. Soeters, & P. Ester (Eds.), Comparing cultures:
+
+     Dimensions of culture in a comparative perspective (pp. 76–96). Leiden, The Netherlands:
+
+     Brill.
+
+
+Kağıtçıbaşı, Ç. (2007). Family, self, and human development across cultures. Mahwah, NJ:
+
+     Erlbaum.
+
+
+Kashima, Y. (2014). How can you capture cultural dynamics? Frontiers in Psychology, 5, 1–16.
+
+     http://doi.org/10.3389/fpsyg.2014.00995
+
+
+Kashima, Y., & Kashima, E. S. (2003). Individualism, GNP, climate, and pronoun drop: Is
+
+     individualism determined by affluence and climate, or does language use play a role?
+
+     Journal of Cross-Cultural Psychology, 34(1), 125–134.
+
+     http://doi.org/10.1177/0022022102239159
+
+
+Kitayama, S., Conway, L. G., Pietromonaco, P. R., Park, H., & Plaut, V. C. (2010). Ethos of
+
+     independence across regions in the United States: The production-adoption model of
+
+     cultural change. The American Psychologist, 65(6), 559–574.
+
+     http://doi.org/10.1037/a0020277
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 29
+
+
+Kraus, M. W., Piff, P. K., Mendoza-Denton, R., Rheinschmidt, M. L., & Keltner, D. (2012).
+
+     Social class, solipsism, and contextualism: How the rich are different from the poor.
+
+     Psychological Review, 119, 546–572. http://doi.org/10.1037/a0028756
+
+
+Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion,
+
+     and motivation. Psychological Review, 98(2), 224–253.
+
+
+Morling, B., & Lamoreaux, M. (2008). Measuring culture outside the head: A meta-analysis of
+
+     individualism-collectivism in cultural products. Personality and Social Psychology Review,
+
+     12(3), 199–221. http://doi.org/10.1177/1088868308318260
+
+
+Morris, M. W., Chiu, C., & Liu, Z. (2015). Polycultural psychology. Annual Review of
+
+     Psychology, 66, 631–659. http://doi.org/10.1146/annurev-psych-010814-015001
+
+
+Murray, D. R., Trudeau, R., & Schaller, M. (2011). On the origins of cultural differences in
+
+     conformity: Four tests of the pathogen prevalence hypothesis. Personality & Social
+
+     Psychology Bulletin, 37(3), 318–329. http://doi.org/10.1177/0146167210394451
+
+
+Nakagawa, S., & Schielzeth, H. (2013). A general and simple method for obtaining R2 from
+
+     generalized linear mixed-effects models. Methods in Ecology and Evolution, 4(2), 133–142.
+
+     http://doi.org/10.1111/j.2041-210x.2012.00261.x
+
+
+Naroll, R. (1983). The moral order. Beverly Hills, CA: Sage.
+
+
+Newson, L., & Richerson, P. J. (2009). Why Do People Become Modern? A Darwinian
+
+     Explanation. Population and Development Review, 35(1), 117–158.
+
+     http://doi.org/10.1111/j.1728-4457.2009.00263.x
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 30
+
+
+Ogihara, Y., Fujita, H., Tominaga, H., Ishigaki, S., Kashimoto, T., Takahashi, A., … Uchida, Y.
+
+     (2015). Are common names becoming less common? The rise in uniqueness and
+
+     individualism in Japan. Frontiers in Psychology, 6(1490), 1–14.
+
+     http://doi.org/10.3389/fpsyg.2015.01490
+
+
+Oishi, S., & Graham, J. (2010). Social Ecology: Lost and Found in Psychological Science.
+
+     Perspectives on Psychological Science, 5(4), 356–377.
+
+     http://doi.org/10.1177/1745691610374588
+
+
+Oishi, S., & Kesebir, S. (2012). Optimal social-networking strategy is a function of
+
+     socioeconomic conditions. Psychological Science, 23(12), 1542–1548.
+
+     http://doi.org/10.1177/0956797612446708
+
+
+Schaller, M., & Park, J. H. (2011). The behavioral immune system (and why it matters). Current
+
+     Directions in Psychological Science, 20(2), 99–103.
+
+     http://doi.org/10.1177/0963721411402596
+
+
+Schimmack, U., Oishi, S., & Diener, E. (2005). Individualism: a valid and important dimension
+
+     of cultural differences between nations. Personality and Social Psychology Review, 9(1),
+
+     17–31. http://doi.org/10.1207/s15327957pspr0901_2
+
+
+Talhelm, T., Zhang, X., Oishi, S., Shimin, C., Duan, D., Lan, X., & Kitayama, S. (2014). Large-
+
+     scale psychological differences within China explained by rice versus wheat agriculture.
+
+     Science, 344(6184), 603–608. http://doi.org/10.1126/science.1246850
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 31
+
+
+Thornhill, R., & Fincher, C. L. (2014). The parasite-stress theory of values and sociality. New
+
+     York, NY: Springer.
+
+
+Triandis, H. C. (1995). Individualism and collectivism: New directions in social psychology.
+
+     Boulder, CO: Westview Press.
+
+
+Triandis, H. C. (2009). Ecological determinants of cultural variations. In R. S. Wyer, C. Chiu, Y.
+
+     Hong, & D. Cohen (Eds.), Understanding culture: Theory, research and applications (pp.
+
+     189–210). New York, NY: Psychology Press.
+
+
+Twenge, J. M., Dawson, L., & Campbell, W. K. (2016). Still standing out: Children's names in
+
+     the United States during the Great Recession and correlations with economic indicators.
+
+     Journal of Applied Social Psychology, 46, 663-670. http://doi.org/10.1111/jasp.12409
+
+
+Twenge, J. M., Campbell, W. K., & Gentile, B. (2012). Generational increases in agentic self-
+
+     evaluations among American college students, 1966–2009. Self and Identity, 11, 409–427.
+
+     http://doi.org/10.1080/15298868.2011.576820
+
+
+Van de Vliert, E. (2013). Climato-economic habitats support patterns of human needs, stresses,
+
+     and freedoms. The Behavioral and Brain Sciences, 36(5), 465–80.
+
+     http://doi.org/10.1017/S0140525X12002828
+
+
+Vandello, J. A., & Cohen, D. (1999). Patterns of individualism and collectivism across the
+
+     United States. Journal of Personality and Social Psychology, 77(2), 279–292.
+
+     http://doi.org/10.1037//0022-3514.77.2.279
+                                                   GLOBAL INCREASES IN INDIVIDUALISM 32
+
+
+Varnum, M. E. W., Grossmann, I., Kitayama, S., & Nisbett, R. E. (2010). The origin of cultural
+
+     differences in cognition: Evidence for the social orientation hypothesis. Current Directions
+
+     in Psychological Science, 19(1), 9–13. http://doi.org/10.1177/0963721409359301
+
+
+Vignoles, V. L., Owe, E., Becker, M., Smith, P. B., Easterbrook, M. J., Brown, R., … Bond, M.
+
+     H. (2016). Beyond the “east-west” dichotomy: Global variation in cultural models of
+
+     selfhood. Journal of Experimental Psychology. General, 145(8), 966–1000.
+
+     http://doi.org/10.1037/xge0000175
+
+
+Wachtel, P. L. (1968). Anxiety, attention, and coping with threat. Journal of Abnormal
+
+     Psychology, 73(2), 137–143. http://doi.org/10.1037/h0020118
+
+
+Yamagishi, T., Hashimoto, H., Li, Y., & Schug, J. (2012). Stadtluft macht frei (City air brings
+
+     freedom). Journal of Cross-Cultural Psychology, 43, 38–45.
+
+     http://doi.org/10.1177/0022022111415407
+
+
+Yu, F., Peng, T., Peng, K., Tang, S., Chen, C. S., Qian, X., … Chai, F. (2016). Cultural value
+
+     shifting in pronoun use. Journal of Cross-Cultural Psychology, 47(2): 310-316.
+
+     http://doi.org/ 10.1177/0022022115619230
+
+
+Zeng, R., & Greenfield, P. M. (2015). Cultural evolution over the last 40 years in China: Using
+
+     the Google Ngram Viewer to study implications of social and political change for cultural
+
+     values. International Journal of Psychology, 50, 47–55. http://doi.org/10.1002/ijop.12125
+
