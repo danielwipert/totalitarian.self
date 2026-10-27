@@ -140,3 +140,4 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-26 | Byrne reading | byrne-secret: 25 passages from three chapters of *The Secret* (2006); checkers clean | First carrier test of C5.14 stage 3 |
 | 2026-10-26 | C5.14 stage 3 | A: reached in one carrier, in a new form: the frame absorbed and turned around, not dropped (Byrne 2006); the wider culture untested | byrne.07, .13, .17, .20–.25 |
 | 2026-10-26 | Brown reading | brown-daring-greatly: 25 passages from the introduction and chapters 1–2 of *Daring Greatly* (2012); checkers clean | Mainstream carrier test of C5.14 stage 3 |
+| 2026-10-27 | C5.14 and Brown | A: stage 3 is a strand, not the whole culture; mainstream self-help keeps the self bound to others for support but lets it declare its own worth (C5.14 note added) | brown.01, .03, .05, .06, .21–.24 |
