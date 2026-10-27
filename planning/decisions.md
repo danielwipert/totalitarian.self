@@ -145,3 +145,4 @@ Live copy of SPEC.md §12. Add new decisions here, newest at the bottom.
 | 2026-10-27 | Audit scope | A: re-check only claims about the culture; tag each with its tiers (Evidence audit in `claims.md`); claims about one text keep their status | |
 | 2026-10-27 | Audit results | C5.7 supported → illustrated; C5.14 revised → illustrated; C7.4 revised → illustrated; C8.2, C8.5 revised → untested (core is after 1930); C8.7 supported → revised (no T2/T3, no dissent) | Evidence audit |
 | 2026-10-27 | Next reading | A: Tier 1 critics from both sides (Rieff, Lasch, Bellah, Taylor; dissent Lunbeck), user to pull; Claude fetches T2 data (Greenfield, Wetzel, Santos) | |
+| 2026-10-27 | Santos reading | santos-individualism-2017: 16 passages (Tier 2); checkers clean. The rise since 1960 is global, led by socioeconomic development; the measures capture individualist practices, not the Self as the thesis means it (C1.2 audit row added) | First Tier 2 source after 1930 |

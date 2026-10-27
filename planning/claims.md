@@ -290,6 +290,7 @@ Claims about the culture, tagged by tier under the evidence standard above. T1�
 | ID | T1 critics | T2 data | T3 institutions | T4 carriers | Dissent | Verdict |
 |---|---|---|---|---|---|---|
 | C1.1 | (first half: the texts themselves) | — | — | — | — | first half rests on texts; the "calcified" half is C1.2, untested |
+| C1.2 | — | Santos et al. 2017 (complicates: individualist practices and values rose since 1960 in most countries, "not confined to the developed world"; the measures do not capture a Self that admits no rival frame) | — | — | — | `untested`: the data cannot measure the claim as worded; a survey of what authority people recognize above their own choice is needed |
 | C5.7 | — | — | — | Byrne (social causes vanish); Brown (against) | — | `illustrated` (was `supported`: no Tier 1 or Tier 2 evidence) |
 | C5.14 | James (stage 1) | — | *Casey*, *Lawrence*, *Obergefell* (stage 2) | Trine (1); Byrne, Brown (3) | — | `illustrated`: stage 2 has institutions but no critic; stage 3 has carriers only. Needs Rieff, Lasch, Bellah, Taylor; dissent Lunbeck |
 | C6.1 | Tocqueville, Turner, Dewey | *Middletown* | Winthrop's covenant | Crèvecoeur | — (Hartz needed) | meets T1 + T2; stays `revised` until a dissenting historian is read |
