@@ -1,6 +1,6 @@
 # Sources to pull: the master list
 
-Every copyrighted or hard-to-download source the project still needs, in one place, in the order to pull them. Updated 2026-10-27.
+Every copyrighted or hard-to-download source the project still needs, in one place, in the order to pull them. Updated 2026-10-28.
 
 **How to send a source** (easiest first):
 1. **Upload the EPUB or PDF** in the chat. Claude cuts out the pages needed.
@@ -17,18 +17,19 @@ Chapter titles marked *verify* are from memory: check them against the table of 
 
 | # | Tier | Work | What to pull | Tests |
 |---|---|---|---|---|
-| 1 | T1 | Philip Rieff, *The Triumph of the Therapeutic* (1966) | Ch. 1 (the therapeutic as a new character type); the conclusion | C5.14, C4.30, C6.13 |
-| 2 | T1 | Christopher Lasch, *The Culture of Narcissism* (1979) | Ch. II (the narcissistic personality); the chapter on the therapeutic sensibility (*verify*) | C5.14, C7.6, C7.7, C10.1 |
-| 3 | T1 + T2 | Robert Bellah et al., *Habits of the Heart* (1985) | The chapters on *expressive* and *utilitarian* individualism (*verify*); the interview with "Sheila" if present (*verify*) | C5.14, C6.*, C7.2, C8.6 |
-| 4 | T1 | Charles Taylor, *The Ethics of Authenticity* (1991) | Chapters 1–3 | C5.5, C5.14, C10.* |
-| 5 | T1 (dissent) | Elizabeth Lunbeck, *The Americanization of Narcissism* (2014) | Introduction; the chapters on Lasch | C10.1, C7.6, C7.7 |
-| 6 | T2 | Eunike Wetzel et al., "The Narcissism Epidemic Is Dead; Long Live the Narcissism Epidemic," *Psychological Science* (2017) | Whole article. **Free PDF:** [Tilburg University repository](https://research.tilburguniversity.edu/en/publications/a52493ea-9971-4748-8b23-48ec25063b3a) (download in a browser) | C7.8 (against) |
-| 7 | T2 | Patricia Greenfield, "The Changing Psychology of Culture From 1800 Through 2000," *Psychological Science* (2013) | Whole article. **Free PDF:** [UCLA Greenfield Lab](https://greenfieldlab.psych.ucla.edu/wp-content/uploads/sites/168/2019/01/54-Greenfield-The-changing-psychology-of-culture-from-1800-through-2000-1....pdf) | Dating the change (C1.2) |
-| 8 | T1 + T2 | Christian Smith with Melinda Denton, *Soul Searching* (2005) | The chapter on "moralistic therapeutic deism" | C5.14, C9.2–C9.4: a survey that asks what authority people recognize |
-| 9 | T1 | Carl R. Trueman, *The Rise and Triumph of the Modern Self* (2020) | Introduction and Part 1 | C1.1, C5.14, C10.1: the nearest rival thesis |
-| 10 | T1 | David Riesman, *The Lonely Crowd* (1950) | The chapters introducing tradition-, inner- and other-directed character (Part I, opening chapters; *verify*) | C8.6, C8.2, C5.14, C6.13 |
-| 11 | T1 | Kenneth Burke, *Language as Symbolic Action* (1966) | "Terministic Screens" (the whole essay) | C5.1–C5.3: the essay's diagnostic tool |
-| 12 | T1 | Andreas Reckwitz, *The Society of Singularities* (Polity, 2020) | Introduction; the chapter on the singular self (*verify*) | C4.15, C8.2, C6.13 |
+| 1 | T1 | Kenneth Burke, *Language as Symbolic Action* (1966) | "Terministic Screens" (the whole essay) | the working definition of the Totalitarian Self (C5.3); C5.1–C5.3: the essay's diagnostic tool |
+| 2 | T1 | Kenneth Burke, *Permanence and Change* (1935) | The sections on *trained incapacity* and *occupational psychosis* (*verify*) | C5.4 (is the feedback loop Burke's own idea?), C5.3 |
+| 3 | T1 | Philip Rieff, *The Triumph of the Therapeutic* (1966) | Ch. 1 (the therapeutic as a new character type); the conclusion | C5.14, C4.30, C6.13 |
+| 4 | T1 | Christopher Lasch, *The Culture of Narcissism* (1979) | Ch. II (the narcissistic personality); the chapter on the therapeutic sensibility (*verify*) | C5.14, C7.6, C7.7, C10.1 |
+| 5 | T1 + T2 | Robert Bellah et al., *Habits of the Heart* (1985) | The chapters on *expressive* and *utilitarian* individualism (*verify*); the interview with "Sheila" if present (*verify*) | C5.14, C6.*, C7.2, C8.6 |
+| 6 | T1 | Charles Taylor, *The Ethics of Authenticity* (1991) | Chapters 1–3 | C5.5, C5.14, C10.* |
+| 7 | T1 (dissent) | Elizabeth Lunbeck, *The Americanization of Narcissism* (2014) | Introduction; the chapters on Lasch | C10.1, C7.6, C7.7 |
+| 8 | T2 | Eunike Wetzel et al., "The Narcissism Epidemic Is Dead; Long Live the Narcissism Epidemic," *Psychological Science* (2017) | Whole article. **Free PDF:** [Tilburg University repository](https://research.tilburguniversity.edu/en/publications/a52493ea-9971-4748-8b23-48ec25063b3a) (download in a browser) | C7.8 (against) |
+| 9 | T2 | Patricia Greenfield, "The Changing Psychology of Culture From 1800 Through 2000," *Psychological Science* (2013) | Whole article. **Free PDF:** [UCLA Greenfield Lab](https://greenfieldlab.psych.ucla.edu/wp-content/uploads/sites/168/2019/01/54-Greenfield-The-changing-psychology-of-culture-from-1800-through-2000-1....pdf) | Dating the change (C1.2) |
+| 10 | T1 + T2 | Christian Smith with Melinda Denton, *Soul Searching* (2005) | The chapter on "moralistic therapeutic deism" | C5.14, C9.2–C9.4: a survey that asks what authority people recognize |
+| 11 | T1 | Carl R. Trueman, *The Rise and Triumph of the Modern Self* (2020) | Introduction and Part 1 | C1.1, C5.14, C10.1: the nearest rival thesis |
+| 12 | T1 | David Riesman, *The Lonely Crowd* (1950) | The chapters introducing tradition-, inner- and other-directed character (Part I, opening chapters; *verify*) | C8.6, C8.2, C5.14, C6.13 |
+| 13 | T1 | Andreas Reckwitz, *The Society of Singularities* (Polity, 2020) | Introduction; the chapter on the singular self (*verify*) | C4.15, C8.2, C6.13 |
 
 ---
 
@@ -38,10 +39,8 @@ Chapter titles marked *verify* are from memory: check them against the table of 
 
 | Pri. | Work | What to pull | Tests |
 |---|---|---|---|
-| 1 | Carl Rogers, *On Becoming a Person* (1961) | The chapters on becoming a person and on being the self one truly is (*verify*) | C5.14, C8.6 (also a carrier) |
 | 1 | Roland Marchand, *Advertising the American Dream* (1985) | The chapters on 1920s–30s advertising appeals (*verify*) | C8.6, C6.13 |
 | 1 | Thomas Frank, *The Conquest of Cool* (1997) | Introduction and ch. 1 | C8.2, C8.4, C8.6 |
-| 1 | Kenneth Burke, *Permanence and Change* (1935) | The sections on *trained incapacity* and *occupational psychosis* (*verify*) | C5.4 |
 | 2 | Charles Taylor, *A Secular Age* (2007) | Ch. 13, "The Age of Authenticity" (*verify*) | C5.14, C4.30, C8.6 |
 | 2 | Eva Illouz, *Saving the Modern Soul* (2008) | Introduction | C5.14, C6.13 |
 | 2 | Edgar Cabanas & Eva Illouz, *Manufacturing Happy Citizens* (2019) | Introduction; the chapter on work | C7.4, C8.6, C9.6 |
@@ -54,6 +53,7 @@ Chapter titles marked *verify* are from memory: check them against the table of 
 | 2 | Musa al-Gharbi, *We Have Never Been Woke* (2024) | Introduction; the definition of *symbolic capitalists* | C9.6, C9.7 |
 | 2 | Yascha Mounk, *The Identity Trap* (2023) | Introduction | C9.1 (is identity politics the Self, or group identity against it?) |
 | 2 | Kwame Anthony Appiah, *The Lies That Bind* (2018) | Introduction | C9.1 |
+| 2 | Fredric Jameson, "Postmodernism and Consumer Society" (1982 lecture; in Foster, ed., *The Anti-Aesthetic*, 1983, or *The Cultural Turn*, 1998) | The whole essay | C1.4, C10.2 (the short form of the argument already read) |
 | 2 | Lionel Trilling, *Sincerity and Authenticity* (1972) | The chapters on sincerity and on authenticity (*verify*) | C5.5, C4.16, C8.2 |
 | 2 | William H. Whyte, *The Organization Man* (1956) | Part I (*verify*) | C6.13, C8.4, C9.8 |
 | 2 | C. Wright Mills, *White Collar* (1951) | The chapter on the personality market (*verify*) | C8.6, C9.8 |
@@ -108,7 +108,6 @@ Chapter titles marked *verify* are from memory: check them against the table of 
 
 | Pri. | Work | What to pull | Tests |
 |---|---|---|---|
-| 2 | Glennon Doyle, *Untamed* (2020) | The opening "cheetah" essay; the "Keys" section on "Know" (*verify*) | C5.14 stage 3 |
 | 2 | Mike Robbins, *Bring Your Whole Self to Work* (2018) | Introduction; the five principles | C8.6, C9.8 |
 | 2 | Norman Vincent Peale, *The Power of Positive Thinking* (1952) | Ch. 1 and one middle chapter | C5.14, C7.4 |
 | 2 | Dale Carnegie, *How to Win Friends and Influence People* (1936) | Part One; the preface | C8.6, C5.14 |
@@ -144,5 +143,5 @@ Locke, *Essay*, ed. Nidditch (1975); Descartes, Adam & Tannery or Cottingham et 
 
 ## Already in hand
 
-- **Excerpts:** Byrne, *The Secret* (three chapters); Brown, *Daring Greatly* (introduction, chapters 1–2); Santos, Varnum & Grossmann (2017).
+- **Excerpts:** Byrne, *The Secret* (three chapters); Brown, *Daring Greatly* (introduction, chapters 1–2); Doyle, *Untamed* (prologue, Part Two, selected essays); Rogers, *On Becoming a Person* (chapters 1, 6, 8, 9); Jameson, *Postmodernism* (introduction, chapter 1); Santos, Varnum & Grossmann (2017).
 - **Public domain:** 60+ texts in `sources/texts/` (see its README), including the three Supreme Court opinions (*Casey*, *Lawrence*, *Obergefell*).

@@ -49,6 +49,8 @@ These stand or fall with the section claims beneath them.
 | C1.1 | The Self began as two necessary acknowledgments, that each person stands answerable on their own and that each can shape and present themselves, but in the West, and above all in America, it has calcified into a totalizing dogma that suppresses the very truths it was meant to reveal. | conceptual | C4.* | revised |
 | C1.2 | In the West, above all in America, it calcified into a totalizing dogma. | historical | C5.*, C6.* | untested |
 | C1.3 | The totalized Self suppresses the truths it was meant to reveal. | conceptual | C5.7, C7.* | untested |
+| C1.4 | After about 1960 the Self works in two layers. The *lived* subject fragments (Jameson: "the alienation of the subject is displaced by the latter's fragmentation"; there is "no longer a self present to do the feeling"), while the *vocabulary* of the Self grows and admits no rival. The Totalitarian Self is an ideology that grows over a dissolving centred self: it covers the fragments, and cannot be answered to because nothing stable is left to answer. Jameson himself separates the two ("notion (or experience)"). | historical + empirical | Jameson (T1, for the lived layer); word counts of the Self's vocabulary, 1960–2000 (T2: Greenfield and later); Tier 1 critics on the therapeutic culture | untested |
+| C1.5 | The cause changes by period. Before 1900 economic change is background, not cause (C4.5). After about 1960, late capitalism and the Self's vocabulary drive each other: Jameson's culture is "only the reflex and the concomitant" of capitalism's changes, though he allows a "feedback loop", and development leads individualism by about ten years in 78 countries (Santos et al.). The thesis claims the mechanism and the history, not the sole cause. | historical | Jameson (T1); Santos et al. 2017 (T2); Weber, Tawney (C4.5) | untested |
 
 ---
 
@@ -139,7 +141,7 @@ Added 2026-10-23 at the author's request. The author's long-held view is that se
 |---|---|---|---|---|
 | C5.1 | Any vocabulary selects some features of reality and deflects others (terministic screens). | textual | Burke, *Language as Symbolic Action*, "Terministic Screens" | untested |
 | C5.2 | The healthy Self is one such screen, and it works well while other screens remain available. | conceptual | — | untested |
-| C5.3 | The Totalitarian Self is a screen that no longer knows it is a screen; it claims to be the origin of what it sees. | conceptual | — | untested |
+| C5.3 | The Totalitarian Self is a screen that no longer knows it is a screen; it claims to be the origin of what it sees. **Working definition (2026-10-28):** the Totalitarian Self is best defined not as a self but as a terministic screen, a vocabulary that has become the only lens. This explains C1.4: the screen can be total while the lived subject behind it fragments (Jameson). Pressure point: if every vocabulary is a screen (C5.1), the thesis must show what makes this one different, that it admits no rival, not merely that it selects. | conceptual | Burke, "Terministic Screens"; *Permanence and Change*; C1.4, C5.1, C5.4; Jameson | untested |
 | C5.4 | A specialized vocabulary, used long enough in isolation, feeds on itself until it nearly negates other vocabularies (Burke's feedback loop). | textual | Burke, *Language as Symbolic Action*; *Permanence and Change* | untested |
 | C5.5 | The language of Selfhood (authenticity, expression, responsibility, reliance) has run this loop for centuries in the West, and more intensely in America. | historical + empirical | word-frequency data; Taylor; Trilling, *Sincerity and Authenticity* | untested |
 | C5.6 | The metaphysical shift: difference goes from relational to absolute, and the Self from *in* experience to *prior to* it. | conceptual | — | untested |
@@ -274,8 +276,8 @@ Added 2026-10-23 (open question 9). The bridge (§4b) found difference always bo
 
 | ID | Claim | Kind | Test against | Status |
 |---|---|---|---|---|
-| C10.1 | Lasch describes the symptom; this theory supplies the cause, the mechanism and a longer history. | textual | Lasch | untested |
-| C10.2 | The philosophical dissolution of the Self (Hume, Parfit) has had no effect on the cultural Self. | empirical | Hume, *Treatise* I.iv.6; Parfit | untested |
+| C10.1 | Lasch describes the symptom; this theory supplies the cause, the mechanism and a longer history. Challenged on the cause: after 1960 the cause is shared with late capitalism (Jameson; C1.5), so the claim narrows to the mechanism and the longer history. Lasch not yet read. | textual | Lasch; Jameson | challenged |
+| C10.2 | The philosophical dissolution of the Self went together with the *lived* fragmentation of the subject, but not with the *vocabulary* of the Self, which kept growing (C1.4). Dissent: Jameson holds that the cultural subject dissolved along with the philosophical one, theory being "itself very precisely a postmodernist phenomenon", and that "a once-existing centered subject" has dissolved. The vocabulary half waits on word-count data. | empirical | Hume, *Treatise* I.iv.6; Parfit; Jameson (T1, dissent); word counts (T2) | revised |
 
 **Pressure points**
 
@@ -290,7 +292,10 @@ Claims about the culture, tagged by tier under the evidence standard above. T1�
 | ID | T1 critics | T2 data | T3 institutions | T4 carriers | Dissent | Verdict |
 |---|---|---|---|---|---|---|
 | C1.1 | (first half: the texts themselves) | — | — | — | — | first half rests on texts; the "calcified" half is C1.2, untested |
-| C1.2 | — | Santos et al. 2017 (complicates: individualist practices and values rose since 1960 in most countries, "not confined to the developed world"; the measures do not capture a Self that admits no rival frame) | — | — | — | `untested`: the data cannot measure the claim as worded; a survey of what authority people recognize above their own choice is needed |
+| C1.2 | — (dissent: Jameson, the subject fragments rather than totalizes) | Santos
+| C1.4 | Jameson (lived layer only) | — (word counts needed) | — | Byrne, Doyle, Brown (the vocabulary) | Jameson is the source of the lived layer and dissents on the rest | `untested` |
+| C1.5 | Jameson | Santos et al. | — | — | — | `untested`: one critic plus one data source; needs a second critic |
+| C10.2 | — | — | — | — | Jameson | `revised`; vocabulary half untested |
 | C5.7 | — | — | — | Byrne (social causes vanish); Brown (against) | — | `illustrated` (was `supported`: no Tier 1 or Tier 2 evidence) |
 | C5.14 | James (stage 1); Rogers (stage 2) | — | *Casey*, *Lawrence*, *Obergefell* (stage 2) | Trine (1); Byrne, Doyle, Brown (3) | — | `illustrated`: stage 2 now has one critic (Rogers) and institutions, short of two critics; stage 3 has carriers only. Needs Rieff, Lasch, Bellah, Taylor; dissent Lunbeck |
 | C6.1 | Tocqueville, Turner, Dewey | *Middletown* | Winthrop's covenant | Crèvecoeur | — (Hartz needed) | meets T1 + T2; stays `revised` until a dissenting historian is read |
