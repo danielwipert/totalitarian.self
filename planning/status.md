@@ -12,33 +12,41 @@
 
 ## The thesis in one page
 
-*Added 2026-10-25; updated 2026-10-28 after the court opinions, Byrne, Brown, Rogers, Doyle, Jameson, Burke and the evidence audit.*
+*Rewritten 2026-10-28, after Rogers, Doyle, Jameson and Burke. Claims are marked by status under the evidence standard (`claims.md`).*
 
-**In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
+### The definition (working: C5.3, untested as a claim about the culture)
 
-**The three original claims**
+The Totalitarian Self is **not a self but a vocabulary**: a terministic screen in Burke's sense. Every vocabulary "must be a selection of reality" and "a deflection of reality" (Burke, p. 45; C5.1, supported). What makes this screen totalitarian are three marks, each from Burke's own criteria:
 
-1. **A realization, not an invention: holds, reshaped.** Not difference but two roots, answerability and self-shaping, both bounded (by God, community, the body, fortune). Difference arrives late (Rousseau to Emerson) and stays framed. Warning sign: for Luther the bondage starts in nature, not in social orders, so the claim that older orders repressed a true Self does not fit every root.
-2. **The Self mutated: the pattern holds; the mutation itself is unproven.** The strongest finding: *the later Self kept the structure and dropped the limit*, in every section, and in Weber's own words (the "light cloak" became "an iron cage"). But philosophy never made the Self its own origin (Nietzsche calls the wish an error of "the half-educated"). The culture did it in stages: the self as *cause* (mind-cure, about 1890; tested); the self as final *judge* of what it answers to, written into law (*Casey*, 1992; tested: the limit is privatized, not dropped); and the self answerable to nothing, with the frame *absorbed and turned around* rather than dropped (Byrne, 2006: "You are God in a physical body"; tested in one carrier). The last stage is the Totalitarian Self proper.
-3. **America the host: holds, sharpened.** A host *by erosion*: voluntary checks (covenant, township, church, associations) that could wear away, and between 1890 and 1930 were redirected, split by class.
+1. **Scope:** a vocabulary of persons who act, "stretched to cover not just its own special field but a more comprehensive area": from the inner life into law, work, religion and love.
+2. **A cut grammar:** it keeps the active person and slights the passive half (conditioning, dependence, "human bondage"), what Burke calls "a drastic kind of vandalism".
+3. **Deafness:** it no longer hears the "rejoinders" of what it names.
 
-**The collision with Jameson (2026-10-28).** The first Tier 1 critic read on the years after 1960, Jameson (1991), finds the subject *dissolving*, not totalizing: "the alienation of the subject is displaced by the latter's fragmentation"; there is "no longer a self present to do the feeling." For him only capital's world system totalizes. The thesis now answers in layers (C1.4, untested): the *lived* subject fragments while the *vocabulary* of the Self grows and admits no rival, an ideology spread over a dissolving centred self. Jameson himself separates "notion (or experience)." The cause after 1960 is shared with late capitalism (C1.5), so the thesis claims the mechanism and the history, not the sole cause (C10.1 challenged). The deciding test is Tier 2: word counts of the Self's vocabulary from 1960 to 2000.
+Not knowing it is a screen does not distinguish it: every screen does that. And because it is a vocabulary, not a self, it can be **total while the person behind it fragments** (C1.4).
 
-**The working definition (Burke, 2026-10-28).** The Totalitarian Self may be best defined not as a self but as a terministic screen (C5.3, untested). Burke supplies three criteria: a screen of persons who act, "stretched to cover not just its own special field but a more comprehensive area"; that has cut away its passive half (conditioning, dependence, "human bondage"), which he calls "a drastic kind of vandalism"; and that no longer hears the "rejoinders" of what it names. That is why it can be total while the lived subject behind it fragments (C1.4). The "feedback loop" (C5.4) is the spec's own idea, not Burke's.
+### The argument in six steps
 
-**The later sections**
+1. **Origin: two bounded roots.** Answerability (Augustine, Petrarch, Luther) and self-shaping (Pico, Castiglione), both bounded by God, community, the body and fortune. The Enlightenment freed the person from *institutions*, not the Self from God or community. *Well sourced (claims about texts).*
+2. **The pattern: structure kept, limit dropped.** Found in every period tested; in Weber's words, the "light cloak" became "an iron cage". Burke gives a version of it: the vocabulary of action with its passive half cut away.
+3. **America, the host by erosion.** Its checks were voluntary (covenant, township, church, association), so they could wear away; between 1890 and 1930 they were redirected, split by class. *Tier 1 critics plus data (Tocqueville, Dewey, Veblen;* Middletown*); still `revised` until a dissenting historian is read.*
+4. **The mutation in three stages (C5.14: `illustrated`).**
+   - *The self as cause* (1890s mind-cure: "Within yourself lies the cause of whatever enters into your life"), still powered by God.
+   - *The self as final judge:* Rogers (1961, Tier 1): "Experience is, for me, the highest authority", though checked by the facts and bounded by a social nature. Then the law: *Casey* (1992), the "right to define one's own concept of existence", with the limit privatized, not dropped.
+   - *The self answerable to nothing:* so far only in popular carriers, in three strands. Absorbed (Byrne: "You are God in a physical body"); inner oracle (Doyle: "I now take orders only from my own Knowing"); bound for support but self-given in worth (Brown).
+5. **Two layers: the answer to Jameson (C1.4, untested).** Jameson (Tier 1, dissent) finds the subject dissolving after 1960: "no longer a self present to do the feeling". Both hold: the *lived* subject fragments while the *vocabulary* of the Self thickens over it. After 1960 the cause is shared with late capitalism (C1.5), so the thesis claims the mechanism and the history, not the sole cause (C10.1 challenged).
+6. **What follows (mostly untested).** Blame comes from making the self the cause (C7.4, `illustrated`). Every age dresses conformity in its highest value word (C8.7, `revised`); the newest dress is the Self itself (C8.2, untested). Carriers that look like opposites share the Self's *form*, not its content (C9.1).
 
-- **Blame (§7): reshaped.** It comes from making the self the cause, before any frame is lost (Smiles, Carnegie, Rockefeller, with God still in place). Isolation and burnout are untested.
-- **Mechanism (§8): narrowed.** Dressing conformity in the age's highest value word is centuries old. What may be new is that the dress becomes the Self itself ("self-expression"), and that is after 1930.
-- **Carriers (§9): reshaped.** Technocrats state their values; the corporation is not a Self; apparent opposites share the Self's form, not its content.
+### How strong it is
 
-**What may be most original now**
+- **Strong:** the origin, the pattern, America's erosion before 1930, and Burke's screen as a framework.
+- **Illustrated only:** the mutation itself (carriers, one Tier 1 voice, the courts).
+- **Against or complicating:** Jameson (the self fragments; only capital totalizes); Santos et al. (individualism rose worldwide since 1960, and the measures cannot capture the Self as the thesis means it); Brown and Rogers (the self stays bound to others).
+- **What may be most original:** *structure kept, limit dropped* traced from 1500; the self as cause long before it is origin; America's checks redirected by class; the Totalitarian Self as a screen, total over a fragmenting subject.
 
-1. *Structure kept, limit dropped*, traced from 1500 to 1930.
-2. The self becomes a cause long before it becomes an origin.
-3. America's checks were redirected by class, not simply lost.
+### The deciding tests
 
-**The honest risk.** The mutation is so far only *illustrated*: three popular carriers (Byrne, Doyle, Brown) and three court opinions that privatize the limit rather than drop it. One Tier 1 voice after 1930 has been read (Rogers, 1961), and he states the self as judge, not as answerable to nothing. No established critic has yet been read on stage 3, so nothing yet shows how widespread the mutation is. It may be partial, or confined to some carriers. The next test is Tier 1: Rieff, Lasch, Bellah and Taylor, with Lunbeck as dissent, and the data (Greenfield, Wetzel, Santos). The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
+1. A **second Tier 1 critic** on stage 3: Rieff, Lasch, Bellah or Taylor, with Lunbeck as dissent.
+2. **Word-count data, 1960–2000:** does the Self's vocabulary grow, and do the words of dependence and obligation fall (Greenfield to start)? This tests C1.4 and all three marks of C5.3.
 
 ---
 
