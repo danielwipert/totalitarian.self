@@ -2,17 +2,17 @@
 
 *Updated 2026-10-27, after the evidence standard and audit (see `claims.md`, "Evidence standard" and "Evidence audit"). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Sources still to pull are in `sources/to-pull.md`.*
 
-**Evidence so far:** 1,321 tagged passages in 71 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,347 tagged passages in 72 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
 
 **Evidence standard (2026-10-27).** One voice is one among millions. A claim about the culture is `supported` only with at least two independent Tier 1 critics (established intellectuals and cultural critics), plus data or institutional evidence, with dissenting critics read and answered. Popular carriers (Byrne, Brown, Smiles, Trine) *illustrate* how the Self speaks; they cannot show how far it has spread. Claims resting on them alone are `illustrated`.
 
-**Claims:** 90 in all. 10 supported, 51 revised after testing, 3 illustrated, 2 challenged, 24 not yet tested.
+**Claims:** 90 in all. 11 supported, 51 revised after testing, 3 illustrated, 2 challenged, 23 not yet tested.
 
 ---
 
 ## The thesis in one page
 
-*Added 2026-10-25; updated 2026-10-28 after the court opinions, Byrne, Brown, Rogers, Doyle, Jameson and the evidence audit.*
+*Added 2026-10-25; updated 2026-10-28 after the court opinions, Byrne, Brown, Rogers, Doyle, Jameson, Burke and the evidence audit.*
 
 **In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
 
@@ -23,6 +23,8 @@
 3. **America the host: holds, sharpened.** A host *by erosion*: voluntary checks (covenant, township, church, associations) that could wear away, and between 1890 and 1930 were redirected, split by class.
 
 **The collision with Jameson (2026-10-28).** The first Tier 1 critic read on the years after 1960, Jameson (1991), finds the subject *dissolving*, not totalizing: "the alienation of the subject is displaced by the latter's fragmentation"; there is "no longer a self present to do the feeling." For him only capital's world system totalizes. The thesis now answers in layers (C1.4, untested): the *lived* subject fragments while the *vocabulary* of the Self grows and admits no rival, an ideology spread over a dissolving centred self. Jameson himself separates "notion (or experience)." The cause after 1960 is shared with late capitalism (C1.5), so the thesis claims the mechanism and the history, not the sole cause (C10.1 challenged). The deciding test is Tier 2: word counts of the Self's vocabulary from 1960 to 2000.
+
+**The working definition (Burke, 2026-10-28).** The Totalitarian Self may be best defined not as a self but as a terministic screen (C5.3, untested). Burke supplies three criteria: a screen of persons who act, "stretched to cover not just its own special field but a more comprehensive area"; that has cut away its passive half (conditioning, dependence, "human bondage"), which he calls "a drastic kind of vandalism"; and that no longer hears the "rejoinders" of what it names. That is why it can be total while the lived subject behind it fragments (C1.4). The "feedback loop" (C5.4) is the spec's own idea, not Burke's.
 
 **The later sections**
 
@@ -125,11 +127,11 @@ Simmel (1904) already has the cycle and conformity felt as individuality, but fo
 
 ## Claims by status
 
-- **Supported (10):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C6.10, C6.11, C7.1
+- **Supported (11):** C4.4, C4.6, C4.9, C4.10, C4.22, C4.25, C4.29, C6.10, C6.11, C7.1, C5.1
 - **Revised after testing (51):** C1.1, C4.1, C4.2, C4.3, C4.5, C4.7, C4.8, C4.11, C4.12, C4.13, C4.14, C4.15, C4.16, C4.17, C4.18, C4.19, C4.20, C4.21, C4.23, C4.24, C4.26, C4.27, C4.28, C4.30, C4.31, C5.8, C5.9, C5.10, C5.11, C5.12, C5.13, C6.1, C6.2, C6.3, C6.4, C6.5, C6.7, C6.12, C6.13, C8.1, C8.4, C8.6, C8.7, C9.1, C9.2, C9.3, C9.4, C9.5, C9.6, C9.8, C10.2
 - **Illustrated, not yet meeting the evidence standard (3):** C5.7, C5.14, C7.4
 - **Challenged (2):** C6.9, C10.1
-- **Untested (24):** C1.2, C1.3, C1.4, C1.5, C5.1, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.2, C8.3, C8.5, C9.7
+- **Untested (23):** C1.2, C1.3, C1.4, C1.5, C5.2, C5.3, C5.4, C5.5, C5.6, C6.6, C6.8, C7.2, C7.3, C7.5, C7.6, C7.7, C7.8, C7.9, C7.10, C8.2, C8.3, C8.5, C9.7
 
 ## The biggest gaps
 
