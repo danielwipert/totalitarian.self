@@ -2,7 +2,7 @@
 
 *Updated 2026-10-27, after the evidence standard and audit (see `claims.md`, "Evidence standard" and "Evidence audit"). Reasons for every change are in `decisions.md`; the claims themselves are in `claims.md`. Sources still to pull are in `sources/to-pull.md`.*
 
-**Evidence so far:** 1,238 tagged passages in 68 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
+**Evidence so far:** 1,291 tagged passages in 70 source files (`sources/primary/`), every quotation checked against the texts in `sources/texts/` and `sources/excerpts/` with `tools/check_quotes.py`.
 
 **Evidence standard (2026-10-27).** One voice is one among millions. A claim about the culture is `supported` only with at least two independent Tier 1 critics (established intellectuals and cultural critics), plus data or institutional evidence, with dissenting critics read and answered. Popular carriers (Byrne, Brown, Smiles, Trine) *illustrate* how the Self speaks; they cannot show how far it has spread. Claims resting on them alone are `illustrated`.
 
@@ -12,7 +12,7 @@
 
 ## The thesis in one page
 
-*Added 2026-10-25; updated 2026-10-27 after the court opinions, Byrne, Brown and the evidence audit.*
+*Added 2026-10-25; updated 2026-10-28 after the court opinions, Byrne, Brown, Rogers, Doyle and the evidence audit.*
 
 **In short.** The first half of the thesis (how the Self formed, and how its limits fell away) is now well sourced and supported in revised form. The second half (that it *calcified into a totalizing dogma*, C1.2, C1.3) is what makes it "totalitarian", and it is still unproven. Through 1930, every text we have read still shows the Self with a limit. The decisive evidence, if it exists, is after 1930.
 
@@ -34,7 +34,7 @@
 2. The self becomes a cause long before it becomes an origin.
 3. America's checks were redirected by class, not simply lost.
 
-**The honest risk.** The mutation is so far only *illustrated*: two popular carriers (Byrne, 2006, the extreme; Brown, 2012, bound to others but self-given in worth) and three court opinions that privatize the limit rather than drop it. No established critic has yet been read on the period after 1930, so nothing yet shows how widespread the mutation is. It may be partial, or confined to some carriers. The next test is Tier 1: Rieff, Lasch, Bellah and Taylor, with Lunbeck as dissent, and the data (Greenfield, Wetzel, Santos). The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
+**The honest risk.** The mutation is so far only *illustrated*: three popular carriers (Byrne, Doyle, Brown) and three court opinions that privatize the limit rather than drop it. One Tier 1 voice after 1930 has been read (Rogers, 1961), and he states the self as judge, not as answerable to nothing. No established critic has yet been read on stage 3, so nothing yet shows how widespread the mutation is. It may be partial, or confined to some carriers. The next test is Tier 1: Rieff, Lasch, Bellah and Taylor, with Lunbeck as dissent, and the data (Greenfield, Wetzel, Santos). The thesis now stands or falls on the post-1930 excerpts (`sources/excerpts-needed.md`): Rogers, Rieff, Riesman and Lasch, and the carriers in their own voices (Byrne, Doyle), for the last stage (C5.14), and Burke for the language tool the essay uses to explain how the Self crowds out other frames (C5.1, C5.4).
 
 ---
 
@@ -70,8 +70,8 @@ From Rousseau to Emerson, difference becomes a value ("I am not made like any on
 ### 5. The culture made the self a cause, then a judge, then answerable to nothing (C5.14)
 
 - **Step 1, illustrated** (one critic, William James, plus carriers): the 1890s mind-cure movement made the self the *cause* of its conditions ("Within yourself lies the cause of whatever enters into your life"), still powered by a borrowed Infinite. William James called it America's "only decidedly original contribution to the systematic philosophy of life."
-- **Step 2, shown in law** (Tier 3, no critic yet): the self becomes the final *judge* of what it answers to: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992). The limit is privatized, not dropped: the decision stays "fraught with consequences for others," and by 2015 meaning is placed in a bond, "a two-person union unlike any other" (*Obergefell*). The dissents charge that the Self is becoming the only frame the law allows; in 2015 that is a forecast.
-- **Step 3, illustrated** (two carriers, no critic yet): in Byrne's *The Secret* (2006) the self answers to nothing, not because the frame is dropped but because it is absorbed and turned around. The Universe and its law are still named on almost every page, but identified with the self ("You are God in a physical body") and set to serve it (the Genie's "Your wish is my command"). Answerability is gone: "no one will stand in judgment of it, now or ever" (Walsch). Compared with Trine (1897), man no longer differs from God "in degree"; he is God. But it is a strand, not the whole culture. Brown's *Daring Greatly* (2012), a mainstream bestseller, has no cosmic frame and rejects going it alone: we are "hardwired to connect" and "simply can't" learn courage on our own. What she shares with Byrne is worth with no giver: the Wholehearted "simply believe they are worthy of love and belonging." Bound to others for support, answerable to no one for worth. Which strand dominates, and how far either has spread, is untested: that needs Tier 1 critics and data.
+- **Step 2, one critic and the law** (Tier 1: Rogers; Tier 3: the courts): the self becomes the final *judge* of what it answers to. Rogers (1961): "Experience is, for me, the highest authority", but experience is checked ("The facts are friendly") and the trusted nature is social. He keeps Kierkegaard's "to be that self which one truly is" without its ground in God, and in 1961 he calls his path "decidedly at variance" with the culture. The law follows: the "right to define one's own concept of existence, of meaning, of the universe, and of the mystery of human life" (*Casey*, 1992), with the limit privatized, not dropped.
+- **Step 3, illustrated** (three carriers, no critic yet): the self answerable to nothing appears in three strands. *Absorbed:* the frame is identified with the self (Byrne, 2006: "You are God in a physical body"). *Inner oracle:* God is taken inside and left undecided (Doyle, 2020: "I now take orders only from my own Knowing"; asked whether she is just talking to herself, "Maybe"). *Bound for support, self-given in worth:* (Brown, 2012: "hardwired to connect", yet the Wholehearted "simply believe they are worthy of love and belonging"). How far any strand has spread is untested: that needs Tier 1 critics and data.
 
 ### 6. Blame comes from making the self the cause (§7)
 
